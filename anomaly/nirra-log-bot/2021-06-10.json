@@ -1,0 +1,303 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348167452875\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 877 897\\\"}\"]",
+        "ts": "1623311274.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623311274.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS SETTLEMENT INFO]:\",\"{\\\"sessionId\\\":\\\"000014210610091301262503389094\\\",\\\"accountNumber\\\":\\\"9979840572\\\",\\\"tranRemarks\\\":\\\"FROM ACCESS\/ TITILAYO MARGARET FATUNMBI-NIP\/ussd\/IFT114413267786380539760035132\/000014210610091301262503389094\\\",\\\"transactionAmount\\\":\\\"500\\\",\\\"settledAmount\\\":\\\"500\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"null\\\",\\\"settlementId\\\":\\\"209210610000126400001\\\",\\\"sourceAccountNumber\\\":\\\"0707949259\\\",\\\"sourceAccountName\\\":\\\"TITILAYO MARGARET FATUNMBI\\\",\\\"sourceBankName\\\":\\\"ACCESS BANK\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-06-10 09:11:49\\\"}\"]",
+        "ts": "1623312790.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"mtn\\\",\\\"amount\\\":100,\\\"phone\\\":\\\"09036153393\\\",\\\"request_id\\\":\\\"09036153393-1623312856303\\\"}\"]",
+        "ts": "1623312856.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"MTN Airtime VTU\\\",\\\"unique_element\\\":\\\"09036153393\\\",\\\"unit_price\\\":100,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":3,\\\"total_amount\\\":97,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":100,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16233128567051831521610868\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"09036153393-1623312856303\\\",\\\"amount\\\":\\\"100.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-06-10 09:14:16.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1623312857.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349801885672\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 788 114\\\"}\"]",
+        "ts": "1623322280.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1623322280.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348037105350\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 206 564\\\"}\"]",
+        "ts": "1623325894.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623325895.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"mtn\\\",\\\"amount\\\":100,\\\"phone\\\":\\\"08132976934\\\",\\\"request_id\\\":\\\"09036153393-1623332572431\\\"}\"]",
+        "ts": "1623332572.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"MTN Airtime VTU\\\",\\\"unique_element\\\":\\\"08132976934\\\",\\\"unit_price\\\":100,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":3,\\\"total_amount\\\":97,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":100,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16233325728209281918884388\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"09036153393-1623332572431\\\",\\\"amount\\\":\\\"100.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-06-10 14:42:52.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1623332573.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347069473119\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 355 894\\\"}\"]",
+        "ts": "1623332796.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623332796.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347069473119\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 161 016\\\"}\"]",
+        "ts": "1623333039.001200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623333039.001300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347069473119\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 199 890\\\"}\"]",
+        "ts": "1623333140.001400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623333140.001500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348020757977\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 902 771\\\"}\"]",
+        "ts": "1623333171.001600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623333175.001700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347069473119\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 161 944\\\"}\"]",
+        "ts": "1623333360.001800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623333360.001900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347033345967\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 404 106\\\"}\"]",
+        "ts": "1623335336.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623335336.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348064242586\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 630 652\\\"}\"]",
+        "ts": "1623339941.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623339941.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348032357528\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 605 307\\\"}\"]",
+        "ts": "1623341038.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623341038.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"ADEYEMO SAMUEL OLUWATUNMISE\\\",\\\"beneficiaryAccountNumber\\\":\\\"0017674260\\\",\\\"beneficiaryBank\\\":\\\"000013\\\",\\\"transactionAmount\\\":\\\"2500\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"08066738373-1623345288894\\\"}\"]",
+        "ts": "1623345288.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"08066738373-1623345288894\\\",\\\"sessionId\\\":\\\"000023210610181447005008165497\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1623345294.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349037206717\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 918 248\\\"}\"]",
+        "ts": "1623347271.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623347271.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348162755025\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 513 490\\\"}\"]",
+        "ts": "1623348782.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623348782.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349098697709\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 978 881\\\"}\"]",
+        "ts": "1623353530.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1623353530.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"OLAMIDE TEMITOPE FASHOLA\\\",\\\"beneficiaryAccountNumber\\\":\\\"0044682444\\\",\\\"beneficiaryBank\\\":\\\"000014\\\",\\\"transactionAmount\\\":\\\"5000\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"08154430154-1623354027342\\\"}\"]",
+        "ts": "1623354027.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"08154430154-1623354027342\\\",\\\"sessionId\\\":\\\"000023210610204025005008170628\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1623354030.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"airtel\\\",\\\"amount\\\":1000,\\\"phone\\\":\\\"09041322313\\\",\\\"request_id\\\":\\\"08154430154-1623354096275\\\"}\"]",
+        "ts": "1623354096.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"Airtel Airtime VTU\\\",\\\"unique_element\\\":\\\"09041322313\\\",\\\"unit_price\\\":1000,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":40,\\\"total_amount\\\":960,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":1000,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16233540966832104342784869\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08154430154-1623354096275\\\",\\\"amount\\\":\\\"1000.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-06-10 20:41:36.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1623354097.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347063920351\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 715 232\\\"}\"]",
+        "ts": "1623367941.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1623367942.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"mtn\\\",\\\"amount\\\":1000,\\\"phone\\\":\\\"08033984930\\\",\\\"request_id\\\":\\\"08033984930-1623394603225\\\"}\"]",
+        "ts": "1623394603.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"MTN Airtime VTU\\\",\\\"unique_element\\\":\\\"08033984930\\\",\\\"unit_price\\\":1000,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":30,\\\"total_amount\\\":970,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":1000,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16233946036242120763644451\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08033984930-1623394603225\\\",\\\"amount\\\":\\\"1000.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-06-11 07:56:43.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1623394604.000200",
+        "bot_id": "B01RC3AKYG6"
+    }
+]

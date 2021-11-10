@@ -1,0 +1,737 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"airtel\\\",\\\"amount\\\":1000,\\\"phone\\\":\\\"08023105039\\\",\\\"request_id\\\":\\\"08023105039-1620027623897\\\"}\"]",
+        "ts": "1620027623.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"pending\\\",\\\"product_name\\\":\\\"Airtel Airtime VTU\\\",\\\"unique_element\\\":\\\"08023105039\\\",\\\"unit_price\\\":1000,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":40,\\\"total_amount\\\":960,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":1000,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16200276243458688684669706\\\"}},\\\"response_description\\\":\\\"TRANSACTION PROCESSING - PENDING\\\",\\\"requestId\\\":\\\"08023105039-1620027623897\\\",\\\"amount\\\":\\\"1000.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-05-03 08:40:24.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1620027624.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"airtel\\\",\\\"amount\\\":1500,\\\"phone\\\":\\\"08029721135\\\",\\\"request_id\\\":\\\"08033984930-1620034048944\\\"}\"]",
+        "ts": "1620034049.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"pending\\\",\\\"product_name\\\":\\\"Airtel Airtime VTU\\\",\\\"unique_element\\\":\\\"08029721135\\\",\\\"unit_price\\\":1500,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":60,\\\"total_amount\\\":1440,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":1500,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16200340493818625185275956\\\"}},\\\"response_description\\\":\\\"TRANSACTION PROCESSING - PENDING\\\",\\\"requestId\\\":\\\"08033984930-1620034048944\\\",\\\"amount\\\":\\\"1500.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-05-03 10:27:29.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1620034049.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[LEADWAY PAYLOAD]:\",\"{}\"]",
+        "ts": "1620034953.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[LEADWAY SUCCESS]:\",\"{\\\"errorMsg\\\":\\\"\\\",\\\"signature\\\":\\\"\\\",\\\"success\\\":true,\\\"vehicleMake\\\":[{\\\"id\\\":\\\"127\\\",\\\"makeName\\\":\\\"35CMB\\\"},{\\\"id\\\":\\\"152\\\",\\\"makeName\\\":\\\"AC ATUL\\\"},{\\\"id\\\":\\\"228\\\",\\\"makeName\\\":\\\"ACE\\\"},{\\\"id\\\":\\\"147\\\",\\\"makeName\\\":\\\"ACURA\\\"},{\\\"id\\\":\\\"8\\\",\\\"makeName\\\":\\\"ALPHA ROMEO\\\"},{\\\"id\\\":\\\"106\\\",\\\"makeName\\\":\\\"APACHE\\\"},{\\\"id\\\":\\\"210\\\",\\\"makeName\\\":\\\"ASHOK LEYLAND\\\"},{\\\"id\\\":\\\"80\\\",\\\"makeName\\\":\\\"ASTRA\\\"},{\\\"id\\\":\\\"3\\\",\\\"makeName\\\":\\\"AUDI\\\"},{\\\"id\\\":\\\"128\\\",\\\"makeName\\\":\\\"AUSTIN\\\"},{\\\"id\\\":\\\"109\\\",\\\"makeName\\\":\\\"BACK HOE\\\"},{\\\"id\\\":\\\"9\\\",\\\"makeName\\\":\\\"BADFORD\\\"},{\\\"id\\\":\\\"68\\\",\\\"makeName\\\":\\\"BAJAJ\\\"},{\\\"id\\\":\\\"218\\\",\\\"makeName\\\":\\\"BASUKI\\\"},{\\\"id\\\":\\\"248\\\",\\\"makeName\\\":\\\"BAW\\\"},{\\\"id\\\":\\\"244\\\",\\\"makeName\\\":\\\"BEDFORD\\\"},{\\\"id\\\":\\\"84\\\",\\\"makeName\\\":\\\"BEIBEN\\\"},{\\\"id\\\":\\\"195\\\",\\\"makeName\\\":\\\"BELL\\\"},{\\\"id\\\":\\\"174\\\",\\\"makeName\\\":\\\"BENTLEY\\\"},{\\\"id\\\":\\\"75\\\",\\\"makeName\\\":\\\"BHACHU\\\"},{\\\"id\\\":\\\"262\\\",\\\"makeName\\\":\\\"BIKEMASTER\\\"},{\\\"id\\\":\\\"92\\\",\\\"makeName\\\":\\\"BLUE BIRD\\\"},{\\\"id\\\":\\\"7\\\",\\\"makeName\\\":\\\"BMW\\\"},{\\\"id\\\":\\\"10\\\",\\\"makeName\\\":\\\"BOBCAT\\\"},{\\\"id\\\":\\\"290\\\",\\\"makeName\\\":\\\"BOVA\\\"},{\\\"id\\\":\\\"126\\\",\\\"makeName\\\":\\\"BPW\\\"},{\\\"id\\\":\\\"269\\\",\\\"makeName\\\":\\\"BRILLIANCE\\\"},{\\\"id\\\":\\\"182\\\",\\\"makeName\\\":\\\"BUICK\\\"},{\\\"id\\\":\\\"11\\\",\\\"makeName\\\":\\\"CADILLAC\\\"},{\\\"id\\\":\\\"12\\\",\\\"makeName\\\":\\\"CAM\\\"},{\\\"id\\\":\\\"284\\\",\\\"makeName\\\":\\\"CANTER FUSO\\\"},{\\\"id\\\":\\\"89\\\",\\\"makeName\\\":\\\"CAPTAIN\\\"},{\\\"id\\\":\\\"217\\\",\\\"makeName\\\":\\\"CARTER PEN\\\"},{\\\"id\\\":\\\"13\\\",\\\"makeName\\\":\\\"CAT\\\"},{\\\"id\\\":\\\"239\\\",\\\"makeName\\\":\\\"CATERPILLAR\\\"},{\\\"id\\\":\\\"254\\\",\\\"makeName\\\":\\\"CHANA STAR\\\"},{\\\"id\\\":\\\"142\\\",\\\"makeName\\\":\\\"CHANGAN\\\"},{\\\"id\\\":\\\"223\\\",\\\"makeName\\\":\\\"CHANGFENG\\\"},{\\\"id\\\":\\\"141\\\",\\\"makeName\\\":\\\"CHERRY\\\"},{\\\"id\\\":\\\"283\\\",\\\"makeName\\\":\\\"CHERY\\\"},{\\\"id\\\":\\\"14\\\",\\\"makeName\\\":\\\"CHEVROLET\\\"},{\\\"id\\\":\\\"15\\\",\\\"makeName\\\":\\\"CHRYSLER\\\"},{\\\"id\\\":\\\"16\\\",\\\"makeName\\\":\\\"CITROEN\\\"},{\\\"id\\\":\\\"104\\\",\\\"makeName\\\":\\\"CLAAS\\\"},{\\\"id\\\":\\\"17\\\",\\\"makeName\\\":\\\"CMC\\\"},{\\\"id\\\":\\\"181\\\",\\\"makeName\\\":\\\"COMMER\\\"},{\\\"id\\\":\\\"129\\\",\\\"makeName\\\":\\\"CPCD\\\"},{\\\"id\\\":\\\"275\\\",\\\"makeName\\\":\\\"DACIA\\\"},{\\\"id\\\":\\\"18\\\",\\\"makeName\\\":\\\"DAEWOO\\\"},{\\\"id\\\":\\\"138\\\",\\\"makeName\\\":\\\"DAF\\\"},{\\\"id\\\":\\\"19\\\",\\\"makeName\\\":\\\"DAIHATSU\\\"},{\\\"id\\\":\\\"131\\\",\\\"makeName\\\":\\\"DALIAN\\\"},{\\\"id\\\":\\\"190\\\",\\\"makeName\\\":\\\"DATSUN\\\"},{\\\"id\\\":\\\"191\\\",\\\"makeName\\\":\\\"DAVE\\\"},{\\\"id\\\":\\\"161\\\",\\\"makeName\\\":\\\"DAYLONG\\\"},{\\\"id\\\":\\\"99\\\",\\\"makeName\\\":\\\"DAYUN\\\"},{\\\"id\\\":\\\"158\\\",\\\"makeName\\\":\\\"DEGAB\\\"},{\\\"id\\\":\\\"179\\\",\\\"makeName\\\":\\\"DENNIS\\\"},{\\\"id\\\":\\\"150\\\",\\\"makeName\\\":\\\"DENSTAR\\\"},{\\\"id\\\":\\\"216\\\",\\\"makeName\\\":\\\"DFAC\\\"},{\\\"id\\\":\\\"270\\\",\\\"makeName\\\":\\\"DFM\\\"},{\\\"id\\\":\\\"243\\\",\\\"makeName\\\":\\\"DIAMOND REO\\\"},{\\\"id\\\":\\\"183\\\",\\\"makeName\\\":\\\"DODGE\\\"},{\\\"id\\\":\\\"74\\\",\\\"makeName\\\":\\\"DOLL\\\"},{\\\"id\\\":\\\"88\\\",\\\"makeName\\\":\\\"DONGFENG\\\"},{\\\"id\\\":\\\"132\\\",\\\"makeName\\\":\\\"DOOSAN\\\"},{\\\"id\\\":\\\"20\\\",\\\"makeName\\\":\\\"DUCATI\\\"},{\\\"id\\\":\\\"280\\\",\\\"makeName\\\":\\\"EAGLE\\\"},{\\\"id\\\":\\\"21\\\",\\\"makeName\\\":\\\"EICHER\\\"},{\\\"id\\\":\\\"110\\\",\\\"makeName\\\":\\\"ELITE\\\"},{\\\"id\\\":\\\"249\\\",\\\"makeName\\\":\\\"ENGLON\\\"},{\\\"id\\\":\\\"250\\\",\\\"makeName\\\":\\\"ENGLON \\\"},{\\\"id\\\":\\\"240\\\",\\\"makeName\\\":\\\"E-ONE\\\"},{\\\"id\\\":\\\"186\\\",\\\"makeName\\\":\\\"EVERLAST\\\"},{\\\"id\\\":\\\"176\\\",\\\"makeName\\\":\\\"FALCON\\\"},{\\\"id\\\":\\\"70\\\",\\\"makeName\\\":\\\"FAW\\\"},{\\\"id\\\":\\\"22\\\",\\\"makeName\\\":\\\"FIAT\\\"},{\\\"id\\\":\\\"256\\\",\\\"makeName\\\":\\\"FIORI\\\"},{\\\"id\\\":\\\"133\\\",\\\"makeName\\\":\\\"FLATBED\\\"},{\\\"id\\\":\\\"23\\\",\\\"makeName\\\":\\\"FORD\\\"},{\\\"id\\\":\\\"222\\\",\\\"makeName\\\":\\\"FORLAND\\\"},{\\\"id\\\":\\\"24\\\",\\\"makeName\\\":\\\"FOTON\\\"},{\\\"id\\\":\\\"148\\\",\\\"makeName\\\":\\\"FRAJEND\\\"},{\\\"id\\\":\\\"170\\\",\\\"makeName\\\":\\\"FREIGHTLINER\\\"},{\\\"id\\\":\\\"151\\\",\\\"makeName\\\":\\\"FUSO\\\"},{\\\"id\\\":\\\"164\\\",\\\"makeName\\\":\\\"GAC\\\"},{\\\"id\\\":\\\"226\\\",\\\"makeName\\\":\\\"GEELY\\\"},{\\\"id\\\":\\\"213\\\",\\\"makeName\\\":\\\"GENIE \\\"},{\\\"id\\\":\\\"277\\\",\\\"makeName\\\":\\\"GENLYON\\\"},{\\\"id\\\":\\\"162\\\",\\\"makeName\\\":\\\"GMC\\\"},{\\\"id\\\":\\\"268\\\",\\\"makeName\\\":\\\"GOLDEN DRAGON\\\"},{\\\"id\\\":\\\"291\\\",\\\"makeName\\\":\\\"GONOW\\\"},{\\\"id\\\":\\\"286\\\",\\\"makeName\\\":\\\"GRAND CHEROKEE\\\"},{\\\"id\\\":\\\"115\\\",\\\"makeName\\\":\\\"GRAY ADAMS\\\"},{\\\"id\\\":\\\"184\\\",\\\"makeName\\\":\\\"GREATWALL\\\"},{\\",
+        "ts": "1620034956.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "\"id\\\":\\\"124\\\",\\\"makeName\\\":\\\"GROVE\\\"},{\\\"id\\\":\\\"224\\\",\\\"makeName\\\":\\\"HAIMA\\\"},{\\\"id\\\":\\\"230\\\",\\\"makeName\\\":\\\"HANGCHA\\\"},{\\\"id\\\":\\\"67\\\",\\\"makeName\\\":\\\"HAOJIN\\\"},{\\\"id\\\":\\\"212\\\",\\\"makeName\\\":\\\"HAOJUE\\\"},{\\\"id\\\":\\\"282\\\",\\\"makeName\\\":\\\"Haojue elegant\\\"},{\\\"id\\\":\\\"116\\\",\\\"makeName\\\":\\\"HAWK\\\"},{\\\"id\\\":\\\"107\\\",\\\"makeName\\\":\\\"HERO\\\"},{\\\"id\\\":\\\"271\\\",\\\"makeName\\\":\\\"HIGER\\\"},{\\\"id\\\":\\\"25\\\",\\\"makeName\\\":\\\"HINO\\\"},{\\\"id\\\":\\\"98\\\",\\\"makeName\\\":\\\"HITACHI\\\"},{\\\"id\\\":\\\"26\\\",\\\"makeName\\\":\\\"HONDA\\\"},{\\\"id\\\":\\\"279\\\",\\\"makeName\\\":\\\"HONGYAN GENLYON\\\"},{\\\"id\\\":\\\"103\\\",\\\"makeName\\\":\\\"HOUSEHAM\\\"},{\\\"id\\\":\\\"160\\\",\\\"makeName\\\":\\\"HOWO\\\"},{\\\"id\\\":\\\"114\\\",\\\"makeName\\\":\\\"HTL\\\"},{\\\"id\\\":\\\"117\\\",\\\"makeName\\\":\\\"HUBEI\\\"},{\\\"id\\\":\\\"27\\\",\\\"makeName\\\":\\\"HUMMER\\\"},{\\\"id\\\":\\\"90\\\",\\\"makeName\\\":\\\"HYSTER\\\"},{\\\"id\\\":\\\"28\\\",\\\"makeName\\\":\\\"HYUNDAI\\\"},{\\\"id\\\":\\\"154\\\",\\\"makeName\\\":\\\"INFINITI\\\"},{\\\"id\\\":\\\"146\\\",\\\"makeName\\\":\\\"INNOSON\\\"},{\\\"id\\\":\\\"163\\\",\\\"makeName\\\":\\\"INTERNATIONAL\\\"},{\\\"id\\\":\\\"233\\\",\\\"makeName\\\":\\\"INTERNATIONAL TRANSTAR\\\"},{\\\"id\\\":\\\"29\\\",\\\"makeName\\\":\\\"ISUZU\\\"},{\\\"id\\\":\\\"71\\\",\\\"makeName\\\":\\\"IVECO\\\"},{\\\"id\\\":\\\"85\\\",\\\"makeName\\\":\\\"JAC\\\"},{\\\"id\\\":\\\"30\\\",\\\"makeName\\\":\\\"JAGUAR\\\"},{\\\"id\\\":\\\"229\\\",\\\"makeName\\\":\\\"JCB\\\"},{\\\"id\\\":\\\"31\\\",\\\"makeName\\\":\\\"JEEP\\\"},{\\\"id\\\":\\\"276\\\",\\\"makeName\\\":\\\"JET\\\"},{\\\"id\\\":\\\"235\\\",\\\"makeName\\\":\\\"JIN BEI\\\"},{\\\"id\\\":\\\"252\\\",\\\"makeName\\\":\\\"JINBEI  \\\"},{\\\"id\\\":\\\"258\\\",\\\"makeName\\\":\\\"JINCHENG\\\"},{\\\"id\\\":\\\"200\\\",\\\"makeName\\\":\\\"JMC\\\"},{\\\"id\\\":\\\"83\\\",\\\"makeName\\\":\\\"JOHN DEERE\\\"},{\\\"id\\\":\\\"178\\\",\\\"makeName\\\":\\\"JOYLONG\\\"},{\\\"id\\\":\\\"219\\\",\\\"makeName\\\":\\\"KASEE\\\"},{\\\"id\\\":\\\"189\\\",\\\"makeName\\\":\\\"KAWASAKI\\\"},{\\\"id\\\":\\\"123\\\",\\\"makeName\\\":\\\"KAYAK\\\"},{\\\"id\\\":\\\"265\\\",\\\"makeName\\\":\\\"KEEWAY\\\"},{\\\"id\\\":\\\"214\\\",\\\"makeName\\\":\\\"KEEWAY HANDY\\\"},{\\\"id\\\":\\\"287\\\",\\\"makeName\\\":\\\"KENWORTH\\\"},{\\\"id\\\":\\\"196\\\",\\\"makeName\\\":\\\"KG PLATE\\\"},{\\\"id\\\":\\\"32\\\",\\\"makeName\\\":\\\"KIA\\\"},{\\\"id\\\":\\\"79\\\",\\\"makeName\\\":\\\"KIBO\\\"},{\\\"id\\\":\\\"112\\\",\\\"makeName\\\":\\\"KING BIRD\\\"},{\\\"id\\\":\\\"208\\\",\\\"makeName\\\":\\\"KING LONG\\\"},{\\\"id\\\":\\\"177\\\",\\\"makeName\\\":\\\"KINGKAN\\\"},{\\\"id\\\":\\\"94\\\",\\\"makeName\\\":\\\"KTM\\\"},{\\\"id\\\":\\\"93\\\",\\\"makeName\\\":\\\"KUBOTA\\\"},{\\\"id\\\":\\\"167\\\",\\\"makeName\\\":\\\"KYMSTONE\\\"},{\\\"id\\\":\\\"33\\\",\\\"makeName\\\":\\\"LAND ROVER\\\"},{\\\"id\\\":\\\"241\\\",\\\"makeName\\\":\\\"LANSING\\\"},{\\\"id\\\":\\\"156\\\",\\\"makeName\\\":\\\"LDV\\\"},{\\\"id\\\":\\\"139\\\",\\\"makeName\\\":\\\"LEXUS\\\"},{\\\"id\\\":\\\"205\\\",\\\"makeName\\\":\\\"LEYLAND\\\"},{\\\"id\\\":\\\"34\\\",\\\"makeName\\\":\\\"LEYLAND DAF\\\"},{\\\"id\\\":\\\"35\\\",\\\"makeName\\\":\\\"LIEBHERR\\\"},{\\\"id\\\":\\\"91\\\",\\\"makeName\\\":\\\"LIFAN\\\"},{\\\"id\\\":\\\"206\\\",\\\"makeName\\\":\\\"LINCOLN\\\"},{\\\"id\\\":\\\"242\\\",\\\"makeName\\\":\\\"LINDE\\\"},{\\\"id\\\":\\\"166\\\",\\\"makeName\\\":\\\"LINGKEN\\\"},{\\\"id\\\":\\\"187\\\",\\\"makeName\\\":\\\"LML STAR\\\"},{\\\"id\\\":\\\"66\\\",\\\"makeName\\\":\\\"LOCAL\\\"},{\\\"id\\\":\\\"227\\\",\\\"makeName\\\":\\\"LOCATELLI\\\"},{\\\"id\\\":\\\"136\\\",\\\"makeName\\\":\\\"MACK\\\"},{\\\"id\\\":\\\"36\\\",\\\"makeName\\\":\\\"MAHINDRA\\\"},{\\\"id\\\":\\\"82\\\",\\\"makeName\\\":\\\"MAN\\\"},{\\\"id\\\":\\\"330\\\",\\\"makeName\\\":\\\"MAN DIESEL\\\"},{\\\"id\\\":\\\"331\\\",\\\"makeName\\\":\\\"MANDIESEL\\\"},{\\\"id\\\":\\\"236\\\",\\\"makeName\\\":\\\"MANITOU\\\"},{\\\"id\\\":\\\"153\\\",\\\"makeName\\\":\\\"MARS\\\"},{\\\"id\\\":\\\"37\\\",\\\"makeName\\\":\\\"MARUTI\\\"},{\\\"id\\\":\\\"238\\\",\\\"makeName\\\":\\\"MASERATI\\\"},{\\\"id\\\":\\\"102\\\",\\\"makeName\\\":\\\"MASSEY FERGUSON\\\"},{\\\"id\\\":\\\"38\\\",\\\"makeName\\\":\\\"MAZDA\\\"},{\\\"id\\\":\\\"39\\\",\\\"makeName\\\":\\\"MERCEDES\\\"},{\\\"id\\\":\\\"188\\\",\\\"makeName\\\":\\\"MERCEDES BENZ\\\"},{\\\"id\\\":\\\"225\\\",\\\"makeName\\\":\\\"MERCURY\\\"},{\\\"id\\\":\\\"257\\\",\\\"makeName\\\":\\\"MERLO S.P.A\\\"},{\\\"id\\\":\\\"122\\\",\\\"makeName\\\":\\\"MEYLUN\\\"},{\\\"id\\\":\\\"169\\\",\\\"makeName\\\":\\\"MG 5\\\"},{\\\"id\\\":\\\"288\\\",\\\"makeName\\\":\\\"MIKANO\\\"},{\\\"id\\\":\\\"120\\\",\\\"makeName\\\":\\\"MINGWEI\\\"},{\\\"id\\\":\\\"140\\\",\\\"makeName\\\":\\\"MINI\\\"},{\\\"id\\\":\\\"2\\\",\\\"makeName\\\":\\\"MITSUBISHI\\\"},{\\\"id\\\":\\\"204\\\",\\\"makeName\\\":\\\"MORRIS\\\"},{\\\"id\\\":\\\"259\\\",\\\"makeName\\\":\\\"MOTOBI\\\"},{\\\"id\\\":\\\"267\\\",\\\"makeName\\\":\\\"MUONER\\\"},{\\\"id\\\":\\\"285\\\",\\\"makeName\\\":\\\"MV\\\"},{\\\"id\\\":\\\"199\\\",\\\"makeName\\\":\\\"NANFANG\\\"},{\\\"id\\\":\\\"40\\\",\\\"makeName\\\":\\\"NEW HOLLAND\\\"},{\\\"id\\\":\\\"41\\\",\\\"makeName\\\":\\\"NISSAN\\\"},{\\\"id\\\":\\\"42\\\",\\\"makeName\\\":\\\"OPEL\\\"},{\\\"id\\\":\\\"289\\\",\\\"makeName\\\":\\\"PETERBILT\\\"},{\\\"id\\\":\\\"43\\\",\\",
+        "ts": "1620034956.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "\"makeName\\\":\\\"PEUGEOT\\\"},{\\\"id\\\":\\\"105\\\",\\\"makeName\\\":\\\"PIAGGIO\\\"},{\\\"id\\\":\\\"261\\\",\\\"makeName\\\":\\\"POLARSUN\\\"},{\\\"id\\\":\\\"159\\\",\\\"makeName\\\":\\\"PONTIAC\\\"},{\\\"id\\\":\\\"44\\\",\\\"makeName\\\":\\\"PORSCHE\\\"},{\\\"id\\\":\\\"266\\\",\\\"makeName\\\":\\\"PRESIDENT\\\"},{\\\"id\\\":\\\"211\\\",\\\"makeName\\\":\\\"PROTON\\\"},{\\\"id\\\":\\\"253\\\",\\\"makeName\\\":\\\"QINGQI\\\"},{\\\"id\\\":\\\"246\\\",\\\"makeName\\\":\\\"QIPAI\\\"},{\\\"id\\\":\\\"157\\\",\\\"makeName\\\":\\\"QLINK\\\"},{\\\"id\\\":\\\"118\\\",\\\"makeName\\\":\\\"QUON\\\"},{\\\"id\\\":\\\"45\\\",\\\"makeName\\\":\\\"RANDON\\\"},{\\\"id\\\":\\\"273\\\",\\\"makeName\\\":\\\"RANGE ROVER\\\"},{\\\"id\\\":\\\"47\\\",\\\"makeName\\\":\\\"RENAULT\\\"},{\\\"id\\\":\\\"292\\\",\\\"makeName\\\":\\\"Robinson\\\"},{\\\"id\\\":\\\"197\\\",\\\"makeName\\\":\\\"ROLLS-ROYCE\\\"},{\\\"id\\\":\\\"48\\\",\\\"makeName\\\":\\\"ROVER\\\"},{\\\"id\\\":\\\"207\\\",\\\"makeName\\\":\\\"ROYAL\\\"},{\\\"id\\\":\\\"49\\\",\\\"makeName\\\":\\\"SAAB\\\"},{\\\"id\\\":\\\"130\\\",\\\"makeName\\\":\\\"SACHS\\\"},{\\\"id\\\":\\\"50\\\",\\\"makeName\\\":\\\"SAILORMEIYA\\\"},{\\\"id\\\":\\\"72\\\",\\\"makeName\\\":\\\"SAME\\\"},{\\\"id\\\":\\\"194\\\",\\\"makeName\\\":\\\"SANY\\\"},{\\\"id\\\":\\\"274\\\",\\\"makeName\\\":\\\"SATURN\\\"},{\\\"id\\\":\\\"51\\\",\\\"makeName\\\":\\\"SCANIA\\\"},{\\\"id\\\":\\\"232\\\",\\\"makeName\\\":\\\"SCHWING\\\"},{\\\"id\\\":\\\"172\\\",\\\"makeName\\\":\\\"SCION\\\"},{\\\"id\\\":\\\"221\\\",\\\"makeName\\\":\\\"SEAT\\\"},{\\\"id\\\":\\\"245\\\",\\\"makeName\\\":\\\"SENKE\\\"},{\\\"id\\\":\\\"52\\\",\\\"makeName\\\":\\\"SHACMAN\\\"},{\\\"id\\\":\\\"111\\\",\\\"makeName\\\":\\\"SHANTUI\\\"},{\\\"id\\\":\\\"119\\\",\\\"makeName\\\":\\\"SHENZEN\\\"},{\\\"id\\\":\\\"100\\\",\\\"makeName\\\":\\\"SHINERAY\\\"},{\\\"id\\\":\\\"215\\\",\\\"makeName\\\":\\\"SHIRORO\\\"},{\\\"id\\\":\\\"171\\\",\\\"makeName\\\":\\\"SINO\\\"},{\\\"id\\\":\\\"168\\\",\\\"makeName\\\":\\\"SINOKI SUPRA\\\"},{\\\"id\\\":\\\"53\\\",\\\"makeName\\\":\\\"SINOTRUCK\\\"},{\\\"id\\\":\\\"54\\\",\\\"makeName\\\":\\\"SKODA\\\"},{\\\"id\\\":\\\"108\\\",\\\"makeName\\\":\\\"SKYGO\\\"},{\\\"id\\\":\\\"55\\\",\\\"makeName\\\":\\\"SMART\\\"},{\\\"id\\\":\\\"263\\\",\\\"makeName\\\":\\\"SONLINK\\\"},{\\\"id\\\":\\\"192\\\",\\\"makeName\\\":\\\"SOYAT\\\"},{\\\"id\\\":\\\"56\\\",\\\"makeName\\\":\\\"SSANGYONG\\\"},{\\\"id\\\":\\\"145\\\",\\\"makeName\\\":\\\"STALLION\\\"},{\\\"id\\\":\\\"86\\\",\\\"makeName\\\":\\\"STAR\\\"},{\\\"id\\\":\\\"209\\\",\\\"makeName\\\":\\\"STERLING\\\"},{\\\"id\\\":\\\"281\\\",\\\"makeName\\\":\\\"STEYR\\\"},{\\\"id\\\":\\\"95\\\",\\\"makeName\\\":\\\"STO\\\"},{\\\"id\\\":\\\"57\\\",\\\"makeName\\\":\\\"SUBARU\\\"},{\\\"id\\\":\\\"272\\\",\\\"makeName\\\":\\\"SUPER GALLANT\\\"},{\\\"id\\\":\\\"251\\\",\\\"makeName\\\":\\\"SUPER POWER\\\"},{\\\"id\\\":\\\"58\\\",\\\"makeName\\\":\\\"SUZUKI\\\"},{\\\"id\\\":\\\"264\\\",\\\"makeName\\\":\\\"TAFE TRACTOR \\\"},{\\\"id\\\":\\\"193\\\",\\\"makeName\\\":\\\"TANADO\\\"},{\\\"id\\\":\\\"59\\\",\\\"makeName\\\":\\\"TATA\\\"},{\\\"id\\\":\\\"198\\\",\\\"makeName\\\":\\\"TEC\\\"},{\\\"id\\\":\\\"231\\\",\\\"makeName\\\":\\\"TEREX\\\"},{\\\"id\\\":\\\"185\\\",\\\"makeName\\\":\\\"TIANMA\\\"},{\\\"id\\\":\\\"60\\\",\\\"makeName\\\":\\\"TIGO\\\"},{\\\"id\\\":\\\"81\\\",\\\"makeName\\\":\\\"TLD\\\"},{\\\"id\\\":\\\"1\\\",\\\"makeName\\\":\\\"TOYOTA\\\"},{\\\"id\\\":\\\"73\\\",\\\"makeName\\\":\\\"TRACTOR\\\"},{\\\"id\\\":\\\"87\\\",\\\"makeName\\\":\\\"TRAIL KING\\\"},{\\\"id\\\":\\\"77\\\",\\\"makeName\\\":\\\"TRANSTRAILER\\\"},{\\\"id\\\":\\\"134\\\",\\\"makeName\\\":\\\"TRIUMPH\\\"},{\\\"id\\\":\\\"149\\\",\\\"makeName\\\":\\\"TRUMPCHI GAC\\\"},{\\\"id\\\":\\\"202\\\",\\\"makeName\\\":\\\"TUG\\\"},{\\\"id\\\":\\\"78\\\",\\\"makeName\\\":\\\"TVS\\\"},{\\\"id\\\":\\\"165\\\",\\\"makeName\\\":\\\"TWINCO\\\"},{\\\"id\\\":\\\"69\\\",\\\"makeName\\\":\\\"UM\\\"},{\\\"id\\\":\\\"97\\\",\\\"makeName\\\":\\\"VALTRA\\\"},{\\\"id\\\":\\\"61\\\",\\\"makeName\\\":\\\"VAUXHALL\\\"},{\\\"id\\\":\\\"62\\\",\\\"makeName\\\":\\\"VOLKSWAGEN\\\"},{\\\"id\\\":\\\"63\\\",\\\"makeName\\\":\\\"VOLVO\\\"},{\\\"id\\\":\\\"237\\\",\\\"makeName\\\":\\\"VPG\\\"},{\\\"id\\\":\\\"278\\\",\\\"makeName\\\":\\\"Wrangler\\\"},{\\\"id\\\":\\\"64\\\",\\\"makeName\\\":\\\"WUHAN SHENJUN\\\"},{\\\"id\\\":\\\"65\\\",\\\"makeName\\\":\\\"YAMAHA\\\"},{\\\"id\\\":\\\"96\\\",\\\"makeName\\\":\\\"YATIAN\\\"},{\\\"id\\\":\\\"180\\\",\\\"makeName\\\":\\\"YORK\\\"},{\\\"id\\\":\\\"155\\\",\\\"makeName\\\":\\\"YUTONG\\\"},{\\\"id\\\":\\\"173\\\",\\\"makeName\\\":\\\"ZAHAV\\\"},{\\\"id\\\":\\\"260\\\",\\\"makeName\\\":\\\"ZHEJIANG XINCHAI\\\"},{\\\"id\\\":\\\"175\\\",\\\"makeName\\\":\\\"ZHONGTONG\\\"},{\\\"id\\\":\\\"113\\\",\\\"makeName\\\":\\\"ZOOMLION\\\"},{\\\"id\\\":\\\"247\\\",\\\"makeName\\\":\\\"ZOTYE\\\"}]}\"]",
+        "ts": "1620034956.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347019910083\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 145 174\\\"}\"]",
+        "ts": "1620035842.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620035842.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348034000767\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 248 281\\\"}\"]",
+        "ts": "1620039406.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620039406.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348034000767\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 519 563\\\"}\"]",
+        "ts": "1620039506.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620039506.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348062638204\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 723 938\\\"}\"]",
+        "ts": "1620039568.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620039568.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348034000767\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 700 018\\\"}\"]",
+        "ts": "1620039648.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620039648.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2340701448659\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 792 355\\\"}\"]",
+        "ts": "1620039687.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1620039688.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347014486592\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 273 786\\\"}\"]",
+        "ts": "1620039735.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620039736.001200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LOAN ERROR]:\",\"{\\\"product\\\":11,\\\"loan_amount\\\":5000,\\\"tenor\\\":1,\\\"loan_purpose\\\":\\\"5\\\",\\\"tenor_type\\\":\\\"monthly\\\",\\\"selfie\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P\/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P\/wAARCAH0AXcDASIAAhEBAxEB\/8QAGwAAAgMBAQEAAAAAAAAAAAAAAgMAAQQFBgf\/xAA7EAACAgEDAwMCBQEGBQQDAAAAAQIRIQMxQQQSUSJhcROBBRQykaFCIzNSscHhQ2JyktEVJFPwJYLx\/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT\/xAAdEQEBAQADAQEBAQAAAAAAAAAAARECEjFBIQMT\/9oADAMBAAIRAxEAPwCdzrm0SXlC0+3iwrtVwYxtPj5LTz8lXTrh7FVYBNravZg815wS0\/8AUqauON0RBNu17blSt+rwylK1f2ZOKsqp5XO6Ji787g06\/wCku6b99gJivh0DVLfKLu3\/ANRN6u\/BMF1fcvOUDJeqLvBa2WdnTKlF+pPgoFrtteMouSTVeSJ5XuqIn6Un9wBW6zuin+jPBbVX7MnLVe4Abyfui4\/pXkrbt54LjhZ8gL2isckS9T+S5Y7l7lJ+p2EA9mvDL2b+CP8AqIv1P4AG8qvBVYjnkvZx80RLMeMg0D243Lj6puiUu374IsSfyAL\/AFfYGti3hsmbQ1lTq15BX6b8sJ0p\/CKVWkCo3l77FVtnYt5f3JTy75ooGeWr2RO3l8hf0tkS4\/zAt\/pVcg0r+A3hr2Kax8vgCox9NstLKRGqaVk2TbC4tJ7+WWlyvgt+3GwUY4QBacaV8RXJE0nbTyFJVBQvO7BnKP6VvwgemQnFvtTB1pr9CVMnZHuU+7tfhrYuGn9TUbadX+4rWfpvTwqDcuSD6Sx+xBkZu\/FNuW2K4Je3AKd+wW2XyRtd3t\/\/AAl4oG8745Le\/sEWqXuuSJ\/7lZZMc8bgVhNxfJau1fwVL9N8opO1f7iC5Ydsq\/O6Lu8clYW\/wyou08fdFt8rkC6V8ovOfbJFT\/Jl8J8PAP8A9Rb5\/cCvK53J\/VV7ojdNPyV49nTEFNZq9yryvcKTSoG8P2YQLe\/yROm\/3Jl377FXlc4AqW8vgFNWn5QUn603ygFlxookt5v2K3ePBJfqecUVzHJBE7a+Cq2zyVymVvQRK2zyRU2\/kpXa+SLf7gU\/6s7lV6mvYjrPyVfreSomLfBG0pfYp7fLI935IibtVwicZ+SZp4LeF9guIlbX7lxpPNvkryXtFjRPP8Eirlt7FLFJ8ZLX6c8lUTSdu8kTqfsiNeOCRX2vIBK26eKyM0knO3sstgJeRv6YJLeX+QVEu53e5JL1JRSt8sOK9O2PBHGpdyytmVIrtgrb9UjTpfpWK9hEIKMG95PY1QulaJqrStEDUW34IFZedi+708ZBTX\/kjVcZCLtXT+A1n0g7rG6KT\/2IonJJZ44JdLOURvFpfJV7lRd1nxwU8NolpPyU9iKu82U8v539iXz5KeU6Ki0+Xzgtf5YBTXPP+ZE7eedwLf8AKwS6r2wUs8FXbyQVLbHBG7fs1ZbdvPKAWF8MAm+6OdwbvflF938MG142YEvCBe0fmi3s14Bls6xyUXPNNrkC6+zCn+nAt8r4IiPDInhNEbtpgYwUWnbX+RWVTrkq\/Us8gt0l8kBX+nJSefgFO0ik628D9Bvj5BT9QN7WDFp38FBp5WcFpX+4tv8AyLjKl7hkWXXDZfddAJ5+EXbp\/sRRJ2gv6VQv7+xfdl0FHdq\/JbaVAJ5rwWs78lBXcfkJK+Aec7BRyvHCJQ3SSlLcL9U22\/ZFR9MG1VvCGRjSRZCiQxK9io7YDivO3gouMIp3Q2MbpcAx2DgryRRqNcEDivBAOYn\/AAFboGrT4LV7ZAidW\/3LvxsVIi28kBJ+XuU7WF9it99i2v4KLu1gptLPgq2nhka\/ZATbDI91ncp\/pKbAuuCe33KvFop+2yyUG3\/ILebXyCrV52LbdexBbf7bg\/1fJFJ3svBUtk+UQTu9Xzgkt69ivdebI37lRX+TBbx7tFt4Bb+BhVt3pi5PPygrxTFuscAW3t5sFvDI3hUBJp3fkC5Pb5Kbx9ynLNe4DeEBd7fBXc7ztRXdt8FPZ\/FDEWpUl8Ev\/wAAN1+xadc8hYO8slpKuWLu2XZUo08P5InXAvdBLYgYmqyq5LjSW\/uwL\/ku0wo0Fz8AJsu6ZDTFhbfAcFTWBazljoemPd+xQeJai3qI2Cx\/oL01SzkfFJ+S4gornkbHhPcCK2SGwXnIUSSYyK8lJDYx8kVajggaWSAcZJ70HWcmhaWi3b1EX9LRa\/vLRrGOzLl7opxo2fS0cv6iwUtHSlb+pSGGslY+CXm80jY9DR2+oT6WinnVGL2Y2q+5SdI2fR0WqWp\/IL0dKn\/afyTqnZlttA1wvsa\/o6apOeL8gvR03tqfGRh2Zfgq\/vW5rehC7c1+4Uel03blP+UXDswt9u4V7fsapdLpt74ryi10ulSuX8odTsxd3CJd\/c2y6TSTxP8AlALptO86i38jqdmO\/HwTdfY2flIL\/iLPugZaGnWJ8+R1O0Y2wW+fJr+hpul9QX9DSX\/EQw1mcm3gBvPsma\/o6aytRfuBLp9P\/GMTsyOXpBbdZNUtCFYmVLp4f40TF7MjYF7cGxaEP8YS6XStd0pV7NFxnswt4+xL9NGuXTaaeJOn7g\/lo\/4vsMXsyt5ZM2avy0XdNop9MksOwazLG5NmzT+Wzlsv8tHbuoGsvhtMJebNC6ZKvUwvyyq02Q1mvNBLZfBoXTe5X5ZeQulLy+S0uaHLRXkL6G9vBMXYXG2Op2sYRFp9itOworllxdMh7Do74FwSHRW4qDisp+BsVYMPFDIquCKOKGxXuBH2WBsVgKNRwQJIgHG5xyRb\/Ba9uS68HVxU1jJa4JwXyANbtAtcLkNFNIAarjYgWwLyUC6q2isX\/oFRKpEA\/Yq64C42I0UBzkj+5b9yNWEA8NLcm4Sz8FcAC1gr2CriyqoKF+wDSsY0xclkIppG2H4e5acZOlaTox52O3pf3UM\/0oxzuLx\/WP8AI1xEv8kv+U2utyHLa3kYvyat7fsT8nFu5ZRre5TQ2jJLodNt16U9gfyWmuWbafgkoSjlqvBdZrF+Uiluy\/y0fLHyTknTp+Rb05L\/AIjYQt9LB+fuUul0vFj0s0FFV8FQhdNp\/wCEt9PDmJoSctlaI+2K4b\/yCxnejp7dqJ9GN\/pQf2LIA+lFbRiDrQitGXpWw5ieqdaDr2RY1GKgo0VGTqwo7+5qrhumqyPhli9NYodDbJFHBeVY6AqCHxQUUV+w2KAihsUQFFeSBIhP1XFr075LRNvktLwdnFTyThl17lAVVFLfOwb2BpclAsgSXkrfYgplVwwnt7Fe5QLtf6lWE98kYAtLgF8h0U9wUNeCvLYVUU\/NBAvyVmgifAULx+wEkGVIJS4+52NCX9hF+xycVk36OtGPTx7mkkuTH9PF4C1OujCTj9ObrFpC31+MaOp\/Bwet1Hq9XqSWp6bxTAjNLOX8s59XR6B\/iD\/+Gf7opdfJ7aD+80cGM3F2uRr1k0rjbLg7H\/qOosrSX3miav4traij3qDpUr1NkciMoVTisjI6Wi5VKNjExsl+ITbx9L\/vAf4hqL+rRX\/7GaXQ6Um6k43nIj8jq3OlaQwxufX6lf3mj\/Jb\/ENT\/wCbRr2TOTPSlB+pMFRwMXI7P\/qOo1X5iCXtFi\/zr56iP\/YcxJvhl9jrYGR0vzr56j",
+        "ts": "1620040891.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "P\/AEE\/OedeX\/ac\/sk0vS\/2DUJP+lgyOr02v3z\/ALyUscqhnWv+xS9zP+GadKcpR9lY3rZL0R43J9MZojo8C4RyOgrNQp2mvA2K4AguB0FWwBwX7DY7r2AisDooijirGRWAYIZEA0Qi+CAcVcMifAmE3WcJeQnrQVU0zrrlhiVLfJHhe4P1IvNop6i8r3Hotu9y1sxc9fT01cpKrL+pDHqQB3j\/ACBdLYH6kX\/Uid64ALgj8IB6sVOn8hJp5TtMoj5KL34J4oCnuU1eS2it0BTSorgKsAvcCPnyDayW6BZFU3j3FzdRuRWrqx0k3JnM1+onqN5fbwiaSNOr1ii6hv5Ms+o1NRU5OvAtLuZfbyS\/q5i1kibWC4xbCUGnt+5lQp7thL4sna3Tr7BdjS2KJFjdOVy8AR021Yag8YIStUJp6dPMrwx+h3Rpt3ztuYUqkqwatGV+m3FeQsbtOEddSepCK5yBLplFNx04teUidPqKGXbX+hv0pxUbclTzXsRrHNpJfoX7ET\/5V+x0tbpY6lPRW\/Bgfp9L3TDFirfKRLceEiX4Kk7vcYB1NdwdLcRqTepO2uAvpNu3uXHTWxcXUhGx2nGiox\/YZFUXEHBDYrYCKdpjYEUceB0MuwIKxkERTIoalXAERiAKKIXEgV5z6X1IRzzsFHpoJtUP6eDbeNrGTjTeM0axzlcWfStTklKTK\/KX\/i\/c6UIXMY4monjiz6KdbsVp6blquMm9\/J3e0yR6Vx616iXpr+RhGWfSJRu5FW9O9OLlaV5OpKNxE6vT97tYez+CnrLGVOLg+zGb5NGhJ1J1SbtJ+C4dP2LC+zHKGNwvi90UFWKyUEoWmiqCyVuEVyDLG4TfkB5Ch+wnX1o6Me5vPgZqz7IOT2RxtfWlrT7n9kS3FgdbVlqybk79kD2toZDS8jYaSSRi1rCYRzgYtNp52HwhnYZ2E1epUdNNbUGtPGRqjRdE1rCVCvgv6VyHdt8BKPkamFR0ophdnKG9pO0mmFOLqkg4xdq1yNUdsBqHhGpUxeirdbUb9CN9q7VS8mXS0vUjraGilBPcKKCaainhCus6Na0u7T\/VWTqdP0d+vLvgk+lnB5VLcpXl5abhJpqmgGsHc6rpI69yjiX+Zyp6bTalhmpdc7MZ3EtRGOJXbSKKSCii0gkskWCihsd0BFeRkUZUyPwNiBFeBsSKOKGICIxAMhG8Ig3pI92vFfJCpXG6WMY9ybVt7F9Qku6hvTfh8Z6TlqW5eRE+lUJXHUcknlG65cb+EwhVsko3nI1Uo0A87MsPQNFNDJZoBrIULXJVWGSgsBRVMYUwAfklWW0yqAFkapBNUBJgwDpgypLcJ\/Bg67qEl2Rfqe5FI6zX+pPsg\/ShWnpJK3uDpK3dbD0qMVqIklkOKtlJWkNiqRlpIRDUc0WotoOgqlDBfaFFewyMbwQ0pR5DUKGLTfktx8hdKrIXbmmH237hw08ABGFhxVMNRoJRvYqD01dVudPpHSUX8HP0k00kdDQWVuyo7fRYjRqlCOpBprcydHVXybipXH19B9O3Svwczremc4LVildZR6jU046kWmjiSXbOWnJXWMlT1wXGrFuJ0es6d6crS9LyZHE0zhXbgtL2Ca9gqJVRb4GJUBFVIakZWGRGRAj8DIhRoYsgIZEg2\/h0b1ZPwiDPw9VCUvLohWaRpaajpyS2tnH1unep1EIdzUZSt1g77jWnN+7OX0ujKXXqW6hBtnXHnl\/HL6n8Oh9SXZOVf9QnS6Wenq0m17s6upGpi5Uttw3xuM8o1YDQ6SsXtuFBROAmvYrwRQ1gp0Fgp7hQEaCKYC5AthSd2C9iKR1E\/p6bk\/Bxm\/qTt8m78R1bktNP5MkI4slWDjGkGkChkVgxWhQjxQ1JX8AR\/kdGNkVEmw4x5DjAdDTXG4CVCT2DUHdD1BVjcOOleasozqEs2HHSb4NUdBvgdHQbxyDWNaVILtNctHF0L+n4IaR2rBajnA56eCuysPcGq001I36ONjJGH7mjSdfJYjq9JNp\/J1I5SOP0+qkk3wdbSdwRoGc3rul\/tfqXhnSBnBTi4vkI4koKcJQeb8nJ1tL6c3FrY7+poVOorbgxddoXFz\/qW41bNchqtiVgY44KorMUlaGRVArYOKdmVHFcjIgJDIkUaQyKAQyIHR6RV06a5dkD0VWlFexCsi149nSza3pmD8OaUOpn7UdPX03PQ7Fu8GHp9J6XTdQv+ek\/J1l\/HCzK5usvUxEl\/Bp1lTewiXuaqQmSAaGNJgMy6QH2KqsBMr5IoQaCZXwFCwZDGmLluFhbQE3UW\/AxmbrJduhLyRXLm1PUlLyy0iKNJBLJirEihkVYMf5Dp2SqOKHw3FwjeB8ERTtON7mhQdX7CoKjRp+VuVFw0tm9x8NPIWnBNZ3HQwvYYlqowfFBNSWaDXnkLtnVuO+1lQjtbRTjzsx0oZzZUcOqwAhw5oBxpPBq4prDFSUVwRZSUvsOggEvYZDcK0aeHR1Oh1JSbTOTHe0dLoNRXTKOiQpZLKgJwUs8mDqtG3JS\/qR0jP1UfSpLgix5nUjUmqqhdGrqY\/20\/kQ1uVkCQa9yUWtyNCihqQEUHEgOIyCuSXli4j+nj3asF7gdLZV4ISW5CsnKcnlxpVZhhqd3ROX+KbNvUz7Om1JLiLObF10Gne7t\/wAnXi4c7lxj1bvJnksujRqXbEM1UhctxbQySAatma3ANKimEyuCNQOCn4CewK2ChaFzGi5oiwDyZeu\/uaW7dGpoR1MbhFJX6kFc+UO2k0V28s0dTFd+FkRRirFxww0iRSGRiRpcR+mkmBCDNGnB8ogZC3jk16MeXQrR03xubYabxa+xQcEuyks+Q0lGiRg2m0sIYo00kq8lZXCPL4NFJx8eAFDzgalgsZpLinyhUoNe3saJJdqAS9T5KENNKnsKmbnGMVlfczakGnthmasrOlbCjd4JKLvYuK+xGzYLZG7p0+5OtjDDDR0OmdStFR0NOVxCFx2tMYgLF6yvTaGAav8AdsqR57q1WtP5MzRq6l3qyzZnZAFYstFuNaT9y4oiiig0DENbgFE1dIr1l7IzRNnRrMmCtUrIU2QqL6+ddDqNfBj1fR0+lH\/kRf4jq\/8At1pr+ponWemSjwkjvJjxW7dYJ7+wt77DJVnIp+wrpxAwWGxboy6QLK5CYJGop7AvcIrDYUIuW4wXLLwRYF7Gfqm1BNeUaGBOPeu1hXO1n3TbAobqRpi2+3JhIPSWTTpxWzMcJ+rfBp6fU73sqTJi62Rh6cGnT049u5m06ymxkVK04u0+Bi9nQ0IqqN2nDujtg53SStpVVHX6ecVDJZEtIce1Mb08FKXlg6vqk0N6X03e5YnwfYk3e4aiu2+Cm7k2w4yrTzt5KyW4JrGfYBQVt1WTRSUd0LTVrAC3FpV\/oKnBpPP8GiU27p5QjW1O1Vd3uSrGWSzYNBtpp0hU9RReTLejRs6adNHPepTXuN0tWs+AO9pO1jYYtjF0mv3RzizatilWL1\/7tjDP1su3QbKkcPVzJsRTbHS3YvClbICr+zYCI9S1UeSIkUaCQK2DQBxRt6RVpt+5ijsb9BVooFGyFEAw9Vcuo0I8OaGddJub5AXr6\/p4+G5fsD1Urmz014JGeXIF7ly9gHZmu0VLPsAw2AzLYWrKYTQNBQ7FfYJgkaVQuW4zAtkWAZT8rcLALdRYWsWqvVZk1G7b2o06kvUxDru2toyiaUbibNGMkklBfsDpKLp8mzRklVk1rqHQUvrepYNy7YpYz4JpaMNVXz7Gj8k2rTpe4ZyM+jJRk\/LeTo6evHsyzBqaWppva15QK1NxrWa6q1E3uNhJJXeDmw1VZohq+mhpjXGe9bMZ9T0qNbGOE87DJzpYf2LqY0Tkq3yLcq2eTL9V2X9SmTTGjvxV0ZtSaau7YEtWr8ipaiki6dTZSXb7iVBSfcqrwWlNqooYtKS3VIaYQ006TGQTiw6S+S4ZZFkaelnWol\/mdqDuKOT08LlsdXTdwQ",
+        "ts": "1620040891.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "1aMx\/iTrQXybANTTjqx7Zq0aZedkJn45NfVQ+jrShvTMrXPJFDFBoEJEBoJAoOIBxN8WlBK1hGGOcGiCaXv7gOTsgKvtVkAy6K\/wDyKfEdJsTry9THaK\/9xrT8QS\/n\/Yz6uZex6HinpTyU9i+SmZdZAcZB\/gJ4+AWRqKZRbBeMkaV5BfARX8hQ7+wpjRbyiKFi9T9L4DewE16WtwrnzzImlDulTCq5BNdqUo7mF+LrsdDYS4szy1VJep0w9OWLsWLK6nTPK9UjqxmlpJd7fycLpuq0YNd86R09f8Q6SGioLUUnJYaLGOVMnqQd+qJm1FCb8PyjJLVjqyuOfgHvknVmWocpS09Sn9jRDWt1ZkUNTUwk3iy9OXDDTqaT7g9VtL3FdG1JpDupqD2Kn1mlJ3YEtbBJvO4tX29zg2uGZUxNyzsHBqPj7mR6hcdSV+Cjq6T7ny\/gPWk4quxoydPOLaTk19x3URp+LNfHP6W5NvY0dLp97\/TZn0tNzklZ2ui6X6Wmm5StmWx6eioRtoY9VRVCer13pxau\/sYVqyb3Jiutpz70D1LajGnWcldLnTTC11aiuHa\/g1PGfrg9RP6mtOfliHuMlyAygQ0Ci0AaGRAQcSB\/Tq9Vexq5M3T4bf2HJtsBy2IDF0QKyaKqGvJ8tL+P9zHqvLs26eOmm\/8AFNmGe7PQ8PH0HFlN8lvcFGa7RT8AlgsjSAsJugWRVbgsJlMNBYuW4xvAt7kULAbphsVJ3qxjywMclU28lybqi9RVNlJdzMVqFz0l29y3H9Hp6cpdmrKl7Bwh6di1p1lIaYV1vQS0JOWmu7TlymD0vS6urO9ODlW\/salOSxmvBu6Xq9LSjS0L809xGeUP6eOh0egl2LU1nnGaKh0+p1Dk5Q09Pu\/qatmvT1NTXSqENHT9lll62ppaOni5S9zWMb8YpaT6OL09Sak2rUlv8HP0ncn8jeonLWm3N22LhGmjFrrxjo9NPtqhurK3d2Z9B0xs5KtiNM+pLLDWr39NHSgr1LwvAMo9wMYuM1KGGixLFw0nDGvCV+eDXodFpdRpd0ePcKEvr4\/r59wVB6Ek7lFeVsaxjXM14auhOnNpop9TrTlmcvhbHcl+V6iNajhOW1vDMr6fS0ZOcVB1t6hYkpvSaNaanrSkucM6n4dqamq5ep\/TjtfJx1qz1pZ\/SdHp+pWhoqCMujR1kU3SM8NF37Fx1XqzuR0NCEWioPp49ukkwtVYXs7DQnq59nTakvaisuBPdi2HIWwqIJArISANDIi0MjsQaNFem\/ccluxel+hIbGigoECiQgxO49JBebf8mGfm7N2s3Hp9NcqKMM2s2eh4+IG8YKZYLozXWKYN07YTBI0ojLBIqnQPIW4LIqmLfuMFy3YagWKnjWhL3GtidWajKF7tgvhPUL+1ZNNZtbE6j+8sqHgxWuPjVCMUvYbGKewrRkqo0w7eHkjVV9NLNIfpQUZbRXwUpaeZNrHHktamfTDOyfgM2NH1+1NRy65MvUSa\/qyadPTvc5\/WT9bt\/BaSQucll+SoXKSEZc6NujDKRmtw7Tuhu+LLjCsDO11hZMqU0BFVtsaY6LkrJLQfblGozQaTynHDRqjrLK1F\/wCDHGLizS0+1NI1GbIVPp4S9Sx8MW+np5dj7V8r2CWdpLITCYKljgYrL7c0vuSqRGmnp90dTpco5Oi8o63TPBUrQYfxSdaCj5ZuOd+LP06a+TTLkyAe4UmAyKtBIBBoA0MiLQ2IGmOEhkMi0rodHADIqlkhcfcgRg6zCjHhJI5+rqRhFyduvCN3WXKTSOdqwbi1t8Hd4+N\/CpdQ\/wCnRmA+qin6oTX2F6sddQfZqO35M8NfqdFVq9s+d80SukrV+c0a\/VX2Gw1IamIyTfsYPzblpuTjGMXtLwP0Jxi4qPZJTx3RXJl0jUwWXf7lexFUCWymFUxcsMNgT+SLAMR1On3qMrrtdjrA1F6ZfBGmbUd0wdOWaTKu4pLgq96JyOLXpW3jc0x05Gbp5dqr9jpaEPT7szjeh09FvjJu6XQinco\/uVCNYSprBtgowh4aNSMcqRq9sFKUvTjY8\/1Enq68mtrwdT8U1\/QoL+ow6Og5E5U4wjT025m\/STUfLB+i4vurA\/SpRMV1h2lCUoq0P+m41gd0KjPUSlsxvVQUNRqKwWRN\/SdKCW4fWyWnppqrYvuUfcXqSeph58FRlfc3Zs6ePfGuA+k0YOaUg9XS\/LauNnsWM8oTq6GPTuZnFxZ0r74rmxerpLwqZbGZWLOzCSbZJR7XWaLgl3bmW2nQ0vVFnV0Idqb8sx9GrnE6KwhEqzL18IanTT7t4q0ajj\/imu\/rS0k8Ys0zHOkDZGweQCQaFoZEA0OgraQlDtPcDTCthsVkTBj4ZQDYqyBaWSFRydWVybMsq2fkZOeWhUstHavLxhGrG5J3hHP1NFrqpSptyjUVwdSVci2lvRnXSRy9LQ1HCWn2pJbp7M1aWi04uSUVH9MYbfJqS+CNYpEb0KW+SYL4KYAsrgJgsjQRcxjYEyLC2C8qgmCyNMDdNr3Ki7ZWv6daS9wU62JU4+tek8o6vT6j7eMHH0Xnyb9GfblGXT2Oy1a74NOVZ9w4ytZqzHpandXqr\/U0qSq3uzTnYw\/i0XHV05f0tAac4pI09f8A28Wnvx7HOinCVSxRmt8fyNep1UI6dPNCtDqYzdJlPrNOOm9NacW3yzPpwUn3LD9iYuu502t2u0NnrObeTm6H1E1F5Y5uSwMpsFqa3a9y9PqtNrEk2Z9bTynN2g\/7CGl+m35Eha16fUJNM1auv+YSpZSONF59Gxt6eXa888lkS38adOXbh2hs5Lt9wGlJcv4M+pJpUpto255qa0lfyLi8oGTBi8ma6R1ujdUdJbHK6CSbpnUTwjMpyEeb6zU7+p1Jf8zPQa81p6E57VFs8vOXfbW\/JtkMmUmC3ktNFQaYyIpMZFkDUP0UZ0P0mksgaI+R0HkTGQ3T3LEa9CN5ZA9JUiAeYbbbKbBc4+UC5KrTR1ecXyA3nYjngl5I3E8IlZ3K7kmRvwRUd0U\/JV0iu5MEW84Bb8l2U3uRoMhctg3kCTwRqFt7g2XLcFug0xdau3UT8oRFmrrY3p9yz2mGLZmn1q0n6tzXCfF7mCEqHQ1PLMtur02okqb2NMdfY48dV8M16UrjbZYzWrU1G5sz60lT5ClJLK8GTV1UDVSku5UzZ0MU7b4Od3JyXg6fRSjDfBErZCTjqW9mMi++VgRlHUnTqi1OMJJXuaZTXSpWIdXnI7VknKtxbT7tqI1BQwNhKn7MRlU2Mg7u9ga2LU9OGK1ZXbQpToCWqi6RU5FxebQpuxmk7Mtur0Wx0Yzujm9FhWv5NsHb3oyFfi+t9Po+3mbo89KbTtOjf+L9R39QoJ4gq+Wc2bybjFFNpruWz\/giewMHlxbxIrZ0ysnJjYsRF5HRyihq2Gw3SFLY0wSwKGw\/UaILKSEwNOjFuVrcQatN57eEQKMaRAPl0da3Xe19zTFprGr9rOM9TGC1rSWzOsrjeLrTcl+nUf7iJ9Rqp0tST+5h+vLllPWfa1HYWwnGxqfXa0HX1JfuFp\/iPVS2k6Xk56TlLJs6icdPTjoaSt8vyzLXhmp+J9Q4fqpLmsmdfiPU7\/VkK6lrvjpQ2gqb8vk1dN00VFSayY5XHThx10eg\/EJa+m1qfqXPk1x1VJbo5ih4C7ZXuZ7un+bpOS8oFs5zT5f8g4TzMdjo3yecfyA35MkdVwbVt\/JJ9S+C6mNM0mmns0cmS7ZuL4HautOUcPYxLVbn6hpjTGTSGxebszppjIS8kNaIS9Vs1w1ajRgvtGR75fpTCVr1Nf075EpubM85SjKnkuOq8UmEjdo6aWZM6Whp6U0lHUo42nq5yadPUp3ZMab9XptfSk+1tphaXS68mpNOhfT9fOEau17hav4jqzw50vCLg0\/TcH65Kg4xhNrKX3OW9XulcpNl\/Vp4kB1V09pve9jLKXZNxYvp\/wASem+2TwJ6vq",
+        "ts": "1620040891.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Pq61w2CWNSnfsS02YPqyi6lY7T1basYRrcU44QelHwitP1ZRr0dK5P2I0fpejT9xy1+yDlLhWId7LYzddqtQWmt92MNYdWbnOUnu3bA3TQU42DnCo2xoXsHLLUvKAazVBxzpYWzIgo4Q2DExfsOhkB0R8JNIRpZZoikUP05G3psyRhijZ0sbmvYqNxCEI0+LWS\/IP3IaZE5A2yrDiryTVhkX25BjN97nytvkCTsdodPPV2TryNTF9Np\/U1lfG51YxqNUZ+n0I9OrbuT8BT1be+DnZtduPLJ+GucY82A9aUq7XSFXkvjDGYW2rk23llOW3sU2qyym0vAEk3Jgu2R5yQGJ9jLrwp9y2NQM0pJplZZtOdqrHwlkxyT059o\/Tk8ZRUbYtdt5Gwn2pe\/JjU6VeRsZ+lLKIg9R+ux+lGLjf8CHTwSE5Qyg06WlHTlmcVW7NOj0elNd1Zeys52lrxlVumbdHWcGqZUsbX+G6ai0rb8i\/yMbqhsesVethfnYLarL+JlKj0EVvwH+U0orEUwJdVdtyQvU62v0kWRc+l0o3OePCM6iu60sAauvLVeclqfaiLh0lB5lWeAO2MXhvcU9S+Aovuptl1nP1v6WUlqLGN8HW7lbmo13cI5fSQcmr3Z0oQnqzjpwVv\/IjR\/SaX15NV6Vls36vR6GtHtnprGzC6fSjo6SjH7saVLXC6z8Jnprv0n3xXHKOVPTpnsjB1nT6M05Sgr8rDKmPMv9X3L01amvY6cui0pSxKSJD8NW8dXfGUDHMihsTY\/wAJ1or0uEvhg\/kOpj\/wnghgdJbmiAOn02so+rTkvsMUJR\/VFr7BDdNZR1NCPbprBztCNzSfLOolSpFA6su2HuyAS9et28RWSAfGG7L3QWnoT1JVDJs0+m0tLM33y8cF0Y4QlPEYt\/CNWn0WrJZqPyaFq9qqCUV7FPVb3ZNP1NPpNDTzN97\/AICnr4pUktkhM9RvYXdjScTHqt8lPUa\/2ArGxHky6SD72V3sHN4KV3kgap3yRO6FrgNBR8F7PcGye4F3kGTLsGWNshCNVdwmMnFj55+BNcGoy0wnaQ1TunJq0YoycJU8INz7sd1II3Qne7Q6MYyVXwYtOSSSznk2dPJd6TdIi6ZHQbeUNhoTezaNEGm7TVGrRbTjjDNYzrJ+W1XHDkyn0molz+504TglbdJsOFO+zOeeR1TtXJfSzXLyV9GfKZ2W027SbW4vthloYvZzEnFVRSdmnWjFO7tvIiTUVXLI1oJLhmjSjbVLcVodrk1NWjo9NCDUZVlEGvptPtVbyfg7nQ6C0dLOZPdnL6OLc+7k7el+hFKKOxZS2LKiGTr32wXuzWYfxR1poDA9T1UOhqbGGU7YUNWsEadTT1Nsj4Tvk5kNXZmjT1gN0Wg1TMcdXA3T1sZ2CH\/Thd9qv4CBUk0EVAQh2yk\/LIGQD5E9RV2wSS8IByb+Rae1Iu97dmdJDE\/2B7rwVl4Lq3gNYrwEltRSWAoryBbSoqgkiVbIpde5dB9qrJAoEuS0icqy3aWQLTImUrqti3FgXyDLYtZwU9slZpUsp4E5sfOtxMn6iokk5IBPIzNfIEri\/YsSm6drEsGnT1ErST9jF3q03Y7T1H242QqOnpa2Y2zWus7Jxw6OTpakVPuupBw1m55lfG4iV3vzOm9KK8PNqxXT9W468ot93c8Wc2Wv9OnGTa2aF6vVN6yklttRrWcejeso6Swm3uZtfqklFpU3hnO\/NylTTS9IqWs5tuS+KM61I3T13N53fsLnd5Zn09Sd72x\/f9SNNO09yNw3p0+5JeTq6TadNLJg6XtUXhtJb+5t0Ek63ZB1eii3JJM7EZJRpcHH6af0475NuhPvmreN2aiNqwkWJer6kkVDV7tWXhYKh5z\/AMV\/u0b07Of+JO0lZFcebpgKVMLVwIk7XuRpphqDoa1NZMKlTDjPJB0Y6vuNhrY3OfGf8jI6nuVHV0tc0Q1bORp62N9jTDW2yUdJTTIYVq+5Aj5V4YXF0Ti0Elaoy1FLbYJLklMLhBU38lqO3kFKg1gC0qC23JQVc8AA0U9vsEC8ZsgFlPLLljYFy85YF3Rd3QNrFfwEm7xuFTZlSTsJ753Is4v4EQloCUU0vI2S9TopYNMaTF\/cKULj5QUtN\/qiyoyykDSXHdUFH0rfDHuCllUmA9Pt4osAd9hKaVYK7O1tLZk7HGDtb7MqGx1Go02w004mZW5ZtsOLk4480A9Tp02X9SWyeBSjOVXY\/T0XXqqjIZpzSjm79jX0s\/V621F4YqEbVRjSHacPLwFxrhJKowbpG3p7Tt7mHT3o1xmorD25CujHU96o3aE6072by\/Y42lqd78Jfyb4avbGixK1z13BOV54J0+pSVvLyc7U1XOfbwhkJtPdlMdiOtUN9zH1s3Ks8MqM60+HbFa81+nmgRi1FauzPNNexqkm4tMzzTyZaKT45InTI7QLeMkU5SGqZli8jFKgNMZ8joam5jjPORkZ4GpjatTBDMp+CFR4NLKDrwSkkXRFRKmXjGC6vKRa3oKleAqSIvZEeFu8hFrcl0irtYKXmwLaeGVIt00Lz+wEd+wLynYW+Ad2lQFpYb5LitnRTj7hRi2\/gKvDyDndDErZJQYCqtMpRdBZTys8hbFjFgY7UVPSvK3DqkUm0EJVxeRkXa9hjipezI9GSWP4Cg7ISX+Fl\/Qcl+pP5K7XHclgWunktopv5Ch00+O1fcpSewcZ4Cmx0GsOcfsMjHTh7mf6jsLub2sI0PUwkg4PJmV2lsaNKPLde4GmLlT4XuM73P02qE97wl+5adfBFbdGVP5Gamv24Td8GKOp27Mik2u58bFG7Rk73\/wBzbpPGf3OboyqkzdpO0lQGyUkoxW4mT7m2BOb7sLZFJtNFFyTqxE1nYe3in4M85EUmSFNu\/IUrtgvGURUutg0\/YWmROt2QOjJhKWUhKk0wlL3Af3V8kEKfyQqPLFrb\/MirtCr4Ai88BdqRVcPwXWaAijn49ym02sBN5p8FPKtbCIp\/sT+kGbpUD34\/8hRX7k\/UvgGKzTyW244vASJxnfyUtityW7pBU7XljV4BXHgZBJhBRXxYSSaoqv5CUGsoAJRSsDtaflM0yXclWaFyikqp0ACjawgXHAaTg73XkYo2kypWdqkMhKki5Q8FODW2AlMeopYlGyOGk1tXIFO9ynFtgF9OHlk+lCsS\/gHsp7lpBYJacf8AEw1GC5YCjQaX\/wBYF4TSSGRlQsOKtBR3+wXdwwPgJWv+ogO23WaDi7lnZCk8pDI0lkKfF+Do6OpiJghthJmpSUINx3aAepNycl8Ecni9nsJ05Xp53RXetk2wNEHe4E1wDFqO25cpFGeSV2LnY2eWKb7cvgyoNt9yNsrdlN1gAre4XcLt7Lgu8FQy6IKcqIMHASZdc1sSNXWcBLCY+otRx9iNJL4I8yyTnOAKexSdKy3JV5AvFv8AYGqeVdZKryW439yntgCXwU7dfyW9tyVXvYA1TDWVvsC9lwFpqssA6Wwemv4BS9SYcfIUa3THRd5QuLxa2DjhBmris1WPbguUc+WRtrMX7MuKtd3vkqUtwVUk6YLg4r05Rold1aX+ouSr5BoG9miks09hjStOkgaTIqu1cZ+Qe3tb9w0uCW9miolKvJaja2QPcuUX33sn9gC7VWzZdcFJuVUiOPkCua3oJJtN7WRLlou8ZZFXaXGSXz\/CKx5JwmGjI+UhqTrfbcVDCXIyL9TCn6dNodOSlBRX2M8JUm9i4y73bx4CNKbca2IkotYfkX3fpSLU\/VvfsA+09nsy0\/tQruST9ilK6vIBSdvAqfl7BJ5wBNpsAVXsBJu8EbUYtoksulQoFcsJSwB3eNyX\/uBbayv3ILbdPyyDajkJ8fctPGSm0p1v5In7lKLfdPBW6Jb7XktfwQDmmVSaJvlMm90UDLdc2Vs0mG1T2B9\/INVVuy+csJO0rJGPLBFVboL2ZSWUuA1HnhENVtVZTGwuKyUkrT2Cj4kwCv07BR",
+        "ts": "1620040891.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348034131417\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 943 999\\\"}\"]",
+        "ts": "1620044032.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620044032.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347069779090\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 280 268\\\"}\"]",
+        "ts": "1620045262.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620045262.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LOAN ERROR]:\",\"{\\\"product\\\":11,\\\"loan_amount\\\":5000,\\\"tenor\\\":1,\\\"loan_purpose\\\":\\\"18\\\",\\\"tenor_type\\\":\\\"monthly\\\",\\\"selfie\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P\/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P\/wAARCAH0AXcDASIAAhEBAxEB\/8QAGwAAAgMBAQEAAAAAAAAAAAAAAQIAAwQFBgf\/xAA+EAACAgIBAwIEBAMIAAUEAwAAAQIRAyExBBJBUWEFEyJxMoGRoQZC0RQjM1KxweHwJENicoIVNHPxU2OT\/8QAGQEBAQEBAQEAAAAAAAAAAAAAAQACAwQF\/8QAIREBAQEBAAMBAQEAAwEAAAAAAAERAhIhMQNRQQQTMmH\/2gAMAwEAAhEDEQA\/ALFEKWwxTbC0ZxaiQVG2SPA0dkitU0PWiJJhiqWxWkiqiGrGj6Ddv6klSVsarXuMlsNasiSg1Q3boDRIPI1aIo0gq0\/YkFEcR6DRIijRBmt8EokTttEk1COyxIijfJJVjkpq0iytWNSSFnHuVcEUSJQsINSW\/HBZVEC1XAUnVsb3CiStRDRYkBx9x1E7Q0RNO6GX7kitESGJRaiNAaHoBInaK42yxoWiJO0naWUJLkERxBTY0pU6oVtu2uQAMFDWhZSS0SChGizuV0CRFVQriyx8AW1sgqa9iFjRApaFHQe30GQUaZJFVzokY0Wa8geiAVolUg+wWrHECSSHQriFARcUydpFYy\/YkWgV7jvYqRIO1JgY9AqmRFcDJJoVJDJUtFUlbJQHY16JBRI+jJuxkkSAEvsMRb5YItfVoavAUth8ki9pEN5AuCQBadaD22gpEmdQcct1yXUM98AafqSBgbDXuFbViigY7Qs1aYJTHTdedj8jNUha1oUFCvnY+642K1eyJaFa2P4ASV9iqvQT5etMu8sABU4vu\/ISSbr7lzQtElTjZO3RalsjS9CSir5IPP6Wn4IGFpW0NQsRjbANBUfNEQzRRE8jpCJPuRZFUxSNAXI4KYFHVED+QN+gJEvUFU\/YZrQFpEhSA0Byoj3VEhXqFStiuVaoaNEhpVwK+dIdkpkir3Ck6JJaIrX2JI19IFEsfAtWiSJDURLyFW\/BFIrZHoKpMja4sEH2IBpkZIU91QXVAQzRJW9WBejH0R1aJFFdpMscRJe\/kiElqgJUNJ8Ea0QK6qxaH0LoiSidq5GrYaFK6QNXQ75FVAg1wLWxqoVOyRZKhfuWSVsRxtBiV5fw+pAZHSIbiaI73wOmJ2uLuuS1LxQslv6uCx8caEnpUWRX0LfABWn9ZahJryPBPtsqgavkLiwvbGSKkqjoKXqFqiNAitbBTI\/cb7CFUse7JH0Za6v0BVESqF7G7dEjkg9Xv3LEgRaa2EaqA9klTTdB7WN2rwGnaoUXwkSmFK7slbBB3NKkhltbVAa2HdUKDnQVB6ETaZbFkga1Qji7tlmtkvQEtNeweF7katckX7khrWvJO0K8BvwBLRXOK7lot16iSa7lRJXLTX3I2GX4kAgWt7DQa1VUCt0KR1fIKsWSp0SqWixBNWDhA+qyXvZIW00KlRKV6ZGrYIGtka0R2tci22iKvLHWiDZLaohpNDWoliSaQEvFEqlyNZTt7pPekNVP7hjFpLaDKNbZAqjZZGOgRRYkCitR+oZc70PSA\/TyBLKwVodkJK3G1wL\/AClokkkyRdjRV8kS3wPFJElKwRTdlyVKiNegyV8kUqwVQyoDTXBIm0yNjp62ti+W6IBVfmCr+wYfh+wdUKBQvZK\/1HX4V6kkqAqa2\/uMtUw0Mt68EC8p2JdJ2WzpLQiSadigTbiLfksUUrp0JW6JCpUtj2BLwHtsyUdJFfMn6FjjYqiRJzMgZKp69Bd2QRt+QJ7I\/wAhVp2xRmtrQsuR3b2K0SLS5FtMZqn7CtWhQTSbSYK3\/Ukpdqt8CRyKT9wRmC0vIXTBKnyCJL8SICX4qRDRbuLdeQO6LXFdlMjjaQsBH8K9gyi2070Pjj9G+QzX0vXAJWk+Cy655ETa2Xx4sqoTkKihq2LJ1wBB0hdt0h+UBqnZIrrwJIt5A19aJFitjpE7fQi5IjXqFLYYtPgj2SK+QJ87G7W0RRVbJEfPI1aA91YVzwIIqVr3G7bI1cvuGtUkSFR2TIMvvsWVv0Iq6DFcha1pg344JFlbQqT9yx8CpMENUrA0rsdp0LW9kh5CloCGAla0CNUqGn+Fix4X2JE\/nugNew\/MmhZX3VRBW4iteGixOvBGtWSBcbA46Q6VxYJLXJJX4qhWn2jyT7RXJJCFXaox7VwJGO3oubE7fq4AkkhGr8jtX7CdrbFF8kGSq7IahdRRfHga\/FUMgpK639gYJBp3TDNpRDGG3aJljaVEiRjY8E4qg44pjqKTteSqhaYrVljJRlpXTT0Tbux3yF6YhWlX5g7Zd1lj1omq0RKk0NWgrY1IkT2DQaVhrRIiWiMeqQrEESY6ivJNkSdVySK4\/VwFoKTTDV+AJKat+QL8KTHoDja14JE7NkceRoXsZKxCpe6Clrgs7UlRKpcgS7Fq2WNCtEi1oCVPgdP2DQFVJVpAa0WtK0BxJKo\/iZGnfqGqZOSBJLQu3yO98kaokEarZK+lhp8+QO62gJGl2lbiO+NMW3fqII06qhJOmi1qxZJVsiRqxUkMkqA0\/UkVpNsgG2rIJdiI1d1pgjGhkLCJUCStMYH3BFxquSwRP6hyQTViwWqHbt0SqIq+JDU\/QjTG4RBW9tE4Co\/UP2kQjHQ1DJEYIvbolaD5IyQSQjQ8ra0LyMRLqLb0kGEu7a4aC0np7QYLt\/IgNWStDeCNASVZO0JN0SL27C9cAtrkKaYgV7g0NwivfIEwPYm2QkV2npWEL4Fu7JAvxMMnoEU6JPSIh9PamuRJLY64pgdEldkvdMLVp2CvJAfyZH+EZMNWgLK1aYsFsv7VutFdPu4EFcRJJUWvkDQFmutBoscNgoUqflEHrbIJdXtGREth1Y1gCSToZ8ke6BE7aosS0RrgKYIJUmBtUGaYtX6ii90m\/C\/MZu1sEFTa9AuiQXTbCppgrkVR7ZN7tklncHdixvyMmSEjWyXcQvkCWS2JQ7ZEiBe3ySK+pjJNeQJJN3yKNaA3+hN2ACkuNCq+RnwFLWiRa2RLYy5Ci1AloVofh8gfqSJXglUMgNEgYsqoZiOKT92SMuEkJJbV+Ru5JgdSlyRQWS0MvuR0CVVZI64G9QLTNBGgxeuGR8Ei6Mkmt7FeqY3grlV6RIHttgaGrQGuSCtp0Ix2qFooiK09sgXVkNF2EmtP9QcSGjNONoLVsmS36BT2RBireyQT2luiXsPakyLkkLFehmKCKnUnoikpMakJqxQ9yjdsHdfI6S5oWtkkvSoNA4lQ9EgjbfsGbp7dIaK2iNJkiMkXsktgSvgkbyDztB8pN78BqgIV6MUPkkk\/QkD4GVULdWTuSEGvyKnZO76URNAUpJ8hXGgIKRfQW\/YEnWgy1Iqm\/IozYvcnL7Ct680LHgcRnJuXAYXbboFO7TGTdWBR16IDqyNWR68AiyaTr1B3W9xC36k88CkdegO5eOQvgWEdc7BF5Fv2He3oWtEguiWCSbAkSR7K2tl1CSWwSpkGa2QS6kIuEFGkFy4iTuvwRLyaZMth4tg4GVNNAk7bXJFHwFAvZJJaQI\/hRJMjJA+Cq90WvRXDTdlEa6REwNq6JFbJGa37hVpAfISR4vTYrdhX4QJdwEPIaoLj5BP8L3RLHmf4h+PdR0XWR6fp0oxUVJyats6vwT4mv",
+        "ts": "1620045642.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "iPR98qWSLqSR57+MccF1GDtlc3F2vz5\/dnH6P4p1Hw5Th08qeRVfNDJsFuV9JtepXn6jB02P5mfLDHHw5Oj5q\/iHX58k1PPnySadxUm7S9jLHqHty58Fi19Ox9d0mePfi6iEl96Lvpavmz5VHOor6X9T8s24Pi3VYYRji6jLS4iptIcGvpCaurK5SjHcpJI8LP451uSNz6pptVS8f0KJdX1E1U8knjW6u0ODX0NNt7eiyL8Hz7p\/ifV4smOcMzqOqb0l6Uen+EfG8XVY1DPlxwzXVXXcFh12pldJsZOxqT+5n40pmtewiWtF0kgdqQyjCpEin2jdvuBIUAl2\/JaVzasIQZK2C\/YlpyILKSWiKqFb8BW\/WgaJSvRJRtEV9xKdECNeiFaosquRGSBitbvwPVoSVoER0Qi4pkNJ1IvXA1oXhaJVFQfyCT+pJICuwRh\/eJklnK9CPSsOkBS2SLJE+wZPgH7Egk9bEpUtDN7BoYASV7HSj4BHYbAjyiNUSK2wskKaSRHJLSK8uRY1z4s8Vn\/AIi62XVSmp1jUtY61RT2de3eSK03Rwfjnx2HSQlixLuyO0nekcXqPj+fJfy32tqtf1ONNzyTcncpFILUz5smec8k5Nyk7tsoxxXzF8xuvYuWKXnQVhk1pbNDGiHxHLg6f5PTyeKHNxe2\/uZfmXJv+aTvuYPlSb0uQvDN7rX2IKMmG5Wml7WVLuclFLZr7X\/lBGoruSSdctEmdynhlUkvzL8Wdy05JR9BMuH5jty+oaH9mhjcM2CbaupwlTb9Hdqi+IcrSxpY22uXRTHPK9Nr7DYc00mrjH8hcsY3fcm34RWp1eh+OdbgyRlHNOSX8s5tp\/kz2fwz4ni6\/HcG1Jcxkto+ZRl2vaOx8H+IPouojONtcOL4YfT8fQ21abBds5vRfGOl6yKUZqE+OyTSdnRi\/wArDMOrL+krUrdPTGlpEpkisrkWyjqyltN0MQjUkvFsiQUqCoNaIpbaH1XAqqwJaadh3TYX+ID0vIEq2uRGkWRdMrcvYgXzwLJWhnTGrQpRKLIO1RCOOg5L0YzT14Eg3X1U2WK2NZHRF+LRGl+SFSabknr0JHbvXqBKrI2\/AaJFa2TbF7rfoM2qJElEFbDeybEGSpMRN9zG1Qru9aJDB8+4MmWGKDnOSily2Cc444OUnSS2eO+M\/GcnV5J4ML\/urq1ywLX8a+O96lh6SaalpyXoebjjlLnRdHGor6uQ88ItMiKCrgZQSWkNCK8Fiig1ucquz1GjjLVDY8IbJrFUca9B+1PlF\/aiKCJYzvBBrcUVz6JS4X7m7sXC5A4MdF5jlZOj7NxezN1OOXYlVo7ksdve\/YoydOqarXpQ6xeHnZRlCNJ3ZMcnHhRXuzd1nTOG0v1ME17EzgTVbu37Gnp5SSTcU4\/uZYtWkbcEXj7ZxbcW6khgq6cnjmnFtQauz03wD45LPmx9JlqVxpSSd69Ty8py+fKMu3sWqfoP0jzYs8Xiko1JVK+END6Y60LLS0VdJljlwQyQalGSWy1v2ObRG29FdeCxuxHVmkaqivHqS6G07BQEN8gTY9ol+xItNyI1sOiAitUiqa9C0StklaQ3jkLQHpcCCtEDLnWiA01qh06QKIaZM3aGjqBWtMMn4AGukCL0T8QyXgir7VZJOkFiSlwMCXZNvQil5HTtryaA8IryZoYoOU5dqjy34LHweW\/ifr8qm+ljqEqba5fsBc\/4v8XydbmlDHKUcCektd3uzFiTjba2JCPbuXJaZtakDbdtjJAWx0gdJDwstURILey+BNJGOiyMXrQ8EqVos548FiVdoyj6DxjvZY4riiKjtYe1pF0Yd3mhvlvwixKFFf8AIXC+S75fqq\/ILxuO3+QyCub1eFTTpbOJ1OBRbaX3R6acG+U1+RyOswKM3adMa52OIoXP0Oh0Mfl9RBy\/wW\/rT4oxZIuOR3o29ny4xk5SlB6uq\/IY5V6P+I4dF1nwf+2dOoTyYpRXfDTrimed6WTc29eyFnPI+nyYsU32SauPrR2P4X+CR6tf2nqVL5cfwx47inqr69R8Id\/DOn+nt+mqNcla0DHjhixxhjiowiqSXgjezN+tEk2l7iJ3XqNNNu0IlchS9Jacrr2A5L+Uq6ucoYbg\/qbrfj3K+lyPJD60+5ab9QkTQtsLZFQGkRDdegfBAeSQURhByCK+BJaHBV+RgJ3X6kI0QjrclxTIiJW9E2rYgUr+wJWn7EUtkbvZAyptIatMSL3ZY39IUxW9lE072aG0kUz29DArTSaTLIX44K5RUvpei3Gqx3J\/VVM1QXqMqxYpTlwlZ4Tr+o\/tfWTyySSTpVwz0nxvrHj6WcYSqT1s8k39VIzWoOmx61yKkN2mXSRFyOrFSLoRJqGhdl8NNKrBjhqi3t7dsithFO9pDRjb9gpJVW3W9DpU0+USRRSadfqMtva\/QEnJ1foW4sdJN\/uSGEbrtsf5f2LcdxjSevQFJb4RpkqhrjYHifNafBdGnpNJ+wzVK\/39TUgtYcmJmLPgjlg4+Tr5YXvi\/VmPNDt2yoeZ6zopJPuW0c+fdF9ttnqOoh3xp1bXJws+Jd78KwZ6V9K4\/MtNqS3T8n0P4P1ket6DHliu11TS9UfO4OeOXCl7Pk9T\/CvXwx5J9PNuKyU4X6+hWemI9Syt86GYK2ZaJXbLnT9WPCu7wBpN0\/BG645FBkqTqStAjGEFSVWFO2weeCiNwgeCOqImKRIIHxoi5M0g9tkboKQJIEVq0I1W7GSdteL0CrEEbIMoq7IJalJ1a9Qye6ZFqkRsgVch+4E6JL18iDR1ZZeiuEk1\/uP4Cokpaoqm6Y82\/AnnYwAtuyT87om72L1M44sEpPdLgU8n8dl\/4xwTTrmjmRjTs19ZJZOqyTXDfqUGK6cxIoekIvcWebt4BtekvJdjriznvLKSXheo0MtNbJeTrQWuC1RlPSMeLqLpWmdDBJaaBvV0MNQS8rWgtdjS4+4+OV6r9BnTkqrkQX5cu5OX7l2PG2k6Tr0LEtVHj0Hg7STEaTt81ROz8vuXLt4A6erQhXFVqkNKSvYfutfYSXNM1KLCyj3VV\/cp6jH3xp0Xyf2aFyq4VRBzJ4+zTSa+5xfieLsm5JNo7eRq3fj1MHxJKWJNPfoFF+PPSk3JNpnZ+EuOXqMMMSl3qSdVfBkj08s2PN8ul2Q75X7HQ\/hh18Vw2tNPaXsUc3uO10rSsDSGSpL0C42zDRKtitOyyqYG9u0MSuN3RJL10OhZtiivglAk6QVw22IMyaQLsN7Cktvu40GTI5bFk\/QyQ86YvIO65a4QE7YgXrwQZ6RBaaY6ewP6XfKDdb8CylcCrIpp8AaK1K5UixPdtiCqKglFKkiyL+gVb5LbXY6CqKJPbFvdtjNAdM0itruWzP18b6efe6jW9l65MnxW\/wCzyX4dXaIPKTSi5c8vkzycr1wW5JfVRVZzrtJ6RY+7lsux9Om1eyuL2asCuS52DWQmTpE1rn2MssLgzv4sKa4Sr1MPW4UpXobLg9MEHTVPZ0MGZ+Wc2TcGXYcl0Y9tR2sE6lbfJcp3PzvijnYcjdG7GrW9MdLXHLXK2VZOpcG+0r75LWyrPNNegasJl+IZIu\/Ai+K52\/5SmajLyLHCr0M6ZsdCHxVtVKLj+5YurU9r9EZ8PSJpN37pmmOCMHcYqV+ujpsrOVoxZO78Sa+5a0pJ+SuKai2la9HsMZpt8prwKYusw2m46kzmZ4vsuVnczK9UcnrIKClYJzenl2w6m3V4mtGn+GEo\/E8bjNKO1UvUwT7\/AJOSUU3619wYLajljqSe0xca+kp6psL0UdLN5MGKUnbcE7\/IslLZhob2Rguxr1QoPGxZc0MyuTp8kiS9CJ6JJ2DgUeO2M472xLraC5edhULWwS0DuvgjYEkuNCLT0Fi3s1GVq4ILeiE21uP00ipwfa0WSbTEm7ile2TJIPtCrcuQWlr9yQf1cCDxZbJ1HXBXBb+xbN2gqUu2I2OxJPXBpFTMvxXIl",
+        "ts": "1620045642.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "0ORyVutGpGD49k7Ph7X+eSX+4VR5PLLbKu5Llls42tmbKp49ra9DDsvhkSf\/Bqw5Lkqck\/Y5S6peU7L8PXrDJScO6iz2PJ6COTIsdLJLfsn\/psx9XKdW+1\/Yxr45kyNRjhUVwlstz5uotfOxx2k6TqzpcwSs0nb2DHqWiyWaGaqx9jSrXkSEXdnGtx0Olu1R2cWCUYWkm36HH6Tn1PQdLkXbDX5JlzjVU\/2efa7190c7re7Ha19z0mXtlj0ktfqcPq+klmbcWrNeLPk5Pek\/qLcGVORjzxljm1JU0TDkkpfS1+hj3KdejwO4Lz+XBdDbo53SZcvZ3VFx920bsPUVuWGdP8Ay\/V\/odWV2R1H1rwUyldNKqQMvUwl\/hzT+xRKTW2\/3C1Sa0N9yVnN+JS7ccvdG2EkzB8X\/BCvLCLr05eTFKPw+c+IuSUt7r1\/U6fwH4Xi67HOXUSlUGu1wdX9zn9fk7Omx9I8dNtTv18G\/wCA9dDoYyxTTcZNXK+PyNxxr1uOEceNRiqSVJegH6gUrinF2mrTDG5GSlPuTTpeUM6uwpAkkgSNlORjTbS0yq3VDEZe5GC\/pp8kS9RRo7W9hekLx+YyM1B5slgk6ZW5WSFvYFsjRFKtPg0DK0rIIsik3FPa5IFaa5TbXIE2ytNtchxy+n8xBuxMkFTGiLL6eCCxaZJS8FSk26DJ6FA3ToD2Bz3sPd4Yg0V5o4v8RZLljxJ8K2duLPLfGeoWTrJtPSdfoZtbk9uc0rEyY+5Fkd8jqJz12xzJ9K74AsMXqUG36o6vYvQXtitjrPiz4MWPHTjBp+tlkmnO+1Sb8vZbFXpeRuxQ+5Xozlm+Xu2PFbrwM39QE7kZrWNvSx2qOvi0l6nM6ReeDpYmkvYy21rI+2nfBj6jV7btVyaoyUlQk8V2n\/8As6y1iyPKdR0WSHdJZO7fD1ox5JZMStXa5TXB6jqOmV\/hdMyZOkyRj2xVx9GrX6B9Ysc7o\/jcunx9mSEZx8XyjrYvjnQ5McfnYJKSWnE5+fo5z2+ng6\/mjsuwdLiivrwxVrhxs3Gfa9zXVvvwY8kq1b\/qWYsHVSa7sM0vfyNgwQjSh3RS4pmyGTLga7Ztr0bKyNTQXTvEvrUlIx9dieWMFBb7vJ1Mmd5oXJVIw5ZSgpTjyguRfVuX4fi+IdE8U4Rhlivpl\/lZzui\/hnqcWdf2nJj+VdtwdtnT+CZJ5I5Z5JOU5O\/sddvZS\/xz6mXCx4S8IsSSiIlTsdUVCIEkgvgVqwRJldeS2SQlctmkWO3YyjvmwfhargZPyiqFJEVeBc19uhcOmZJsisp7WmXyqyqW3oYKW+SPgFCu70aBkk3a5IGMa9iGWlryJrSRMckmU7iqBBukLLZwr8E+mUeTO8vaqu7F7qVp8glzfa9MVytoqWT1Fc7HU0prkjoojMEspJbln245NPhHjM8+7K37nqM+S8U1fMWeScrkzNdOFsTRjVrbRlh42WxbMurVLs7P6FKx9zDFXyaMUNpciiRxUU5U0m\/B0niajb8nL6p3LsTT9SsxazuTlLRpwY15KoQo14YaMGNeFJLRrxq2VdLhbVm7Dgbf0qyxrVUrgrTNfT4nkhcOWtlebFKH41TRWs0o4moNxl7M3z6vti+\/jRk6fdSVGHJjlinfF+hq6XqFmi+698lk8UVahSfmzeS\/Gdz1XOnVptK\/817FcZr6U7\/Ky6WNqTfK80hvl3KLjjTi+XfAZpUY+7i7NCx98br8macWFOUUmt+pr+VGK3wM5F6ciXcteBO1S7o+qNXVUptKnRnx05+9mf8AcRfh2SHSOXzpKKbdaOrDPjn+CVnA6+fb1EY8RX+po6LLtU\/3OvPExx\/Tra7Kau0WQZleRRipXTLOmzxzRdPcXsOucEur292LwFvkVP3MEJCtaHb8epW+RBnHSfqRaC1cSBSW9ktR8ch88CTtrQYRb80JLfAYp1sEtMYyr4uyRXc\/YerRKaGqJwQNaIZbUzz4m21JP7Mz\/OSlVuvsyhO+Uv0BOajSpd0tI3jLRPqIp3Tf5CT+IY4JJwnf5f1Mc8yhHv53r\/1P1+xRLK3dybZZGpG5\/E8fiL\/OhV8RviEfzl\/wYfmeLY+OXfNRi3tlkORth18pK1jjzX4+X+hP7ZN7UIOnWp\/8FfzNLt\/9sf8Adgc3FKK4RZGfX8Lk6jI7XbHf\/qOC3U2vc7U535ONnVdRP7mK1yeD8MujVGaL4L4O6MOkaceu308m\/DH8TVOq8nPxS2dDp0u27pryb5VN1DePp5Sa0caFzbfubuv6iWXC8cPwnLxZuy4SdP3Luiemp6aNOCStHFjmyrK5d3dG+Do4ckZRTi9HO+mpXpuhz4IQuWNTdUk+Db0\/VY4TbyRs4HS5PpNXzVGDcpJJLbbGd0+MdvPLp+olcX42c\/qOljj\/AAytM52L4v00sny4ZLfstM1rIpq0zXlv+CTHPjkliyyTer8HUxTfbFPiqb9zFn6dSucdqPkOGTx0k9Gp6ovuN9XtjJK3tevBUmm7bab8NlsZXq1b8m2V0Iq2lqt2uBsjlGPa3JuuU9FTtLu0q92Z+oyuuKfh2Vok9qM8vqdvjyUd8oxk4Lun\/KgZJ298lVqbaf8Aq0c+frdYW+rjknKWGGZyVdrtV7g6XqsmDJFdR084R8yirVHZwyjKH0vsa51b+5qjihOLXaudpq2b3HKzlzs\/UvqpwWC3T17nZ6PCsGJL+Z7kZV0kYy78a7ZeGv8AkuWXPh\/HBZI+q0\/6DbazOZ\/jWTTK8XUYsyahL6lzF6a\/IdehlUGrVCDzdJtK\/YrjLuV1QhYiPkidtBezJK1QkudFqorklbGJKpID55tEXlegu7GCi1tEoNMnBmmAyEfJCLjfMjy7X5Gd54ZJWp08mo64S5ZVm6m4xxxck8nLU+F+hVl6x\/JnNymnP6IpT8eXwdD4h1HU4p5fpyJRiqiqZX83H4yw\/R\/0KFlXnJl\/1Cs0ap5ctPX4F\/Uy6eK75sOPmx\/R\/wBDX00oLHLKskbrtj9zB86DdLJOv\/xR\/qboZlFQTb\/u4Ocl8tK34+wxmz00RlFTfbJOONdv5+RJzXLaYmPKo4IKU4ttdzahz+xVkyQp7T\/JhWMSU1fJzuqS+e36mmc4+2\/cyZ2nNU09eGYpgR55LkzPEtizDpK145bNEsr7e0wwyKOyxTcnY600RcUqexZ4sc5bir+xWppPbCsicuSVqf2KDvt0VrpM+Kdxg5RfNGqGVRaS2dXp8mNwu0hwOX06ydySUl90dGHQx6l3ntpcRBkyxeS0zRhzrVbfsWJn6j4JibjLC3Br0LIdHOKSc2zfHLa2SLt3THDoYMChEzZ8fZNppUb8bTYOtxKWPvj48Gs9M2+2FSWnr\/QeOW67ZPXouChurtKnzXgVtptXv19TOlpnkbT516GfI34fPp4F75cO\/wAxJPyGnCyfgqjjyRW8cl70w5GnFp1T1Tko3+bM3y4f5Ma+3URNQZrZhk8WROcWovTtPjydDBLtyKPP8r+6\/wCDjwSi32d9+O3qI\/0OjheSWOM7zJtcONq4\/wBVRqM9cuhaHVNU+GUwy3BTtPu2rRYpJ7aaXqtonJn6rAnVaktpr\/v\/AH8y3pOreSSxZqU\/D\/zf8jzjcVKMk1F7ft\/3f5GPLBd9X2ute3sTc9+q6ctC0u3ROmyPNiTn+OOpDyVAxZiuL9Bn6i8UNZAndTBf1ew3bvkHbQorvwEjXgDfjyCNf0ittDLSFktgStkGpkEvHSnJvLNXbrHC4so6uS+YoKu3Gu1aNGJJLDF39Kc3ZhlLunKVvbs1XaBf2J+hPzCueUDR8MO\/LGKrbNmS5rLKleTIoLfoU9Cl85ybVQi2XQi66eNK6cn\/ALFGbVktXp69GZ8je1t+xplGt9qM2Vb4a97M2ubPNteGVyetlk1d\/i\/UrapO7\/Myip0y1PVlT4saLAxYpW6RdHgzQaUi1ZFXuDWjKT7qLYUlxZljNXtlyy\/To1MGtUW70tF6nVRmr\/2Me",
+        "ts": "1620045642.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "HL9SutO7NDyRcm1s3LFK6cMPTNJtO63s0RWGNKMUjly6hK64s1Yc6ruavxxZuYLa19sk+7HLXoXYMrcqmqkmZMfUq3bX\/A8erjaU9rw1ygyLa6EXFNDZW+1OPDMOTOk00+Ro57hVhpxnzJY5tXplHdu7\/5L8rcla8eTLJuzn01D93072I9\/mC3sbVBIWfq1eHV3Fq6XhmG\/v+h0JR+Y32xk1kxuvq8p\/c5++K\/c3jfHwefX9DV0mTtjJfzRanHXpyv0Mtez\/Uv6aXZ1EG20m6e\/Axq\/HX6fM\/rjHJ3KL1cnw9rT\/M0QyuEbld+r0\/1WjnY3LHOMZNt\/VjfdC1raNUG+36WrXPY6\/bgXCxuhNTjd8+V\/UzZ5P6HJpy3x59f3bJCVOqu\/HDf+zKc+XTj5Uk0\/Rfn7vj8hgnPtsxdRjwweScu2K0yvqfi0ceP+5xuUm6TlpL\/voYOqzpYFD\/PJKr97Ks2Z9knJX+ezNZs9mn1vVZZ3PM6f8sF2\/p5DDrMkZf4mW14cjKpRfCUU\/P8A3Q8cy4ySVJ9sr8ej0hidfB8QdL5i7l61s2Y8sMyuLR5n5yxTacrkvSWv3Row9ZKDX1Rfjxf7P\/YVeHoe0Wt6MvS9esj7Zqn7\/wCxtTTdrhmbrGYVukJex5JWKovZkhdkI00QdLyuX5SedtzThFQ8P\/YwdmB\/+ZkX\/wAF\/U6Gb58emyN03LJzqjJ\/eq7xQl\/8UdK1zVfy8T4z\/rFifLX\/APLD9\/6Ftvz08f0f9SfT56dr7Ng1q\/psUY4M8vmY3a7Vs0QxtdRG3F9mJLUkUY3i\/sk\/7qW5cdxptf2zJfc6SX7CxaEoeFH\/AKzLnhdNRl9ka50\/UyZXTbtfoYrOssoum\/qv7MozXCF358mmbpPboz5ZNxqMnG3T2ZOg+aJF\/ULNvvk74a4IpbWzNOraI0wraH7QKqMIydyWy6OGDepTX5iSg47Q8XwalC3F0jndZGvKtFmPp+pjuKjLfkbFNKNcen6nRwThSTpOzckrWud8rPtOG\/ZmnH0+dxVQX5s0tR+ZKpaNMOxOr4fr9i8TsY10XUOrcUn6PgMujnFX89e30m2WZTpaWrI3GKtq36D4xnf452XH1OOMXKSkvRaaLsOZuPa+TUo96bmZMyipfSYufTNX930lDe6fkbvbgLZmtDGNFmKLnk1FtL0RXdL1ZqwxjCCuSt03o1yz1cZvkzhJP5U6hm4v+V37\/wDf1MGfpZ4884tQjT1c1x48nUzQxvJPu7383HdRpJtb9TH1nyJTjlksj74p2mvSjph56rL\/AGbJ\/wD1\/wD+kf6jR6bK+Iwfsskf6k\/8Pb+jJXj6l\/QN9PafblW\/8y\/oGOnlXRhiydrnGE7UY5H52tNfoa+1S0nGTS8mPo545YYKOWUe2Ti7j4kvZnQ6ZzljhGUo5O36XavadeTTj1S9lLt7aX\/q3F\/7mbrYtR53VtPxXv8A6M6kId0td0H4vaMPxHG8eJ6Sik\/p8LXj2\/3A8de3FyZ7yRuX4Y\/v\/wB\/2KupzS+lU1e7KsM3Kc3FJPu550JK5ZaVyrSMWm\/VmNtuy5xXb3NWuJcbQMWGdb1+i\/1NePC2mnJJfcINxiyxUoWn9UeeNrwyhSOi8Lg2u+L7fHdzEyZOmlCbXdB+n1LaNY6c9RMWaeN3CTj9nydbo\/iGSCvmL8PwcldPlf4YqX\/taf8AoW4VkxTqcJRi+bQzTZK9Ni6rHlru+l\/szSmu3R57E5JtSNXT9XkwPac4ej8BY5eH8dV69yFWLNinBSg9ehDLDy+X\/wC2xxvlt8mfu3rRZ1MtY43dRKnG+NHWqHU63bf3CpvW368lVVoZX6aDS1wv5EF6zLovuy5bS00U47ePAqT+q\/3LYt92R+e5ixRmot\/h36mWcI70XPJuv3KZu\/czQxZqtmbIo61Ts15WttGTI9qvUwYmSCj8x2+VaKk9lmScfrVp2yhtJoK1GuEkWrgy4pbo0RZkro\/VpkeJ8xBie0a8ePuWixqRkTnB24vRbDqa5T\/Q2LEuHsvxdPjlvttr2NSUufDqVfLNEOpilydPF0GJvcF9wZeihDcYr9DWWDWbFkc6UU3S8mjHjfMtssx4nGnSLqUdVsLtSmUqjSMWVbNuRatoy5aphTFLnSoCn6iSlsOOEss1FIJFavxJykm1avXudLSj+G+ODLCKjlhBPS9zYk0tu\/udcxy6qnMoqeGfZF\/XVtLSKcrksD7Eo\/Lm40l+hp6qK\/s8nH8UdmfK1khmSpd0VNL7Ghyx\/MyP+bxVjxnkapzlX6lcXJJ+WC9k6+m7ppKU54\/obatOuWto6HTxhOWRRioqSU9ebW\/9DjdPk+XmjK\/O\/sdDpsnZljFe8X\/qiY6dPHBx1qvRGD+IHGHwyck1fCv3\/wC\/sbcMm36nH\/inL9GHAp9vd9TJnm+3BjH5UIvhr6G+C7GrtK39tJlclBpNJXJXfujTidpNLlHKtWrcMJc1Ffua442vKXp9JVjeuS\/5ka8s1GdCeKu2bmq4l9C2jPn6eTxpueO8b7X3R8ePBrUoyg4VpqirujKoyT+qPa79UbMrD8l1+DBL82hljyw3DHkj\/wDjy3+w6dPiqGVbXoDprTgkpwjdqUVT+ZCnfjj9DS8EJx7or8Xpv\/Qy9Lk7Z9rf0y19jo4qbqUUr\/Lfk0xbYxSw5cMnPE7fD9GQ6Dx75v8A9xAyHzeK6vrMcZqTT9EkZZ\/EN\/TD9yjqm59Rr+UVw\/u7ap7MbrFrXi6yeWSXy690ae90ZehTeK688mlpmb01Fq6vJFQSS+jiwrrMquu3btujPwFPQeVPid9Vlb5X6CSz5f8AOK16CtB5VeMCUm+W2Uz4LZFc0GrGaTZXb7rbLpoqre0ajKzHk7WjXGd8HOT\/AFNGHLWmwpjowdcGzBkSOfhyKRpjKpewSukdCM0mmjZ072pcWcmGSpGvHnqjU6OO1GdastkoySd2cePVSbWzVHq9bR0nUZ8WxKEbKssvR8FLzNq0UZMm272zNqw2bIvHgxZZ26GyTS2Z9yn7mZ7FFK36m\/psSx43PjW3\/sL0vRuu\/LqPoHrOpi6x41peh0kxlnzZpKTyRddvBs6f4niyJLI+yXvwc7qEo4GvJjekFuLJXpW4zwtxdprw+TLCd\/Lb3cXBnIw5pw\/BNpezL4dTOl3U6l3WU6gnNWPui37PZPqBPLGeSTimrdq2FqT\/AJZGt1o8aW3z+puxL6lLm3GVfsYoRceVT93Z0cMe\/HGVq3CW37b4NM2OjhivzPMfxHl+Z8WlHxjio\/7s9VC1Hu3vZ4f4j1PzfiGfJy3NpfYx18HP0uB121\/mNfT\/AOHSfDow4ZqMJXJWqetmzp5x78i3WnwYhrVCVFib+xXHJD+gfmx1atGoyug3d0JkdSml4qSFWWlpEyZVUJSj6q0aiLnqOS1xLYinq7Enkh8niX0NorjlxuLSm0\/eJOk+NkJ75OliyOUVK7b\/ANV\/wcWE4P8A86N+js6HRTu43GT5VO9moOo68WmlKO09kKsEnuLTVbX2ZCYfPMmLJh6hxyxakntMPUUsca9T2\/xD4Tg6+Fyj2zXElyeV+IfC8\/S5v7xOWO9SXB5+O5fSsDo4dnTx1zsuaGikoJJVoNaM2+3WfFMlsUskhHyRAV2H8xJOmALJgbvRGwClUlspafds0SKZRtmoyqcfPgifqW0LKGtciFuPI40bsWRNLZyu7t5LYZGmmjNjUrsRdq0Osval4ObDq2lVIZ9S5eAyteTqY82zVDLfJxcWdL1NUep4oJp8nV+Z2xuyjJmtmVTnPl0jRjeDHuX1teGzpIzabHhyZt1S9WascMOBW9sy5OtvUV+hXFZc8vzNz\/4y0dT1spfTAHT4tOctsvw9JHHHunuXoTLLXFLwjcg1h6t26M2RVE0ZItytlGZ77f1OfRhI6LEVp0OnZhuHXAVkkkkm6ElKlRXKdFuKtC6nKn\/iT\/U2dP8AE+xRU91e69UcfvFc2P8A2WB6r\/6zgXR9sZfWocU+a",
+        "ts": "1620045642.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348131360172\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 124 396\\\"}\"]",
+        "ts": "1620046360.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620046361.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348062481423\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 340 750\\\"}\"]",
+        "ts": "1620046460.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620046460.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348062481423\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 210 403\\\"}\"]",
+        "ts": "1620046589.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620046589.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348062481423\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 240 463\\\"}\"]",
+        "ts": "1620046998.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620046999.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348062481423\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 388 950\\\"}\"]",
+        "ts": "1620047022.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620047022.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347036825314\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 231 504\\\"}\"]",
+        "ts": "1620047211.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620047211.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348062481423\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 770 447\\\"}\"]",
+        "ts": "1620047284.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620047284.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LOAN ERROR]:\",\"{\\\"product\\\":11,\\\"loan_amount\\\":5000,\\\"tenor\\\":1,\\\"loan_purpose\\\":\\\"18\\\",\\\"tenor_type\\\":\\\"monthly\\\",\\\"selfie\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P\/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P\/wAARCAH0AXcDASIAAhEBAxEB\/8QAGwAAAwEBAQEBAAAAAAAAAAAAAAECAwQFBgf\/xAA3EAACAgIBAwIFAgUEAQQDAAAAAQIRAyExBBJBUWEFEyJxgTKRBqGxwfAUI0LR4SQzQ1JigvH\/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP\/EABwRAQEBAQEBAQEBAAAAAAAAAAABEQIxIRJBYf\/aAAwDAQACEQMRAD8A8HB2tru5Xg6nFOFaSOLHFKPddao2WX6XHk6VlEouK34Fbf48lSWqf8xXa0vuRSg9\/wBjfHTj9jGOpcfk0jaejFqxpG2h+noCq37j59AEhvmnwxJ29lJ0yaGILsZdAkCGuQJoEl+xVC9gsodUtFL8CH6E0AIPIAMr0ErofjgBp0UiVwUnf3ILVfkaFFevA0hqGkCWxphaRdDBCtJAn+RoryArVjvY0DAVv0BW+KJVPhDJVpeBrek9jUVWw+70T+WFX5ZVPwLXhiqg0kNA2h2qJ1yh6Gh2iJNpaHpomTVe4Q0nVk9rcm7K48kxla4+wUlB8tsDRICJ8eB\/+PrwyvprWhO1p\/uVSpa\/J1\/hguiW64HKrJvwBUHsq9k41uynyc761Gq4TuvUrngiO0EJO6daERfsMV\/kaGCqXoFC\/Oh3sBhyFpq7BNfcB0NIV+wb8ICkNE7D8kFqh6RNDSLoE1dPgbkhKlwPgaH3eiK7n6AtfgDIpNv2KVkr7FbEDa8thSa2FbQ69ygpFaFVMKAdhYmhrQwAAHIBY0IH7kDsTuqFf7gUN\/cX3D7ibAeiW9UMVlAoJO0lY3oBN6AUuGLH+hCyP6WyoaitAVYC8ASo8eUU1aM+PzyaYnvtKlBUbVg2n4oSdL1L+U16fkPkW05Mui4J9np6ifsXWyWjnVEJVIbi3PWiHzZsrSWilEVXLKX3DY0qKDjkfAu23TH2+5A1Xgd\/zEiqIgu1wONvwLyikAK37Dph7guSgSY6b8h9wXsTA0vDGkhDApUHOhXoYFWrHfgkdgWPRFjTAu9BfkmxplD8jbpE2BA\/A0TYAO+AvyKwfgABi8A+NAPkkLF5ApbuhNifAii1fDYnugQpPaIJl6e5ouPsZXc1v3LvQFXSAm+AIjxU2lcXS9joxvvjbOeMe5G2B9txZuq0rmhVbG6sK9EZ1US9iZNItkMgiRpjdr3IZWPTLBqnrQ1sUSuCofmwECYDRSEt6GADXAWDAaofkSGAxolbGQMaJHdAUAkMBp6H4JGvcCr0NMi60OwLTGZ3saYFfbkLFYAUJsVhYDvVDJCwGwsm6HsA\/qHkTexWwH4FfuKwRQ0\/8sJPfIhcbIEl\/ua9DTi7Ih+qRVgNv3Am\/UBg8aEnwtmuF1J9z2Z6iiou69Ubs+I6fAfYnHK9Mo5tJa3TJZT2KtgQxLTTKa2S+CjZPgrxZlHg1RUAwXAAVYcC4YyB+w\/sKlY\/BQ0MS4GgAaAFzogYAADHeibaGUNMBfYKbAbDyAmyCgsQANP0GT9gsoqwvQr9wslFN+RWSMB8sBJhYAK9C4CwGFoV72HgClwQ36g3rkVgVHSb9SrtWQtRQ78ANsCG6VsC4PLVST9hK5OkPHFOOy3FKJ0TWmF0qZoc0JqE23b+x0Rkp8HOxYKE0USzKpZEtFtEvRQ8b8Gi4MIupG8eV6BFWHuAepQxiSHYDQ\/IhgMZNlANAuBeBoBjsQwBbAQwH+QBAAeBABMDB8a5EDKH4oW70AAML2LQANsBBYwO\/UORL7iugHfqIObCyUAC8CsAk\/APgTdtA9tIC14ASDxZQ2AmwCPMWkPxZN6Gtqjoh1fBcLiJRS3dlraoxVjX7CeycctUVZitJZNFMlgQ1s0hK19jNjxyptFG6eh34JT0NFQyiRgPwPlE\/kLAr7DFoYFLQCACkMSBAMYgAa8gAcAAWAhAMAsLKBugACBoQr2FgFherEAFX7iEGwHyKw4E3SAbYrECAV\/V9hp2\/sSuWVHkCrDxzsXkPIBYCf2AI8\/tY4tRXGx968sUqe1s2gdthGe60OK+kznCVhW+OX1\/c1XqjDHjmmm1o34SOdaLbJaLZL9zIzaJWpJ+5T4JktGpRvHZSM8btGhpBeyiUMBpWNIPAAPwCAAK8jJQ0BXkOEJcjIGhk2NLZQ+BDFYDEAwEDBuvsBAAArKGJguAZAgsBWAxAHkA8C8CYADAVg3oBIqPkmPBUf0gVyILBgIA+4D6jnjhiweFJqr2bRWkNxLq4xjj+r2IzQ7ZKuGbrUtoWSLnGhoUJd0F5Y6McMql2s25RLFIl7KfInwZGbJfBbWiWIFjdOl5N48HOnTN0zcRSGJDAaGmKxoBgg8huwH+Ri5Dggr7DJQwGh2JcAA\/ACsChgAlwQMBICgAAryQHkXgbFZQEtjYmiYDYAJ+wAJhfqACJm6RVkyYDvRUdJGbe0jUAFYCsBgJ0BdRSRTQRGRWctMV6KZyzn8rMm3SemIJyx7Z2jdPujaIySjkhcWn5Jwz\/wCLfJaRr4E6K9CWYVLRLLJYgho0xvSIoIaZuDoTAmPAyofkpEoZBQIQ\/IDTGSh8ANegAJcgUAgCKAVh4CnYMQ0AAAmQMV0HgLAHwJOwAoBMPIMoBByg8GQnwIb4F7lgCZbZVkt\/UQFfUirJXIwhhYC8aChpMBX5A0jaLUlaKaOXo8ndDsfKOqyWYqWcXVwcmmlo7XyRKPcqJLg85dNOUO6NfYJY5waUkd8VqqIzQ7o2vBf0mCLcop0ErIwy8M0fBmtJZPkoRkQxeUypEyNQbRKsyg7iaI2hopEj4IGNE3YyimFiAgqwENBDCxWie9X9gLGQpWtIG3WkFXYIlNjT0A+AYXoXcvVAMKF3r1QnkXqA6E2iXkTRDmq4GjVNMGY\/M3pIPmP0RNGtquRWZ\/MdE97GmNXLQrMu9sVv1Y0aSk09E35bIv3F4JpjS\/cfcl5MtgDGjye4u8gKGi3LQEUA0xWX\/ZzqSXO\/udqfckcOZvNmUI+NHbjioQUfQ314gfJLLZOjCokt2Ki5Il8EHLNPHltcG92rXDCeNTqwSpJIWqlirZTEBDJfBbIZYCLotTVmfA02a1MaqQ+7Zjti2NG6kHf7mNAS0bd68sffHRiOhq41+YvQPmLwjMK2NMaPJ6LYvmMmvIMmmH8yQ++XqSMin3P1Fb9RpaFRNBbCwGAg5Q6sOAJqgKexFCoKGBBNBRVABNCaKExBNAimLgqFQNDAapfgNjehfcIT0A2gKrXosd3kf4OvgUYqMEkuBmrdZS1YqKJ\/JgJ8USV9xNBUtMllMXsBLRJbRLAmiWjQloQQ1oVFtbBLZoTQFUIgVDHQ60RSoaQ3Bp7VBL6OWi5U0qGiHkivIlmx+JIfmmtKGZrNDxJFfMRMsVXgGT3rgpSTAAoemFGQgHQFAA+Q8AIXkoVAIB8MKAQUNi8AJoTRTFoBCGw8AKhDAkCqg8DEVB7AD48AUegheaGlYVZUJ8k8jFTFCJK+wmiKliYxBCZJT4FRFSFbKFVGhNCrZVWFFCoFG3pHR0\/SyzN21CK22\/Q6ljxY2ljjGXlTLOU1xRwO492k3T9UGR48Uvp+pr1WmdeWDjjitXI5Jx2r8G8kT7XNfd+pv8GWRb+lUdMkktbM2rLpjmd\/k",
+        "ts": "1620047863.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "jsOlx2T21wNMc7xtcBc48NnRRLimBEM+\/rN4zUlaZi8aJ7ZRevBm8yrrrUn6mkcnqccM3iX7myd7OV5xp0JpjdGCbiaRnfJBdBQwIAVDekHgBeQqh0AEiKfIFE0JlCoBNaEUIBAAMoQvBVCIhMArwAxXorYhoPU2yTJ9SiWjIliZVC8gRyD0OgYVDDljaBECaBoqgpm5BNex19J0ve1KaVekvJr0PSxyfXOpJOqZ3qPy4x7eFf7G5MROTHjSbu\/RJaRy5ZXHlLwtF5p1w\/2OPLNvz+BpIWbL3OtJLgwnKwltkvYVnJprgk1cSVFBWVCqjVxYnFaBjKhONGriHaUxj2iqzZohxGpjJwTIi5Y3rg2caIaCNIyUlos5W3F2jeE1NHO841K1hN+eDZU1aOdcFwlRhWzQUC2hkRNUH2GAE+QoYDQmJjYmwEDQ2tiATCgABMRQixE1sCqQFHegegXqDNRC8ElAyCGhNFMRFS0JlE0ELkEOhpCBpUa9N08s+aMI+Xz6GdW6R9H8F+H10yzuNznfb9jpzAPCoRpJJLikc2daPWl0z7n3dtJbaOTqcS7NXXDbLhHi5tSr1OWZ6PV4FTfdUlzF8r\/ABHDPG1aaDTmfHuJLRt8u3sThTevsBnQ+29GvZfCKjB8UBzdkkrrXqHY2zsjhb5j+AljhfFP1KONw9hdh2Sx0vVe5lJJPRFczhRPadDT8ENXqtgYOJm4nRKNJmUkVMYNGduErRvNbMZegZdGOanG0WjhuUJXFnXhyLJH38nPrnFlbwk1ya36HPZUJUzmrYQJpjogQqKoQE8hobVifJQElUJgITH4BgIAYBCAaAaO5D\/IkHJ0QmLwNifBAntC5QxUQBNFCrYUvBcUJI0grNSI6Og6Z9V1mLCuJSp\/Y+8hihjxKEVSSpex4f8ADHR9sZ9TOO+In0Buo5smKO2+6\/VVr9znnhhJOLj9T5V02qo78n6JbrXPocOaMe25OKbj62n6ciUeH1+OMJThUm21Lj2PLnBt7\/kez10oKbgnaTbTT5XimvB5mWNpxbSarj+hWo5ux6Sa\/sNYl6qT50Fta2Hc6aVJX4Jqk7XDBcev2G41435sHp36hVR0qT1V0in8vmKkrVbemTBK0mr9a9AlKG968eQFJ9\/0ybequzDIlG1z6P0NMj4qVr7VRhKVvyES3XBD2N7IbCpk71ZDKZm2VESRk0bPZMkiowcbI3GSaN2vQiaCN8WSM4r1LOKMuySkdkJKUbRx7mLK0jKjWL0YWXjlXPBzabCYAEIXvyNiAQminsTKJoAGwJAdUDCJAYAdyGJcD0dEJkj5Fx5AQBQNGQMQwQAkd3QdM8+WMVwmrOTHFykklbfCPqfhHRrHCDnFJ3t+p15iV7HRYF0\/SwxrwjoEKUlHnRlRJpK20l5s8zJJqFOWu5q1wvSju+ZGUqjLZ5eaCefvpKW3KpJq\/wDPY1EeX1WSs8puNve0+PZq\/ucUsquV369ye3Z39Tim\/r7Li\/ptHnZ4qM6XhcCtRlJpyteSHJ8ocuQjCcn9Ksy0ITaaa5L7k70KMXdGqxNNWueLCsZW+EQ21ydU8M43ar76JWOUmlGLlJ8JeS6OerjyZvG3s7PkttKUXGtPVA8PbL6k1\/cDgcWZyjej0JYLVf1M3gr+4HnuLIafJ3vD6kPBadbLqY4GiWdc8HqYTx1ZWaw8ikrKaJoIzcdUadPkp9jE3oi6kpegv2DsGTF9yso899abQlaLMYOpGvglCDYyfcAr0ExgBL0JlCYCAGACaAAKjvX3F4D8jZ0iFYmhkgAhgQAwGkWQeh8G6d5+q0r7aPssGGOKK9Vo8T+G+mXY5yj78fsfQm78+IDPK634+xo2oq2ef1PVpTXa\/ckgynJRhaj4++\/8RjkfdUlp\/wD18\/t+wS6pSvhJy8epKamlkp1B21fi6NhySglGD4nw\/Ro8nrMKUu9PTV7+y\/7PRzzi+90l31X1bilo4s0u+CXdx66SMVqOCWJ05dr0vC0Xjxc1pJW3R0uKk3UajyarFVe+qfBGmUcEXw474SXJT6elXfFS+3B1Y4Tg3Lu7m9L0\/f8AYuUZtXNei\/xlxNcMumdpOTlfFlw6RzauMna01wdXZe19MeG\/P3ZXyu6v\/py1HlfcuGuVdO8UmknXHrRGTGu12nwdklihGXa23T\/U+PQ4+o6hUk4dkqT\/AAQc36+OVowytxlXBebqHdr9Vco4ck25PdFi1pkmo6aJWSKic0otyb7nQOLm1yjWM66X21tqzKcE02ghBRSttlRrs97IsceTF5SZzTi0enPd3s58sLXGyaWOJkNG040zNorLXp39FGpzYLWRrwdJw6n1qBG6\/SYWbY3oyH+QH9xP2ATF5G9CAKEFgwEAfcOAhPgAvQGoO5MbVC8WBtCEMXggAAAHyaYo904r1ZB09HHu6iF72b5g+0+F9Oun6HHGqbVs6xQ\/QvsMlEZdK7qjx\/iGSGO6dSvXmj0Ov6iOLG48trg+b6rqJTk5Pd3r0RvmIjP1ipRSpp3a8+mjKXWSVxjxzVHLkmpy7uDNtNcmvg631kvsvSyf9Qu7mzjd3dlKvUxWo74dRb9nqjqWdcpas8yNeprBuzFbj2encc2+76ltJm7g+23JVVpp6PJw5eyUWuPKO6PVLu3LfpX8jUrNjS2sjg9+q8cf\/wAHkcHBN22tp8ESzwjlxTaTada4X3MeqyOMJNVUXVeppIwz9Q7e67t\/k4MuXufkqeRS2cmSRzrpickzBybYpzt0dvQ4Iy+ua4N8xm1ni6PJkSk1p8G0ek7U05peyVs3y9XGCpXL0S\/uc7z5XF124orz\/wCTpjGsuoxU9ybZyuUo8M6OqlnxpOeRvvdJXyceSU1+olWNVktejJbMVkTdcM0T0YxdROKaOecWn7HU+DNpNUWJWONfWbJGLdSN09HLv5SFovE6ZBUXTRzabB4DgAhMT2DexkEj4BhooQgfIwiX7AAD6O7wAIHr8nVC8guBsXBAgAfkoaO74ZHu67CvWaRxI9X4FDv+IYvZ39zfI+yFOahByk9IZx\/Ec6x41G1cvN8En0eP8Tzuak1bTfLXJ4rjObbScvVnu9L8Pl10+\/JJrH5p7I+MZel6WMcGCk1zFePudP8AEeFLG16cDx9PF7bT9BZcsu9tY+1ejLjn6hRqKxpfYYqpdPD1r7I58mCUeN6s1lmzRaUowd602mx\/PjJqM04arcrRMNcsZOLpnZipx0c+fB2vui+5LknBncZJXr0MWNa74pxkdOOa01d88i6bC8zTknT8mWVPG6f5tE8XdejDszxlGbtS+p74OfrJpRcHae3p8nJj6hQT1bfi6s58\/U3aS14NGM5ySWvJyZ5uPDKyZdnPln3GZFtX0WP\/AFHUxjJ0r2evlyuXbjxQVeq9PY8Ppsrx5LSPSxZlkk4OfbOa\/XX6fRHWXGL9RJTcvl9PDukl9VcR\/J5eaWTJk7ZSb9vB9n0PTY8Xw+WKEb+YqcvVnzPU4pdL1EstuOXHK0kvInWpZjz87lLM5Jdiu1FN1H2Vnbh+GZeq6b5+LNcl\/wAZGHVdRPrOrnnyU5zlbpUe98Gwyx9I5yTVvyZ7uLHzWVZMEu3PBp+6Kx5FS9D3PimTpZP5eap\/TpLlHgdkYZJdjbher5osuwx09yaIdCUvAPkiMpmsHcUZzsrH+k59xYtgAjk06E7imOyMb+kqyITYB9xDAXyDfsAMoBWPyKkAMAYFR2rgA9Q8nX1CB0GheCAQySgKR7X8ORT+JQvwm\/5HjRPf\/hiKfVyfpB\/2OnPiPpzzetxvPljGOk3ykek+DOONKbk\/HBmXBydTlfTQxdH0yvNk0vZeWeV1y6T4PBTyL\/U9TO9tq4nRl6ueCfVddSe\/lYk\/O+Tw+khL4h16l1Lc7t78nSTB5vUZ883LN2fS3zJGfTy6jqcjxwU8k5L6VG7XuqPc+NYJS6X6I\/TF3SR4WHqMnSZe\/FJxnTVxdPaHPWliMMMmTPGLnL72exl+HZ+mir\/38",
+        "ts": "1620047863.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "bVtr9SODo1B5IOS7N25N+D3svxnpMcXFN5K8JPeidXL8WR5OW+n78WSEov0kqaOKP8A7hrn6ifU5nkmm5S5bdjhjcppJcge\/wDBvqUU7oz+LYvl5UuF9zr+H4PlRvv49FZz\/Fu7Jlppt1rRmnPrxJtp617mE5u9s3ypReznkY10xlKRnKjSS9TGbtG5Uq4Sik\/UcYTkk1LT8IxWnsuE3FlR6XSz6uKUYdU4xXHLSHmhkyZJTzZsWRwVtXTe6r7nJDM+Uzb57f6437lK5vlvDNSqMmn9zXN8Q6nJHsc+2NcR0GWcZ+Fdf\/WjnlolEqKlK5cimop6VA514MpyvkgJv0BMiT0R3NMJWsmGJ3Zm22ViatonXiRsAhnFtrid2XyZY3UjXgygJvY\/IFCbAdCYCH4ABAnwAAaHYuAEuB+DbIFwAeAE3xZQg2UaRXB9D\/DFvqZ+ihX8z56Pg+h\/hpP\/AFTfjsf9jc8qPpQasYnwzCvL6\/pJddlx4Itwww3JpGOT4Pk6STzdFlVqNOORJ6PUxZIudeWis8ZTxuMGk35as1t8R8p1PxHNDux5MMLXKPFzR+fNyWOMPbg+j+IfD2pvvyd9O6X9WzxsmKKk3VfmyzIvqVig6WSUpxgu2KSSsiXykqjBUuFX9XyPfHHg2w9I5t+iKrDDhlmnaTfq6Pc+H9BFS+tRlTvm\/B3fDvhrhC65S3fg9JdMk7uXFc8E1lnhwKOOqryqR4\/xaK+bLm9cHsdTmWKDhGW\/weD1eVduRWpOWvdGLW+Y8fqMdJttehyTOzM4yk9\/uceTejDoytEuKfANUxdxqImUBJNvZbZcV3RLqYiDcHxo9HAseSDqUE3pps46p2uRJyxtSi2n7FlMdz6OVeFuu1nHmwThJpxOnD10VKKyb+yOn5mPJF1W7pM0jxJQfoQ469z0eoxpVfnRxzVSZlXNKLRnJHRKNozavwWJWNjg\/rQSi0Tw7FYda4GTB2irOFaOD+pG96Odcm8dolAwGIgEJrQ\/INMoQB9g8AJ7AYBHXbS9wBcAjsgEN+hLdEB+SkrZK5KiBcf1I+i\/hp\/+pkvSD\/qfPQ\/UfQfw3L\/1bXrBnSeI+mE+BiMK8nLKeOTa3JP6Way+IJRp+lGnXRxqLtU2uf8Av\/PJ4GfP2y7bvtVO9m\/Ub\/EOoTVKkm\/8Z5E5dz0LJmeT9TdUww43kmo2kvV6DS8GB5J1aPa6PCvpUfocpJ3FVr\/Gc0cKxYnB0n2u7rn7\/wCcnX0M3OTkl2w7ta3T9P2A9zHHthX0\/wD6qkLNNY8bbde5UVUUjm6uMslJRuL0YR5PUybdv975ODqIJSUtq3x7Hr5cDgmm4tI83qoVJx8pehnp05eNli3fsc8lR3zhujGWPZjW8cLSoynE7pw9jmyxpmpTHLbTN8Uk9GWWL5XBOLI4y3tG\/WPHbyVF\/R2va2yYbVpWvQ2UY9rpp+V9iK5ZwVUtsUZyS7ZPuSVK\/H2NZKXde9GWRzcnJ7GmK7+922Zzrl7Ep+iBtPQ3TGbDtTRTqxrZZUrDJE55Ro7ZQezmyRaNMVeJ\/QizLD+lo1XBx69UWjbE\/pMS8WjNGoMPGwT2ZCsYIChANC2UD55AGteoBHUDBMK1s7IGILAij+40\/wBhD+xYjXHye9\/Dd\/6327WeDj4Po\/4Yj\/vZJN8R4\/JueI+jE2krYzLO2oUltuuTCvF+JZ33zXlKS07rZ4OacrTabUvXmj1PiLUZSi7lzCkqrV2eSsXfCTcW3WqOhERXfKq16LZ7fT449Ngi2m22lV1\/mzl6HpF2RlJTTerrn\/Ea9TmThba\/S0qVLfp\/X8kEvI3ncE7Skqb++v6nV8MneSMEvpUu6r5\/8cnk48ruWl9SS\/mej8N731CjHblqvQivo8+RxhS5ZWK\/lxObLjkoqcnb8mT+ILE+zUqZDB1+NPuadUqdLn2PK6m0m09uNP3\/AMo7Or6+OTHUX9Vtv21SOGc08Pbe75MdN8ueHSzyR7oxvwtWRl6fsTbVU6ryj2uky9LjwU20+bXPB5vxDqYzm+yPamtv12Zz41L9eZOCejCeG06Ru5L8F9Pnxxk0992n+5I1a82eHRyZMTij6DLDHJd0aXiv7nDmwJ2lwWXKma5ugmnLsnz49z0JdE44nkg9dzSbaV1\/iPInGWDIpx8M93ouohkwU\/NJxatPd\/jg6Obi+iK7c0XB1acfN8WT8rHlajDIvqdNtVX3PTzYYSbU6lWk36f5\/Q87rOkeHI3FuLq\/wSxqVxTxuMmmuCKKlKaexKVsypJDStj0vIL3NRihrVHPnVM6G6RzZ3ZuM1GHlmi9DHD+pm7OXXpAi8XJBeNfUYVqFeR0TwZD\/qAlsZQvIfgehf1KFK6dfzAfIFHSNhWvQDqiXyFeg2KyICkLyCdlg2x8UfR\/ww\/93Jvfb\/c+bge5\/DmTs66MX\/yi0bng+rMc8u3G5OVe68Gpy9SoyX19zai3Xp\/lGYPJ6vD3vuuK7Hfby5WccYfIkm3Vp3W20ex8qLVRiqcb2jPB0scbjcVOfdbdcL0\/c0jjlB4Ogg6cZN7XlrwvtRw9RDJOcklwra9Etf8AR6\/XwkoPJJuorTq035\/ueN1jTmu2tpPX2RGo54NWvv8AufQfw7gV5Mr5SSR4MItreqPa+FdQ8XT5oxdO07I1XV8W61R\/2ovjk8PN1VJvuSJ+IZn3tp9zfqeNmWSadtkk08j0F1dyq7OtZVLD7+p8xJzje2js+H9XNN48jbj4foW8E6eus3b9NuuDKc+5bZjKXLMsk3Rxx01j1fVLFz+Dz31U3O8bpe48+OWbJOV8cGOLp8s5VR25kjn1bXZi67Ne90dcc\/fHfIsPwqUcfzJ3GNavyOUFDh\/kx1lXnXN1PDRr00njUZbteL5Mc31SS5NFLSS4XqFeri6uORX+lpePHmjLPLviovSVrSOLDl7J7ejonkvFFUtbsup45MqtsxcaNcjbbMpECXuX4I8jb1ZWaHwznyvRtPUfucuVm0LC\/wDc\/B0cnPi\/WbnLv0h0VB7Qktjh+o5q2C9DSF5AOEAveg+xAB7h+QsoN+EALQGtR1rgGJXQ60dBPmhPgYnsVCKjyTfsOOiwawZ3\/Dczw9XimvEkefE3xSqVp7N8j9Be0cuSLnFqK7m3ux4MnzujwyT1KCv9jWCpePuZ8QLHGLVKlXIRgrbcTRGef5ixv5STnwr4Gq8f4v1cceOWG13dyajz+\/5PK\/008UHmzqm9RjW3rn+aPV6jDh6T5sptdR1OR0m4\/pv+55uaGScnLLLufG3f8zSudRbpLbd6Xg9To8CxxcXKnLTv\/PGv3Neg6FR+qUPqW6\/mv6G+bp547yUpO\/5kNeB8R6fJgyuM41vn1OSMIOu7g9\/Pm71KHVY+9Naaf9DyMnRylKSxvjwZzGtcubpunmv9uTcn6qjDH0qinJUj0V8Oywx9zabkm1+DjnDIvDSJtPhr\/wBtJ+PJlkSSZSbaqQpQi4rmxg5scVKT7tHVjyYMW0t+6tHPODiyJRkB0dR1WTJJvvbXpejmnmk+UR9UXQSWhi6T9bGpWS+5Imxhrb+pXzKVPwYd\/wC4KQxLW0mmr8mUg7tkt7GBp7BvVLgm9ilIsSpyP3MZuy5OzKbo0yeN\/wC4jpo5MbvLE6zl36sIuF9+ifv5HH9SMK6E\/wBxB5qxWTAe419xXboEMBXIAOy4Ff8AlAHr6AUdf5E9jXuJ+TeIQhsRUJuh2S+QTCtYM1i6ZjEtM3EfYfA8ryfCoJf\/ABtx36cno4sndJ7+x85\/DPU9uXJglxNWvuj6DHJxk+7VstR0J3eqFOfarf8AUa9yJdsmrV1tIyrzerxq4RjDvUdyk72wx9I8knPtjFSfdFL\/AIutHfkwrLJJ6pL\/AD+RsopLS9i6Ix41Gq9KKnFSVNJlCdNp+VwZHmdR0cZRcb7e1VvwcEennGb7m2pNLjilaPbyyitP2\/bycGWXy8tp7jtV5fj+xpNYSfbjS7VJrSv+h5fVVjScXGSl49LR1",
+        "ts": "1620047863.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "9RNtTjH15X9Th6hpy3OnHjVBY43BtOk+6m69jFJ9virOj9ScnfcZxjpozWmU1q0vyZtM6mlTTWzGSV0ktgc7xvlcA46bNHL\/i22lolulSCMaJnCnWuOUze3LtuqiqIlvdAYSjS8AmW0miZRpNFEN7FYS8EuWyirsmToO4h8AJsyk2y5GbArCv8AcR1Xs4JTcNrRCnKT27M9c6a9LvinuS0RLqYR2n3P2ONW\/IUT8w10T6vJLj6fsKPUZF\/y\/cwsfJr8wdP+rn5SsX+plejnGT8xG\/8Aqcl+P2B9Rkf\/ACMkNJFyKv5+RqmwI8gT4Pd5QPgF+B+SCfPsS9bLZnLS9vI0TfkaoTBAaRKT0Qi4xk2kott+hR2fC+p\/03X4skv0qVP7H2TlbT8Hw7wPGvrfa64XJ9J8O6x5umxzvX6X+DcSvZhK14r1LhJNWuDjxNdtv9V+p0Y20kqJYjaPCrgYJprQGVBlklUZSX4Km654OSbcoy7k1G7penoWRKMmRRltrT3r\/PX+RwdRNwcpwjbbtNv+37HZLHJyaauo6VeDKPTOXbJt9i+p3waR5ueNfS3cVSb9Xo87qP1t62z259LNZJdtdqSdP1tnl9bgak9U60kSrHBKS9SZZfq1S+ws+KcYr6XbMscX3btsy2csjprgx+Zuzp+R8yL7vprwQscI+LGDmlNeORfMUm29G8sEHbqjHJhSemBDlzTE5V7i7JLVAosqC29cBJuuQ435JbAiXBlI1flGWTRYF3aJb9RWS2mEKcrEhMN0UZZnqvBOLYZnsvGkoAiqBkt2MypggSKSKBLY6KSGokCqiu0dcBWhoVIBtWqAuD20Jb4NIQc2oxi234PT6X4LOVSzvsj6eTEiPIUW9RTf22bLosslbj2r1lo92WHD0saxwV+p5XWdXzT2a\/I459PCLqc9+iJjDH6P72c2TJKUr3oqEpdyLivSx4cFXK3+TfDnxY1UIpV5PM+Y\/UHJ1suI6Ouzd8tM6PgnVdsp4ZcPcfv5PLySboXT5ZYc0ckeYuzUH22DPbX1bR6OGfdV70fO4M+oZIfpkrPZ6TMpxRmsvRJlKnzpIdrt5OTNNKN9zSfvyZkU8827VOpcCxJzlJbauudUc88vMqd\/8dkrr44e5STTS39zSPQlDHFSlOuKtvweb13xjHiTx9Ou58X4PL+IfE5ZbhFtLwkzi6d9\/wCrz4Eiuh9R1Odv6pW\/CYf6bKk5SnJP3O7AseLEnGP1Vr35\/wCjm6vqVHHTdtu79qFNcK7nPtb0iJZO1ulwQ+oVtmUsibbvTJi6eTLcnZm5fULJlik9nO8vp5A6pSpO6OfJJVoiWfTSafuY5MjYwW50Z\/OW0T2SmP5Kjttv1AJZfYjut1Zpjhjbfemo+qMHSl9PAFuRnN7C9kSaATZm3Q5ElAD4D7meSWqsCG+6RpwTCNJtgBS9yktCSKSIHRcUJIpIjRpbLqhJF1oypdomvBaXhMTWwJku5egFRSTtsDWo\/R+k+G4ejgtd0\/MmHU5444uqKz56T2eL13WXaNMMeu6tbr+Z42fLcuNsvPn7pNXaRz\/qbEaxKVvR0QgxYsbvf8jpUVFMDFKhSetjnNJ0YynfHBA3Ihvyv5C7vwK6ZqGPV+FdS6+RJ+8f+j2+l6iWOS3o+SwzePJGSdNPk+g6XqI5cSmn9S00Klj6qGRSxKXg8\/q8q4W5XteKonoOpU8MoN7DqO1Oqq+X6EZcfX9Y8WBST+rhfueLk6\/LOdtt+a9ztyxjn\/2u7tjfLXBM\/heaOB9n1Rv0plHlvLKTbp3Zv02SS2m9GvSdDly9RHG00mfWdP8AB+lj08YyxrurbJbg+b\/1M10bVU+L8+Ty8ueUopSbtKj6rrPhEZZPlxaqv5+DyOt+Dxx5XDG3OSVuuBqx4bm+4FOVXbOjJ0zxPf8AQzab1ekS1rGE+6TT3x6E9sl4Op9zpOTaS0g7N8CVr8uaOFzu2l9y44aVm\/y+1praq\/wdeRYoQkk0+5KUSWpjzvpULT+pePVEN2mr0ypV61Zi2lYiWhySx1e7MJMc5Va8mcpU0VA3X3JbBvZLfoUJ62JITFdAEpJIySc3fgHc3o3hFRWgIa+mhDlYRIKiaUKKLRmqEi0t\/wBRNaLXBFNItR2hKOn4KW60NUmt\/kJL0KoGnyBDS\/xgWqAsH1\/V5ZpOmeF1k5d7VukAG2I45N934\/7HDbkgAsWuzFFIeR\/S370AEqOGcn\/cmWl+AAlahS\/VXjQlywA1FNPR2\/D8soZ4pcTSuwAsZe1jk8fURUXq0duebljcW\/AAZYrzobnbS0qPX6bJKDUU7UlbsAKlbwxQhlbiqdf2O1Tk+pgr048ABmkKE245sjStSf8AJaODNSXVSpWqSfs1\/wCAAy28DqIKfUvuvRzPDD5rVf5oAI3CeOMc3alovsjHp20lf\/kAKrlnN\/7a96\/mc+Scr7b0uAArFcs5NUvBEnpMAKjCTfcwfAAKIfFkyAARD5Jk7dABaCOrNluKACQiJoFwACjSPqarle7ADLRp6Za3+9ABlVeEUv0WACrVpJp\/56iXgAIg5kAAZqP\/2Q==\\\",\\\"id_front\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P\/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P\/wAARCAF3AfQDASIAAhEBAxEB\/8QAGwAAAgMBAQEAAAAAAAAAAAAAAQIAAwQFBgf\/xABGEAABBAECAgYHBgQEBQMFAQABAAIDEQQSIQUxEyJBUWFxFDJygZGxwQYVQoKh0SMzUmJDkuHwFiQ0g\/FEU2Mlc5OissL\/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID\/8QAGREBAQEBAQEAAAAAAAAAAAAAABEBIUES\/9oADAMBAAIRAxEAPwDzOlHStp4fMOVFIcKcf4Z9yy1WWkdIVxx5W843fBIWuB3BRaUBEKKIUUUtqWkKZS0tqagkSmtAg96FghBxsJCgdSR4cOzdS7RFqwqkk9xSUe5ak5meWgGq8lIVipTSO5aSbPIfBQCMjeP4FIVmok8kNK2CKJw2LglOOzskG\/gkWs1BBafRnVs5p96X0aXsYT5bqLVAHgjSsMb27FjvglIPaopCN0aRpGqQLXxUruRRQLSNBMoooEKCuSNFQIgad6KlJrtRUClPEogI+ZRC\/oiAjSnkioRvuUL2UI71EhQ3RAHmj4IjZBB4BFQC\/wBkdNIAEwG26UjdOBSAVfmiAjQR57BVAA33QAN7BOBQ77RO5HyRCgAeJTAX2Jg3dWNCapQAEQ1NppOG7KKAbTf3U01vzRO1WmA8EQAiRvumoe9Et5+KqaQDlXmmbupXh70RXbuqhg3dT1bU3vfZMAgQEDsUTae4KIOqIkwiWfouJs5dC\/4hMJs9g6+GHey9VloEPgm9Ha7m0HzCzfeLmH+JiTt7+rasbxfDunPLD3OaQrBZ6BA7nCz4JDwjFdzjryKvj4hhyerkRn8wWhskbvVcD5FQct3AcZ3Ivb71S\/7Os5tnI82ruah3oar2Qeef9nJvwTxnzsKp32eyxydGfevSgpwqPJO4FnN\/wwfJwVbuE5o\/9O8+W69l2KN2JSjw54flA9aCQflKrOPKz1onj8q94jQPYlHz4scDuCEavsXvjFE\/1o2HzaFWcDEferGj\/wAtJR4Mjto2iB3L2zuC4D27wAeRIVD\/ALO4J9XpG+RRXkdJpA2duXevVP8As3E4dTIcPNtrNJ9lpfwZDD5ghB54NI7U1uFC+S67\/s3mt5Bj\/JyzS8Gz4+eM8+W6DF0kgHru+KgcSeZPuTyYs8XrxPb5tISBpBsAqKj9JbZY0G+5V",
+        "ts": "1620047863.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348060958500\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 562 048\\\"}\"]",
+        "ts": "1620048697.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620048698.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347030881343\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 765 005\\\"}\"]",
+        "ts": "1620049794.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620049794.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348165490666\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 872 792\\\"}\"]",
+        "ts": "1620050735.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620050736.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LOAN ERROR]:\",\"{\\\"product\\\":11,\\\"loan_amount\\\":5000,\\\"tenor\\\":1,\\\"loan_purpose\\\":\\\"4\\\",\\\"tenor_type\\\":\\\"monthly\\\",\\\"selfie\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv\/bAEMAEAsMDgwKEA4NDhIREBMYKBoYFhYYMSMlHSg6Mz08OTM4N0BIXE5ARFdFNzhQbVFXX2JnaGc+TXF5cGR4XGVnY\/\/bAEMBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY\/\/AABEIAfQBdwMBIgACEQEDEQH\/xAAbAAACAwEBAQAAAAAAAAAAAAACAwABBAUGB\/\/EADwQAAEDAwMCBQMBBwMEAwADAAEAAhEDITEEEkFRYQUTInGBMpGhFAYjQlKxwdEzYuEVcvDxJEOCU7LS\/8QAGQEBAQEBAQEAAAAAAAAAAAAAAQACAwQF\/8QAIREBAQEBAAMBAQADAQEAAAAAAAERAhIhMQNBBBNRMhT\/2gAMAwEAAhEDEQA\/AOA6Y7BCQfhGQQYIQ\/C0yoi\/RVF0RVZCEEyJjhDn5TBhUYGFIMQEt7S4FNCEhSZD\/RUUyo2HGEMYQ0rgWVqHHdSEFI5JwpeJJKnxlThSQAEzKmeyvHRS2OVJDE2VZUG1XKkGFRv3KJxIxhAT1TgXBVG6kyCqkwrFqRJVqpsqVg1IjCsxwpEBRKSSpcFWrgxZSCTOVIHyrjgqQIShUiBVYXfSDdam6iiw2LjPQLILR2V2c6wTA0\/q2DDHH3KX+qI+ljQEtzIQlp4VqNOpq\/zADsEDqlR4hzihg4ViADdBG1hPdEKJ9k1nqYD2RYCzTpfk88KCiOAmCUY9lQUAotIuraxoFgEYBVgdlrACFI4RhszdVCkHB7KjwjPKoDg2QFAXURd1FEZF8qiDBKOFRxCUCJVgDcpiykXlSCRe5UIKIXVRkIQSPSgcIjMJkGCEMFSJeJFoss9+Qtj4AhZ3tjCiHKo2MSplXtcZsg6l5vEBVaP7I203E2FkfkON7CFYtKH4Ui9gU8acxcwiGnAJlxsrFrKZzCuD1TixjXiWzNpTxSZEbQnFrA4EdUFoWnVtAe0CMJHGLpwKMiynVXHKqMqCRewlSCDCnyrF\/cpSoVtgFWMqHKsKAxNlUzZTb0RNpvd9LXH4RgDJ3SphPbpK7oii6\/UJzfDNScsA9ynExHsrwugPCK3LmD8p7fBwY31J9grFrkAyiuu23wqg3JJ9yiGi0tP6mt+SrE4cdlPKc8+lpM9F3C\/R0\/8A+MR0CexrXtD2wQRZWJxGNc1gaReMK4vZO1IjUP8AdAMLFaU0CUyJuEEXH+EwCAFQVW2yvlEPpUIWgC4NlITI7KjM9lIMdlW0SjN+FIMlCBAA6KI9qigIWsUJgI4MoS2UkKhaiiAoemVIJ+lVAsUXupFu6kXmUJTItHKkAoRTh6UIbOQjOJwpyog29BCIDj7ogJ4V7R1UlNbBtCLbIN4hWAEW34nolBhQtBnKOOykXNkgryz6ee6ZttaFcRYKwLYUmPWNJqMtNuEkaes4+mk4+wXZ0sF7oEmE3Vapula3e0ku6cJwa4o8P1LsUyPeyY3wjUHO1tuStf8A1QkemmPkoH+KVuGN+yvS9gZ4NUP1VQPhOb4KwRuqu+As\/wD1DVusJA7NS3anVPB3VSO8wr0XSHhOmaJeXH5siOj0NPIbA6lcdz3u+uuD\/wDqUBLOahPsFandD\/D2TDqfwEJ1+lZiT7BcTc0AbQ908qGm98bQ4A3hWp13eLUxZlNx90p3jBP0Ux8lYG06oEeWLclTZUOXsbHSFasaz4nqHD0tA7gJTtXqzl7h+Ej\/ALtQe+VD5Qy57pzAUhPq1XmX1Tfq5ATeDVn7qDypEUnO+UxrKhu3TH5BQig5hOSTxZeh0rSNNTngBcenR1NRocxjI6gBdamS1gaeiYnPrf69SP5ihsAjeS5xPU3VALnWlNElHBjCJrbIo9MFMgoNvdXEIw3gKQkAOT0VYglHFlUGLKQYPVREVIUgxKiIzCikshDFkXsqOFIMEd1AJOEQypMBSARdSLWVnKhFlIMQboTc+6MiUJBGEEBCrblMxhV7qSgJhXAUb2RgdSpJE3v7K4myITnCsCLrSVBmbFQzaUYUicKALDvdSLo9vVSJupD00MrDvZV4kwv04cAJBmChmHbui0VWCtRcwmzhlaDjhrwBLmAdLKjZpBrAW4XRbomsBaDua6xJF\/hGNBpxlpMdSjC4rvKFzUe74UPkxDWvJ+y7rdLQY2G0WdcSjbTAs2m1tuGqxa4UTanpife6aNPqnWGnA5ktXaIJ5U23Tichui1h+otaUTNBqKhPmVi0DreV1WsJ6lQNix\/qpOd\/0pod6qx+AmN8N07cmo6epC2wIViCVBkGi0zBJpg+5TBRotHppMEdk\/bbooW2mVIoNAuAG+1lZki8\/JRWGOVIv7oQAAAAAPhU8lrC5NcDMAQgqU97Y491FhYNwTW0wLlO8sNHZSICziBBFscqw0KwJNvhQC4SgxdVARlsjKqFIAbCogyICZFypYIRZAsIU23CPc2MhFGFIuIURwohFkEGVXKNwM3UxkJEDhUiIseFRlRDt7KH\/wAhXFolTlSDnAVG1lcdlV55QQEQFG9UZNoVAdFJQEIg2\/dWBbujHSFJGixVwcAWRcYhWBMrQVt5wrDJB6qwJHuiaJ4SgBshFthG1n5VkREYUiXNBymUbjb0UiylNhkulwlSNDYb2UA7391Xl2+t33V+WD\/lISIUJE2Ixwi2MnAVw2RhSUB2VwYuEe7oFRMKIYdGAhLX7uAmXkSpeb2UACm4i7vsFflCT6nEphucSocDopB8sHMlQtGYCsuAyQEBqsAMvH3ViSLXAt0UMSensgNemAHS4g2sJSXatm4tDSSDk4ViPIyVREnJHssdXXkEhjfyk\/q69QECB7cJ8atbz6neyGwdc2WBtZ5O1zzEZlU54LSJJPXqrxWttSowC7xbN0t2ppDqfYLKBvplxAEKFriycdleKP8A1YJhrD8qHUu6ARlZ2NcRYqwC4wBKsLVTD6jdxJATPJbm590On+mJFloDCMhYqLNMQAVez0yEwNtj2RNbAwhE7ZFlE0sJ5UUmU\/Cq+IRQpmRwpBIOFIsrKkScqIYgqiJKKLKr8KShHK",
+        "ts": "1620051856.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "EhFnIVOHOEIBFgrGeZVxBEogOykqJGEQGFUSmBsmJsEpYCJrT\/ABYUDYhMAtcfCYAbT0hGIiyLbIwra0gZWgED8qwMI9sGwCgbuMIJbsGFVL\/TFiZumkCD2UYJY3olILSTZQExJUIRAfbopBCAVG7nNcQCE1w6ZWDxJpaxr2i83VPaaDqaLR\/qD4QO8QpQSNx+FzWkmmdwngBWWfuYk44W\/Ea2\/wDUw4+iiY7nCCr4i4Ns0TwFipBwYTiTiLom0TUl1gO614wNDNdWf25kDhKq6iq5wIquNuDCumPMBp8gRIwtlDSu2RTZLuT1Vkic+nUIqgvLndQtheHs9LHEdTaU8aas1zWxANgeVZpN8svqEhxsIv7qTIZl1W5i0NNglBxLS51h\/CAtVWnsaNzD6voaLTfJUGne4B72+rFxjhSYqIlxkexRva51QhoABT3aU0CHWIdiOFoo0GGi90EuItHBUsYRp5bMXCvyQbFpAOSV1KGmNNpfl0Y4jrCcNLTZSNR4FnSDEbh1CzacccUJgEyAj8h5aQ2LWXX0+mdVpveNmORke6WWuH7ssMnDuvsjTjkup7ag3AtnlMFED6SACJnquhsZUYZAJnlZ30H0\/oFicHhQXoNHWrAup0y5skTK6DfDdTN2AfK1eA30tRsAEPvHsunC8\/fVlx0nPpxW+F1yblo+UY8KeRBe2F14VQs+VPjHMb4WBmoT8KLpQorasjxxU68IokISItC6uahlSEXEKRZSBE2CqQji6otvhRBfiFDbMFEQq4goQRkImiboRkox9wopF7pjWxB6ofwmsba0n3SFgT\/6RgRxwo0ThMAutMh4iM5VjmIRQpgBKUeVYaJRQrA5US3AlpvEq6bR5Y4tlE4Sw9FbGjY2ykENurDEUWFrFXmEIOyRIWTxCnupf9pBhbZvflK1TZ07xzGeqZ9VctoBBaSJ9sqnUJZODMhaQ8NoCnsdMyZjPZKDQxwMENJkD34XZkqlQD6ha9xYTESjr0gGWJzG0Whb3UG1mwGgWyRBCWxpY\/bW2OHDiYCpVgPDmUIDHktfcHAuu1Rpfu202AAEzJH5XGqabzXte1zQTjunDRvqah7HVn49Np3jlFhPqO8l4c+uzeHjEeodbJT6wZRc\/Tgj1Fwc4X6KP8PpMhj65DjglsALbS0IqUxS8xr2\/wBf6o9ROGG1a9QuEudmSu3o2NfTJd9QuGkXW3T+EUaAO4bqjhZoBTQ11ItadlMmxeRYLPXW\/DI5+ooMpw4gDcLQFho0a2nu4tLL2GV2Dp21a5h5qNbBc4ti3Za9RomQHRtMQAjTjiB5cJcAXHNokImUmlpc91nGxJiR091rq6ZrhtgFzRicHr2WX9PqKVJpa8OJfBhsxxMrQE2i7bsa54aLlpP9kI0wBcHRczE3Wz9M8gBrnNLhYwBdVV0jhpTNd+4CZ69ghMw0pFMluQew+6J2llrdwwLmU\/T6Jw07dtV2917mQOyYX1qTB59LiNwEhFiV4dFOrWpiNpDXAytxeOoWCoW72PAyzhXuBP0rh3PbcrYajYyEJrM6\/hZpOdoVw88Qs4dMdWHEn4USSx85UUNedmbdFREyVYkFRwIFl1YDyFcSrP3UKkCPdXdEbjCqbxaIQQnEQhN8lHgHlAYUlNsco2mcKok3n4RNHRREG\/ZNYBYiwQgJrGwcZWoBAI25ByoMImgQCZSyo8q49kQbN1Z+oJQdoBU25iERkXlSzQSbIIKg9B\/yhfVp0WgPcJjHKy63WBoLWSCDdcyo9z3XJuMlSbaniU7m02joCThZm6uuN4DrH8LMD6ht91ATO4m4SjamorvMOebdCq\/VVi3aXkza5uszj6pbKhkiZUmkaxzGxYkDlaKGtZUqMa8DaCLrnGAbmVOLJ1Y9p4fSZWcajIIHuYN1pd4fSqUHMIG6IjO3oV4\/QeJ6nQ1Jo1IBiQV7DwTxil4jLKgDK9sNz8o1r0wDy6dSoXMZTfTI9I\/i6wtHhrBUqVXNsSQGteZDW55W3UeHU6niDnvmCAQP\/PZXrNMBRpgU2sj+Wy7Syud9AdVNXVDSso0nO3AbySRELpso06TbMYDE\/wDKweGUW0axqOwGmDHP\/kro03GtTLnN2+r8C65fp6a5qnMqeax7A0t3S\/dmItCxU9PvqODSY3bW9gOR\/wCcLpBnr3EnsJshYBvdAjaf7LErTJ5DfM9AkB0cXHKa8EbnMkiTY4ymhuwF5mGgwCk6VzTTioBub1SNc576fnBrmVGPswjdAcO5WhtHeKoc51Km1paSLA3tH\/nKZ4hpQ6mKg+oWPdBSoh\/hrGbwYfLr47Lp6xksU6FRho0tUQ92CbX+yFn7tz9PqnB5LLOiAttTSaZlEtYxoPBGUVen59Km4lrTyeZRpcJ1LUaYmmdzAeJsV0AXUpoaiKjHNkONlrrUGNpepoeQA3cVbKzRSDXM3EdAm9aJGGhpT5VNpEzJAWtuiMfTCfT3Go1zmx0jhaFx6bjGNF7BF+k9lqUWUzfo2n+IfZRaVFJ8+IUjqrEAKzGFpkBHqUg9lZCkdlJUTYqrTEK+LFSDjlBVAFkEAHPyjgc4VFs3hRA0Eu9k0ZmIKFo5RtB\/4UhDv1T2TGEDQJHVOZ6ot7rUZohJ\/wAoxGIPuhaI4yjbMLQRonKjrHCsD5KuoBkmAM2QQxaYXN1upJdDSRFjKLWatxcG03enFuVzw4l\/qODCkFzy7PKWSPpcM4Ct13ucYACUHy4OSluPlgxEpIHrvcJjnNJBFz3QuJnGUIJaGncLT3VQ4GcT1VxYySoTLRj3CivYAPUUMibFVJdYe6K0ZEo1LGRiU\/T1n6eqKlN7qbhy0ws9xF8o29CVJ7PwvxhutFGnWqxXADZd\/Eu+dGXj95VJPZfMaT3MfLXQZ4Xsv2a8bNUM0moJc8wGHsnyqx6GlSFNgaDMZ7oqbAxgDcIiosW6sUZgxlSACTGVaiCF4BG0tkFZn0GNqiGm\/C18WS2yXyTK1KBOEjAJ7rJRJZqX030wPMvY2Wp8gEtElc2oXOq7jntwunPtm3G+m3yyZEybEBGG2IOCZuqY6Wifuji+Vikiq2XwQELac2AWgtDs5Qmn0KtQCHNqCbC2E9Z6r5qBjf4RJWgGQCilFFFFkoooopPn5bZXaYUv0j3UvBstMqLeFMYRRIBlUJHCiEhVEjKL3N1IQlN5QON4TMT3QuEGfwoqAOOCmtjlA0YTWCRAUls+q6e0dRylMpmFoazElagW3EcogQrDTxlQiLJCw0LFrapA2jJ7ra+RTJGe641V7i5xcd3Tqowmo71BsiYmQFVHS1tQ47Gk9Cu94V4O2tTFbUtscTyF13UabBDGgAcNamKvGVfDK7RLrGOiU\/RkQHkyOF6bWMIYHAAmYIjAXMqmCZbB9kVrnnXMbpWZPKlTSgYytVQtn02SybX+6xrfiyP09xCWKIkmIWx3slkWR5LxZjSJxNkLqJBC0lkHqVfl5JVq8WcUoEyFC0gz2Ti3MjhX7p0eJABAPRbNHWNCo2o2zmmR7pRaCbwr2wARhLOPoXhHilPxKjjbVaBuC3rxP7Pa4aTVgvFnekr2m7dBGCjBRKKKISKKKlJZwudVaA87ZjuugcLA9h3kCZXXiufTVSEsBmbJqXQBFJu4EHumLPX1qBJIULjGEUKQFkkUmF1RzyLJ7RDQOiTW3SGiblNZYEFNQlFFFkoooopPAjubqsohP\/pVnKQjZGcKAX\/ooAQMKHAIUFfCsi9lQEcwr+VFDgSlvsUwSB3QE+qEETbi2eiYJAA\/KoQTj7ImxMT8JRlJwnMhacE\/hZ2UvVuAWpoAFuVqM1L5hRrQ58jA5VuBgAHPVMa3bblaDPq3baW0EyUOh8PmoHVGOc6ZuLIntNbVspDAXc0dMsa1r\/qP9Fl0kNLRSotaLACEIh1OBzymVocYPCz2wTDQtRmsWsLGj0ie64eoqEuMNAuvRamtRY2NsgngLgaqqTVJbSgcLPbrwwvcclqAuG2S1OdVLTGxLNX+an",
+        "ts": "1620051856.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "AXHXTC5B\/wqdBAyIRkMJmCFYcxpkgFGrASZG1pKA75uD901+oBsBASy8xgJ1YEbhxhX3gKbzP0lEHzYhMZocnFkxjQ4wbIRB7FE3K2zR0\/S8EdZX0Dw+r+o0NKryRdeAYbzN5XsP2bqOdpKlJxnY63aVMV11FFEBFFFFJEurU2NMH1HATFnqhoqicHK1HPsygS6kCZnumKmlsQ2ICtFPPxStVCmFNIYBxdQZlCDuOMKw4SIMqQlFFEFFFFFJ4GSDkqCJVkQY5USykE+yqDzCKO6Ek\/Kkg7GCobYVjPMKT2sopwJAQAevhGJm2VQAv0URi9wPhGB27qNibD7IxZQNp4TATyk0x3KcAYWgtg3O6J\/slRBHHZMtCUDSUw+rVe0Dc02JK71Bps98TEWXJ8JaDVJL5uYau2AAIAss77dP4RqMiFjqyRdbqrZMlZ6jQ5oj8LcDKabG09zyLCy5eoqUiYaw2+y6dWmCPUfhYdY+mynYXFsLHbpw5xdTOWX4S6pYAJAAPRG5wdf+iW71NvwFwrqUae4lzbo2UmFsuyFVL6iBjqreC2YKNWFu2tsBlCXTaMI\/L3ZyrcGgECPdKwmTIlsyoSJgt+yaG7riw\/oqgE3WozQbegUaMclHtyqLZN1uMWGUoDwTYey9N4AWs1b27plhg9brztBu5wK9N4MzbqmuBzSM9rhVrNdoqKFRTCKKKKSIH0w68wjQ1CWtkZ9pTGeoCi1zS4HjlNS6bibFwJTFVcoooqOEGkvdLtpsOxTIAaIVACUQECFpmCUUGFFltFFFFJ4KCZ5Ui8qTboi9\/skKibpbgQeybn7ISbwpI2AATlSfyrzhWFIBn3UAMYRTZRkRcR3URtEDB9gmtBBBjKBo7XKY3oUgdMfZPbkJTMeyOQOqQIsd5u+RYYTK9Zmn0prOiwsOp6JTTLpmQh8S0TtZpWtpGHM9QHVKb\/AAHa\/TmrAlx44ldgAyuT+z7HU\/Dwx7YcHEFdhsASbLlb7df4BzQLlZqhaGwMnACvV6yiwENIcSuPX8U8txLXibwF0jLXr6jNPRkwXdF5zVak1HS456cKtbrXVahkSe6xyXGeQsdV15aKb5gJ4YNhBmSs1I9YstAdaBP2XC11gKbImcdUdRl8I27fbqicWxAkrOnCA2W3wUlzCJ57rUTBPRLdBJCZVYyOBwCR0QmpUaZIC0kdD9kPltP1LpK52AbUDhByUfaR3lC6k2RB+yjWlrpErcZbtJTINMkWe6F6zTUdurDwfSKdh1krzvgjxUreRUvIlpPBF\/8AK9XSbEEm8QpimKKKJYRRRRSRUbhWqOEwUIADrQCc9SjSqbg5x9PqHP8AymqoiKHCiFxgKhpeHCAc3TG9UppLhJymtymswSigUWW0UUUUngh0IV5yhHTurEAdVBZIEKhHKhM4wolL46KsSSrgRyqufZCQ2HSUVOzRICEmBm6OnfPH5STG5m6YOv2QAeqyYmAxptwIsmQT\/lAwAi4TR0SF7Jiystve6sZCbTpurP2NEuSmrwuGaZ029RKXqtcKg2sMNmJPPspRBGkqseD9RBjMLPRBrV5LQ1gwOi4W+3eT00N0wrtkD0jkhcjxI0mugAGLQF2K1cT5TWuqu4ps\/uuN4m3UMcPMZSoz\/CXAlb3YZPbmFhccQEJp7DLQgqVKhn94CUsVnh1zIWLGzg8AjdPwnB0ws+4Pgg3lWxxA491ixqVqBg3yr3QU1mmc6h5kCAs9UkH5WMaE5w6j2St24nhUb2MoS4MJPCZBaa2IuYQFzJsflZzWBJJxCr9SwjB94XScud6OtkEeyOes+yzCqCBYx1TmPByZWsZ1u8Pd5WqpOmNrgV7emQ6m1wwRK8BTs8GSvU6vxOrpNLonUWsLajJO4dISz07CiDT1m6jT06zcPE+yNLmiiiikipwBBBEq1ThIzCRSmt2uIaA2U0YQtDh9RBPZEFMxaXUI23HHRGT0S3uvBaRJyqGqYNoG4iSmhLZdyamiIooostoooopPBAK\/kx0Q8WVmSVBLYCoTKtXmeUpB0UmP+FQsJJnsoSAgq7JrLOEQOErnlMHupHA2nKNuRPKSWuI9BCfTaCFqA1gub8poMkiAltHRGOJWgZEDqlap1Rume6m9zCOWmCm3yh1Ld+nqN6hF+Nc\/W\/wyp+s0LXvHqI2unki0qVaLqLT5Ue54ReDUzS8PotOSJ+5ldINA4XKR1tyvK1q+upU6jdHSLWzDqkSSevVcnWaKs\/TururiqQZkOXstc1jmmCQ6Mh0LzGu01Rh9MXF45907hnt55oG0h13A57LUxtP9PJJL5mwwjFJrXGWgH2VwSTAieBlVqkJYHEgXIHMQtNBnmalrWjJghXTpPqnYwE+wXa8N8MLPW4X7rLR+oqCnoxSaBHELg1Xnd3Xe8QpCm2INxK4FVsuM+6xfrpAMdDvdLqBzid1gPyiIAMo6ZMwcHokVYZRfpHMYRvzfJWIEGmWEDc0559luNEFsCPlLfSIy32IK1K53kWnDaWmJqNu\/DeUqnTdNgb\/hNbSIjITmthqdWKpiDcrta5pd4RoH\/wAocCf6LkNNogrt1Jqfs9RAG4tqRb5SK63gojwmhP8Au\/8A7FbUvTUvI01KlyxoB90xLjUUUUUkUUUUKW9gcCDMFELNAGAgeS28SAipv3tmIC0xvsfCEosKkNKGVYVhUVJOVaoZVoMRRRRReBGFeTYqKrSeFBJg91eBH5VTBvCL0zASlce6r8e6knCuPdBDMmZx0TWC3CW0TiPhNZjCYjRIxCcwHr8JAN8wn078JBzcAQmCyBhgpnZIWJsrIkRwVQRzGTdNMdLSEFojiy2ESFzqT9gBHIlaPPJADSO65T664XqmQCD0wFwdRpDUJO4jsuzX817twaATaVk\/Tljv3hJJVZrfPpxj4a5z432C1abwQOI3nPAXRpsDRIySm0qoFUEmw\/wqQ2i0vhlKgwbW36rWKIHpAgKqGppVd3l2Y2xPVaRESCtOe1w\/GWlrwBj2XnazSHx8ler8ZaCA6LwvMV7ut91x7+vRx75ZgJN1TW7So+G3sFbHhwhCMFrWhFA4+UDW7mwrxzBQh7ZOFZaI9lTX\/nqpvnhagqR3XofBdtTTMpux5wdnkCf7LzhdOV3fBH7X0GgXdU\/G1y6Ry6ejKiiF7wweoxbJWscLRKSFjdrA4HaCJx3nlLdUqshzgMC4W5xXC\/tI3kiJlUXgNmVz6j3H63brYAhWX7oEnrAKfBzv7m1nVKjPSAnad7XtO3jjos7A99WRMYutRa0Mgop4tt0T3QEJe0NiYSXV2MhpBHuFVOnLi4uMZRjd7Oa53WQmAyJS2AvB3G3AUcPLbLcIxryRr5qgdk1ZWOaNU1vJlalWNcXUUUUWXR4GwU4KqfnoqJlQS83KK0ThUCZF1ccqKDPsqcbWwpeYBVEkCVITOs36Jrb9Ulp7JrCZ6rURwn\/hNZDSeqUL4TWTMpBzZIymNmboGiLI2iQkGYhXi5wUAMGJyjgKTRVJbSpOHLULKrhzZDvLqPlG+0yEkn+sLh16r08+43DUen39vylufMi05lKZNsoazg0Dkm57pnRwFauGsgH7Bc3UV3Hkz0ATK7ybcBIDDuDomDKxa3I9JS0BpaFrGvl0S7uVs0lF1KmA4yvN6jxatTe19K45BMLTo\/GDWdtL3B0fS4rXkxebWzxmoCQwZHK85VEuK6Gs1BNQ7jK51Z4IlcurtdeZkZns3WnlV5UCRkIX1HzFOJGSVQc8SHOBSK1Abmz2QkdFdFwAA4RP6CIQSxmFTjABj4VmGg4KBxstxmrzECF3vCXBmq0bdoc4hxxixv8A1XBpN31AOZ5Xs\/DtPSoUG1M1SwXPA6BdeZrh+lyNdeoymwufwuTW1Dq73AB4pts0DLk6q2lVret0uqRabStbG7WtaWOAF7Fd+c5eHvnrv057HlodUc\/PH91bq0NLiHXEernsET2E1neVp3kCbuBk\/J4Qluoa0NdRPqONy67HlvPU9EvIrz",
+        "ts": "1620051856.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "6N0XLDYfBTaBdUd6JnnmAj\/TVPLe11NjWgDLrj8FOpUzS2mmGubEOhxn+iOupin53fbTp\/TSuDlHi\/J5UmWTCwg1nvIaQf7LjmvRevGYc5zXbnOHp5kKaeiTp4LiN1x7IWaZ9UnzSWt6A5TqlZlD09BYAJYl\/tNYQPTIkBJ1Twxu2YLuqU+qx7C8MduF5GQlT57ZLnuAuL4KpyOv2nyLpOYdbQDXS4k449K6S5NKqx+sAJ9bWyADwusDIB6rPb0fh\/5RRRRc3oeALhbKrIzCo3d0VOMOQBDqpcFCOEQINkoWLwluv3RzbFhylu+oAFRMpCcp7fdKZaAE1trGUo0QfnCc0QAc\/KzgGfwtAtytA0Hqjaf8JQPRMGJlIGDlFuhLB\/pyi4UjGm4+yFwh3ypKlTMjouPcd\/zqNcZM\/lU\/c92R8Ibcp1CHOhc46Mw0Ze+BcErT+iDWwtTizTtBJvwAgbWa8kjgxddZzB5EM0NItO9gM9leo01FumDKbA3uFq3en2\/CXXMU90TzhVkUrjaui4RJJIXMrMcHQ6IldGtqN1Qg27FDXol1AOIvwuLpHKqyRypTYG9FHyCbWVbha6Q0NdGFe4crOKthJ7IhUvx0Vi0wuEygf2ULghJlwkfCYza16Bm6s0ZJMBezLjTqCmYdb02x8ryvg7QdZSj+aftdeiqVnBwql08BsY6lej8+djxfv3ObGimGsAc5gJHJytIcCJmy51PUmpSbTG4NLI3nMoaerqU3im9wgj6omCMrpeK5T9uXRMl9nQBkRlVvBaTIEckKB7ajcwY4yEFJpaIL5E4ysN7o2uFwTJiS6LLLU1en0pLqtZtNottI\/p1WbxrVP0WlbSouDDVJBdy0dl5rV1qT6oFMvqH+J7zJ+6ZB467ms\/aTTBpbp2uf8A7nWCz0PHywODG0QSJ9RN15yrDCZz06JZLC2d3wtLwl+vQ1P2g1G6Q+kB0BP+VKHjwfVPn029ARcBedOLFXuAjbMnKZWe\/wAeeo9kK4e8tdWAgclTUVKjGH9HFQnq4fdefoViKbd5G4CwOYWttamWObWp+o4INwu\/jLNjx8\/l49e2rTF9LUsrVKYpuLodcyZ916TTu3UvYwvN6fRM1FOWaio8A8i4XY0+pZpp8920RzyV5e4+hx6joKLjajxlzjGnGxv8xglRZ8K15x5YiDBi6rmTlQlVPRYaEeFYJ4VNubqTFv7qS5OEJ+pFNktt6ndRaGEZKa0iJOOyTTPdNbIEwCkDBtayey5\/5WeAm07WNuUg8SLoxcFLbJGL9EQzzC0B8IgUAu66NuLJKyTF0YduYlq2kXhcu3ThI7q2FzHTMCEJIlR7oaSOllwd2DU6979SWbjmxyurpH06FAVa8S7AHRefrU3Oqki3Qrc7w7xCrSpg1GFpFoOO3uusrOOmfExVkUmNY3qblLr6pgbuNWSOrlnp+CaqnSLn1xMXgLBqdJqKJc1xLo5GAU+2phuo1NJzwdrSYystTVOqekuEdFkc2o3IJQFzv5T2XOxtoc6B6rgoD5bstASSahOAFPUWyYsrGbRVKYm1wl1J3QArBeZ6f0RFnPKmV7ibImmYEXS0xkCDN0wa7ngjYrPfJDWjbIE5XR1JLKNRzTuJuCRB91k0mnfptJTM+t13BwEX47WWnf5rdzpEDC9\/5c5zHxv8n9PLumaaBTZNRpeZaDHPdZ6oqeb6mti7rdflMpOLHHc5rmiDjukvY18uZTaCPSQ4wb4XaT28vl6M0mqZRq090mkRO4mJXWp6in5ZcSAcxK875rTD3B0i2z+61aasw1H0agO6MkBH6flL7b\/P9rz6K\/aA0qob5tQS0GwOCSF5t+oYwubRBucn3XW8Z01Py\/OgGoBDjuwR2XL0\/h1fUN3\/AOnT\/md0Xnvp9Pj3CqbTXqBu1zndAYU8p7XEeS4EcEFNboxWLhp3lxZn0kSOqCnpya37xz2NzMErDpgAx3NgU\/8Ad02NmGuHIuStOo8MpsuzUzYOG90bgUL6fh7W7qjXCQCNjpg9FJmY4VKTqjZ3NNpytQ1L6TmlhgwDKwuLCSNPTeAOSco4exjS84t3WuesY6511GeM6ynEaqoT3MhLqa99VxfWqOc48kyuW+od0gqt5VeoMdB+sjBjuoudvjKiz5jG1xUtghVz1VXK4uw7hQExbKH5kqp+FoiMEKmWJk3VbhtHdU1xOVBpbEEiEYBybdpSbltk1lz2SjQBKdSCQBPMQnt+kwkG7hKgJJAwl5TKbXO4MKQgOE1jSYIBxhRgpg+t0n+UBaaI86oKdJjiewsFaZANphlN1WoJDRIHdI8L17NVWqUKrGuv6XhgA9pC6ms8OqVdKabKrWkiMLg+C+H1aOv1Tq2NIzcQ02LuD+CfhcurrcbNSwUaz6Ydu2uiUqZbHKujNWtUFQyXy6e6BzSxxBF1ynt3+EsYfMB7yunpdUWNLTdvRc97S14MjPJVkOAJEiVqXA6g1rmmzhfqFkq6sMbNnPe4uMiw6LDWrvpWIkLJV1LXxIMhPm1I11qtN1F7QwAm\/wCf8JVSpTqUxFID0xHGVjNbcDBsqFQ7clZtaDUuLxPsllpIthGTaIVfhWigMAwfyqg7eytxgE3KWTgJYog4f+0TTA3EJboDdxIhFRJqNF45hLL0FLUbtLRZWqgPLBALlqAc6jsBLX\/zArz3iL3GrTdTB2tpgSEqhrtTQP7t+2DMdV6\/z\/fJlfO\/b\/E8rbK9U6gAxu4D6Ynr7oaulFZrWxtkZBXHo+P4FegD3ZY\/ZdGhraGqs2qN5uGn03Xfn9Jf68Xf+P3x\/APY2m5zSBJOeybRIABMfCaNI57peIE8ptLT0mWuexXTr9JIvz\/Drq+3L1poVXgua4kAQ1oklU0+I1gdlFlGkBHr6LtltGhTL3BrGC5OFg\/W09Ux7gx\/kUzLnDleTq6+pxz4zHO1dIaPTtqPrE1almhg2yOVmGkfVYHS+CJytGsdptdqzWqak06bWwxmwozqNMWNA1W0AR9N1htifoqhyS6Pwlu0j42kOI4B4WwaigJH6uQeyIajRky7VmygxHSvH\/1kR3TKOma5+2oH\/JWvztETH6syUZo0iA9tYu6GRBXPu5Kz18XR0OlDgPIb83TX6ejTgtpU2+zQox1gZj2TarvS0iMXXyb31fteO9VmqRwoqebyfsos7WNcqVQN7BTiOnKgK+w+kuZVE2sqm9vsrCkGbQjYWjj5QZPdbNP4fq67Q5lF2w4c6wPtOVbiLF4IKaOOoWgeFaljS9zW2GJuU7wvw1+trtcWH9O0+t2BbhXlFi9D4dqNZBpthn87rD\/ldzTeC6ei396XVXfYIqNcfqtrYFMelrQLALoI8tTmal1HT1202UKbWCN0MElPeGup72Ma4ATBCyeIj\/5LvYFBpNUaYLXFc\/L21jRp6bNRLjRotYDLjsCea9KiCygxresCAs1V7nNgOtMxwlDuUXo46LHGpT3HhZGk0\/DNVXDQXVXOJtx9P9lsoiNN8JOsaKXhLmHhgGOU\/wAM+vOir5dZtQ2BIH3WjUQRfPBlYdSN2neRkCVek1Y1GnAdkCJWfzduhCpNUbgCQcLYRIvnouZqBtfIiRgqmax4JZUkgjk3W7BGyvtcyFz61ITafsmP1Ie2xsk1KnPMrDcLewMs0FLIA+Fbqk9UAcAIm6EPN5n4QEghXPwgcUi1Ts5STJcA2SjcbxEldTwzw6Gtr153OuGp3GL7catR1JMuo1A3\/tK1aHTV37Gtpmc3Fl6YD0xwptANvwsf7FjLpqNShTIqPmcNHCN7KVQ\/vKbXe7ZR1iQ5oS3O4VqAdLpj\/wDRSH\/4CW\/QaUk\/u9s9CQm7jKsmTEBO0ZBadlbTEClrXFn8lUbh\/wALoUtUwj940NcOWmQf7rlFxF+EIecWW5+ljF4jZ4hXoV9UylWbqPJYNwfTB2z3sufX\/aJjBUpt0LTBhrnEfciEwOMiCZT9TptPqmRWpgmPqFiPla\/2\/wDR4f8AHm6utD6pftO7um",
+        "ts": "1620051856.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET PAYLOAD]:\",\"Dotun Olugbemiro\",\"22228616366\"]",
+        "ts": "1620053752.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET SUCCESS]:\",\"{\\\"account_number\\\":\\\"9978427808\\\",\\\"account_name\\\":\\\"LIBERTA(Dotun Olugbemiro)\\\",\\\"bvn\\\":\\\"22228616366\\\",\\\"requestSuccessful\\\":true,\\\"responseMessage\\\":\\\"Reserved Account Generated Successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1620053754.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033163218\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 859 528\\\"}\"]",
+        "ts": "1620054408.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620054408.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033163218\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 645 272\\\"}\"]",
+        "ts": "1620054452.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620054452.001200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"NUSIRAT AMOPE ODETUNDE-AJAO\\\",\\\"beneficiaryAccountNumber\\\":\\\"1238053408\\\",\\\"beneficiaryBank\\\":\\\"000014\\\",\\\"transactionAmount\\\":\\\"1800\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"08179224819-1620056044753\\\"}\"]",
+        "ts": "1620056044.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"08179224819-1620056044753\\\",\\\"sessionId\\\":\\\"000023210503163404005007066821\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1620056050.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"mtn\\\",\\\"amount\\\":400,\\\"phone\\\":\\\"08034420667\\\",\\\"request_id\\\":\\\"08033984930-1620056691559\\\"}\"]",
+        "ts": "1620056691.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"MTN Airtime VTU\\\",\\\"unique_element\\\":\\\"08034420667\\\",\\\"unit_price\\\":400,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":12,\\\"total_amount\\\":388,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":400,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16200566919552947847916340\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08033984930-1620056691559\\\",\\\"amount\\\":\\\"400.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-05-03 16:44:51.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1620056693.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LOAN ERROR]:\",\"{\\\"product\\\":11,\\\"loan_amount\\\":5000,\\\"tenor\\\":1,\\\"loan_purpose\\\":\\\"18\\\",\\\"tenor_type\\\":\\\"monthly\\\",\\\"selfie\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P\/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P\/wAARCAH0AOEDASIAAhEBAxEB\/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAECAwQFBgf\/xAA7EAACAgEEAQMCAwYEBAcBAAAAAQIRAwQSITFBBVFhEyIUcZEjMkJSgaEGFWLBJDSx0SUzU1SS8PHh\/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT\/xAAdEQEBAQADAQEBAQAAAAAAAAAAARECITESQVET\/9oADAMBAAIRAxEAPwDwN8j8ER3xRQgsaB0Ah26B\/AgG3wIa6BgC7GqUhR7H55AJMT6B9h2ABYMFyA\/kiNjhHdJDA4K2a4ypVRH6Fc0OLqVM6SY1Immh2l4HsrtDSXsakVHZfXA4qUfBYk34ontYw9Ur73T4ZPD9kqYssGmpJDa3q12RUM8ampr+pRnjtmml2alf7s1wVZ1aST6Nxi8f4Vb4fkZMsVF8dM1Yty4IZcW6SSXkcu4x5WMDofg4\/AHL4rXTngA\/HJgO+RNA+Q5AFwCVsAXDAQ\/AdsEvcBqNqyWPl15ILvglynYBKLTpifDG7fIl93AB4EuGHT5H2AmatNBOUfzKYQt8mjSV+I4NcVbHAz5cL7RtpBKKrk6ZGoy4J7lUu0WpIhPE4y3RLcb3K0uSeKcVxz0TSRGm2xLhikOcVIqjFxJ7mO\/gGq0\/DQSxbuqLavwNVFFFKxbFyUZW1cl4ZbkcpSbd7V5KHco\/Fmo58h9fIBKo+wBXOH2IDzoaXIPscXVgnyAlaYPsH2OPLpgJdg\/kfMWOVNWkAocOyW5ONCTVUEZJdrkBJ0xw4lbIy7sL4AnOmrTIR7JQ5GqRYQ+lRdo01q4r3soUbds0aRtahCetfrqdSQNcEU2+mTT8M6tIyV8FdPHPcun2XvldCq40wkhd9A4ohjeybxy\/oy5quCLVbikqDhIcrRB2yxMSuiErf5eSUbfAZKTjH25YWRk1WV39KKr3DHFJK+krIuLzZ5Nc89i1MlCH00+X2W3HO+n+Jh7AZePcDH2qgfaCwfZzQVwId0Ok42AuxxavlBF1w\/I1GpUwE275Hxt47HJW+yHkASrkcvD9wlaBO+GAkFElH7qEvYBXRZFLa2youb\/YqvcapRZq0ULnu\/oZF2adHk2ZafTLxX9b5OgU24k3HckyO1rg6\/jScfuXDG1JdUyuLcXRenaQFOVNpS\/iXJZHIpxsfDk0zNOMtPPcuYsixqqLCkyEGsitdhK0VKUnGLtFDk3KTLXyR1CePA5pddg7Y8ub6ScYfqYXJuVtluWW7n3KtnBz5XXMWA9jAggxqgbCuLIHt9mEotL4BUWZFuimgKo1fJKU7fXBGgQE5K42iKd8eSeOqd\/oQ282ugFK75ETabfIpeERSbd2F8jbTjXlESoCSfFERoipfJdDimiiy7HK1RYtbdNro1sm6ZvVSja5RwMsdpbptZkwuk7j7M3OWerLrrTxpc+SeL5KsWsxZ1X7svZlyTuzUutI5PsmmugaWSLTJyVrkiuGVlkW7DkrxZpjLekyOpxOUdy8FOnk4va2Txd1rWNeSjXyjj01eZcGmDvsxeoY5ZcsK\/div7i+FvTlZHzRKKdWbceh3O5ssloYyVJtGMcvpzrXuBv\/AMsh\/NIB8p9xywYh0zLQTompJLhclbCwG22ALkcUk+QF0xxt8IGvKYQdPgB82JxTbQP97sb4adgRap0IlKW52JgIAAgdkoT2kAKLJz3JELEBFnScX8mjFrc2LqVr2ZDSaaWoyUrpds68PTMKjzC38lkpeeMuL1VS4ywr5TNuPLizx3QkmQfpWB3UK\/qyn\/K1GTcJzR0lp\/o3RS20zNmwpO4lUsWrwNbMrnH58GqEJOK3csupeURhu2\/JLbb5LVCiSxqybWLdVOPsCi+DQscSf00uianjNT9gNX0wGjx7XAWwJRpcsw6Ip+6Cr6RN7PAm1tAEuKZFoLfkLoCcEpKmR\/dkTVcbVyyM4tO\/cBSXldCT9yaklGvJFdsAv7SI2gAbVCodMXQCAaABGnSaSeon7R8sjpcDz5EvC7Z3cOJQioxVJFkZ5VPTaeOHGoxVI0pJIhu2r5IufKt0maYXOqpEJuMI9ohKTTqPXuVNWVcJtyfwSh0JR9iSiyaLI0mSTKvPJOIE0xr8wUbZPhEqUVL3AL\/P9QA8co+4pdk+G+xrFKbMuqF8dE4OL4aH9H\/UhwjGEXJu\/wAgKpPnhUOEHd1wEpJu0qJfVk4uPgCu6ZPe5W37EF2SpKPyAnyg5scbi2gnJ3yqAbfDi+0RSBq+fIk6AbsXbCwAHwCBuxAdbRZMOLGluin5NsdVja+2S\/U85Y1JryXWfl6SOWLf7yLbio9nl1kkupP9STz5HVzlx8l+k+XpN8XwmSgrVnncerywa+5tezOlpvVINKM24jTHSpLmiSVopx5IZncZJr8zTBcBFbhb9iSjykWqHlkfNhDUXfA6JRSontVAVUvgCYAeKa8rolCdStsINbWmS2Y1T3GXVW7t2TW1xaSd0WzywjSUU\/cVwjjc0qk+EBRTq6GpcVQ45OHGXKYOKjjTfb6ASj5GkkkwpVx15Y1j3Ru+CibjGNNO2yiTt2yco1FVzY\/p1C32EJVtsg3yF+wiKAAAAAAAAAAAAAAAAC7BqcmGVwk18Hd0XqeLMowl9s\/no84NNp8Mupj2yacbsqk6ZwtB6pkxy25ZOUX5Z13lU1Fp3uRWMxpjLgkmyuCuFlkF5ZES2v3YE7XuBdV4aTiv3SI1Fu6LIwj9K3w7MuhLG504jzJx2w9hTez91jWSWy2k\/wAwFjx9uXhWR+7JLlluLMud68BNylUUuXyBGcHFJXwwWKbNGLTSm1v79jS8Lirpmo1xk\/WGWKcYJp9Ioc5NU2atXkabgYyU5SfgAAIyKHQDC4VDoY+AYjQqLKEFxCgokDQTEREqEwEAAENOjVi1+eDj99xXhoyAB7bTyjk08JR\/iROT2xrycX0fXw+nDDOW1x6s631d7+Cud6SoBce7AqPG47tpewnJuFezLZKEcb23bKoq3z7GXVKEHkjSHkxSilfQYm024+FZHJKbacn2ARcYxvuXsatLWbKnwpJGSEVJ8ukbPT8T3uVfb1YXXUhiVJvseecIwbbSIz3R65ORrMuSWRqTa+AM+aW\/JJ+7IDAIAodEkiNYjRLaTUSSXA1ucVdD2lihzyWLHZDIorwR2mtYV57D6FFMZNvIUXzxpEHEamKqYmToi0VnEaFRIQQhEmRCJQk4STXg9F6bqlmxK39y4Z5s2enZXDUxTbpssSx6i17AU\/d\/L\/cC6xjzEsi+mklyvI4tyxy2xSfll70qa+3hP3G9O1B0qSX6kx0vTFjbjNNd2PLOWSVst+xftK5Xj5KVFzlS7ZBJOP06S5bOp6e4wxU\/PhlOl0igt0uWbI7YqkVNWTmlFtK6XBxNVl+plbqrOrl4wyk3SSOJJ3JsmLOyBANBUkiSQoomjLpxNLktjCyMYl+ODS4JrZRhfZNQb4RZCPBbGKDKKjFN0nXzyJx46LJ8LhFTm0yiuajVNKymUC7fG2pLsrmvYEZpporfBbKyplZqLEMCskxMkIIiTxS25Yv2aItCQR6T8bH+b+4Hn9zAus\/LvKFKnx7FWojJ6eTilddF0rbuyKXY1twoxlKSg",
+        "ts": "1620058293.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "vJ0sOmUIppK\/LLcOmjHK5Jcs0zikhGaqSqNElBXb6HFe5dGCv8A2GjD6pL6enSX8TOMdT1rJeSGP25OYiLBRJIIpFsIWZrpIUYk1Auhi4L4YW1dcGddJMUQx8mvHj5VlmLA76NMsahxQLVG11dcLhBFe6LlGT4XXyPHj3Oiss07KnCzq\/hXVNB+FtdUDXIlj46KpxaXR1sum2unyZcuALK5c0VSRuyYfYoniafQ1LGVxFVF0okGjTNiAeRtA0VlFiJMiVKlfwA\/6IAy76i5RtISj5kTxtbasGk1VkXU8fD4QZO3ZODjGPCI1ut0VFag3yTX2tWLhcLshqZOOOUo+FYRxNfm+vrMk\/d0ipQbQJbpNvsvhSRm10kUbWi7EmydJgok1rGjC90nFm7C0uDnY24NsswZmu+7M1qa7uHEuH4LVjTtpdLsyabPcezbjyKUaKlQx6Vzkk+r5N2LQbHzHklgcWuTVk1PDlfZqSMW1VPTRS4VFGX6eNctcEM+tcYPn8jj5tVOU231Y2HzW\/UyxuO45efUQUtrRVqNTklwnSXsZJOUn0DuNE8mNq7ozZMke0H0XKnXJZDRyfMhkXaxzla4KW3Z0p6aMev0M2TFy26JpjHdD7JzhTII0hMj5JEfJUqyl8gT+k\/ZgGW7T6hSjTdGmM\/BxJPb0yzHnnBrzYV2vrdWNZHLiJmwqWSO6Sr4NuOFOqIiWLG5WS1mFR9NzSfDUXyTx5FjnuaX5GL1bVylpJ40koy7\/Wyp3rhxaJKXJBE4tdmbHWLI2X44Sfgqxy+5HY02nkoqW1SXmiSat5Y52yUbtcAkqO1kx6ecXGtrORqYfTm0uiXjizlq7T5NvFm\/DkbfDOPCf3G3TzaaMt47eGb6a\/qRz5dnd2WaONw57M2u+2TT78Gvxz61j1GVyfZn\/PkUnz2TxR3ySXkjXipwcnUVZrw+nTaTyfavk1QWPTQ3UpSMuXVOb5lS9kbnH+sW2+NKxYMSq02VZ9qjwRwzxvtP82xanLiUaUlftZpjLrBndN0ZJT5Lc8k7pmWTMWO3kRm74KvJNvkT5EZqL7HhxvLnhjXcpJAaPTYb\/UcKq6d\/objFen\/y3H8\/qBs3L2ArlteF+n22+EW6PH9SbbV0V7tuJp9ss0uVRn7IjbqQ8JGvHyZocxtFu+uESizI0jl+qy+yEfd2a8mVc8nK1mX6s0l4Cxmsv0mlzavLHHhVt+W6RRRq0GrekzRnVpeCfjSWs02X07ULHlcZSq\/tfB08fq09LoMG2OnnLKnxFtzjTa59v+xj9W1eHXuGWClHIlTT8ox6fBlyS\/ZxbfwiypY7WLWLJj358E4QfCnFWkZdVPFP\/wAue5GrFm1uDSY4bsEI41aW5Nv9DnazNPNllkm47m23tVWLbWuMVRdTNenyfcjBfNl+GVPs510n8es0WRLTr3qzFr8ylN2+fcx49ZWJR8mfPncn7s1vTM43RldHR0WFfgZZ\/Y5EpOUTRjx\/ioQwfX+iq89P8xxzU5+Hm1PNbk1+ZmlluVK234R2Hos+DR7fo6DI063bXvZLRayemX7fQ3BfxY+a\/oaqSuStY9PkjHLjlCMuba5I+o5ownscMkJ0m1OO3vlf2ou9ckvUtZjnpU5ylFRUap2cWam5VK7+S\/jPerHkvojus17NLHRxjPnM+bXgwyX3cGWtqV8kqIRRZ4CxBmr0rIsfqWFy6b2\/rwZZE9K3HV4mvEkyscnuN3wBj+uv\/UYDY5\/LyMYpQk334K1d8F2GnJKXRGUHCTYbbdNqnCO2S6G9V9R3FsxKf3PglGShFe75KJajNN1FOilppu+xwleTfPlITe6TZFhVY1ElFE1HgzrciMYl8PtZBcdk1IkrWLJ5mo14M023K2WNe5VN8l3T5IuxlC7NEGqJVi1t15E5NBuaIN2Zaq2LtEoQk3aKITN2BqSteDUZrXpNXJtY8j+75NGSMo\/dG0\/gxywOUVNNWatPnWSKhOoz+fJuX+uPLj+xmzz1Fdwnx\/FBWcnUwlKTbhGL+Eegz40lZgz4r8Fpxcf6boWyuTZlx0UuPBjY65qhqhWTkQZd1mzEWy7RK9TH45KGX6F1qoi+J+uxufwAwObp04O6435Qskm2v7Eeh3wjrXBLHLlprxSIt8DjW5DVfVp8pgObW2v6kV2PbLJk2wi2\/ZKw2uMnGSpp00FicGWWUotiYrtxPbZOEa48ijw78lsO+iNINMy5HzR0csVHE5vro57TlLrssjHK6eNWXxhxwT0uK2rOli0Esn7kW\/6E1qTJ25dNEWdnN6ZmxQ3SxtJ+Wjm5sLi+CL1fGV8OzfoJ77iu6McoOuSein9LURvp8GoxXfjjezhfJHU4YuG6Kpo6mlxqCUnVL4KcuFyUm6pt\/BrHP6crHqZwW3J10OdZI2mnY8+FxdNV8+5jk3B8cfAutfMvhZoWzJkjyapZLXPsZskkzPrcZ5oqZdMpkyxOSLZo9OxyzayEId98mZl2jzSwZ\/qQdSSdGnKu9+C1P+n9QOf\/AJxrfeP\/AMQGRPrk5be58CfAAAWSVyaS78EDoem6TLmz48i4hGSdvzyQd30n0+Ok06lJJ5pr7n7fB5\/1GDx+oZ0\/M2\/15PZKH28HmPX8ezXKdVuiv6szL205qLYorj2WItblXQquTTijdJK76MsH7l0Z7Vw6ZltPWRi1GKd03dGal3RKcq68GnBrsH0njzYFNNd9NF9ZvSGnyRi0dzQ694EtqTXlPyeaaislwbo24832KjPni++u7rPVp6jF9NpRj3x5OLmyQ3W2qIzztxryyp6KWaS3ZNt+5ffU3J0k8mCXFqynLhS++Jofp2LBTeojN+yK8s4pbYu2MymvWaKf1NFinaVwX9OES1H3RcFRyfTvUFiwxxt8JJGyephK9rfR0l2OV45VGqbSSfXZzNV90k1wbdZkU1GnwjBmfuSt8WWXVFM6Lsj7M82YdFWT4KpFkmVs1GOSLCDqQmOMdzNObbUP5gM2z5AZE7VAFBQUjf6TqcuPW4ccZfZKaTi+jCXaOax6zBNulHJFt\/1JR7q2kcP\/ABHhTw48vmMq\/X\/8O5FOSRyvX53iWnirlJOb+EjlPW8eZROL5K32NHUlXKTQb7fZXu4BGbG9XXaK7oHLgipWJEt7WR5Z0MGKDhc7X5GLHGS5UX+hrhnjt2y4ZU9X4njxSvam15ZVkz3JpcFLzSle2Noqc+SE6WSdt2Rjj5tBFrgmnQrUWQe1ovhqHHzZm3cfJXvpkhY2PLy1ZTlyWUfUbIylfktQ8k\/t7M8pWiUnwVN8iG4jfJFjZFmoxSJQltZE048UMuK7qSXv2VjUPqoA\/DT+P1AuLrdpPQ9TqILJOsWN+Zdv+h0oeiaKCSm8mSXnmkdBycnyw\/octVmj6do8fMdNBv8A1c\/9Rx0ennkSWnxLnxBGlou0uPlyZFXwjRysuP8AF63NlpuMV9JP48\/3Ormbjie11JqkZYY\/pYljguEqI08dqMbxZ5wf8LaKzoeuYtmqU6pzXKOemdIh+BoBLoKEnKW1G\/Bp4Y0rVyM+CNJm3G1fJuRzqfMVx0OGDBmm5T4\/3K8kkoumQWTaqXQO23dCCUccIxS8oqy4MeeP3LbLw0EGqTuvApy9mXpO2LLgy4Hyrj4kRxTu02bPrrmMlaZhlFQyWujNjcq6ciiUibfBS3yYdEt5FuxUIrJtkGMixhUWIbIsrFItxOhYK+rFS6s06nBjx5Ek2rVlzWdR+o\/cCGz\/AFxAmU17DaMEg+Ec2kox3SpGuEVFUkV4o7F8l10iVqKcn3ZEvYthGlwVwTeSzQkCqs2kwaqNZ8cZpfzLo8z6\/oMOljp8uCGxZU7S64r\/ALnqNXL6fp+eX+lr9eDgf4jyp+naKPm5f2o1FecQ12D+BGkrThdSVeTS1JeEYcT2y+Do6RrNqcccjqHn5NMqZXXTIuTS5R0ZaZZZOcFtg26\/JcFObSS2Jpdi63LxZPq30hRnO\/Jox6SW9qvZGhadYZJzXD468jtL8",
+        "ts": "1620058293.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "sf0csueCqeKcX91M35c2yDjGqff5\/8A2jn5Mj3d2VhVNtMiN89iZjXT8HRF8jbI2EBELBsqaTIjBRcpJLthBjbU049l2TLOXGXlrz5IPFKHumiDtu2WMrfqr3AooAmPcXL+Usxqnfkim2WwXVHGtyLI8scnT\/2JKNdcslsVr3M1sY41y+y5EKJro0iv1Bf8DtStSnFP9Thf4g0EpYIuF1hTdfDO9rqejhF9OcV\/cqzx3Re7ldDxp8\/aA1+paX8Jqp41zC3tfujIdIymnx8l+KbTXuZU6JbubRYldWGonGG2+KonDUOMk27rwc2Od+SX1+ei6mOn+MbdqKTbTv8AJUVZ9Zkndyai+1+n\/Yx\/iEVZMyb4NanylmyuV8lK5Ym7fImzFutSJSdEbIthZMU2yLYrE2VKYAgCEzfodPcfqvtPgz6XC8+ohjXTfP5HdjhWP7UqRm3CKMunjnh1TMMtIrark6qX05fBLJhU1uXZJVs1xvwf5gdTZ8IDWpjsY4uVJI1RjGC748sqipVUVSJLG2+Wc6upSzL+Aenbk22CxInjW26JIq5dBfBDdQt6b7ANVNOGKNW964\/UMjlGLa4b8MU1u1Cp2oR5\/N\/\/AIWSTlG2FcL1PRLU6aVfvxbcTykrTafDR7\/LjtyyNWoLg8P6k\/8AxDPSpb2b4s1SnwNIgmTi+DZEo2WxhZBFkJJMjR\/SbXuVyxNGpTSZP7WvBpPHPcGQao2ZEr4MsyGqxDsiys6ABIGABYhBHd9BwweLJltOd1+SOhlVcnA9L1S0uo3SbUWqZ6fDDHnhGbe5SVpI58moy7N66sI48uJXJfadCKWObiopexDLunKON7Y3FuvLMtMlQ+ALfw8v5EBdTHWVWSq+jNskvI45JR4Mo0VQkr80KGVS48kmvIikoNviTf5klia8ig32WqXuUVywRknTcX7oolqZRl+Hn+81uTRtirfwcbPllLXZ80IyccaWKOzttvmvyGaNWWcZaeW2e5Pi0zxPqct+uy8JU64+D2McENLoo4cd7Y8q+zxOqm8mpyTfcpNm+LNVEoumQCzaLlIkpFKZLcTGpV6nQ\/rP3M+4VjF+l8stlM5CsTCaQUNcCbKyGxNiAAAYBAjvej+o3CODJKpLiPHg4JKEnCSlF007RmzVj20Jbpbmu+LsnOO7Jd010c3TZ\/x2ijGnTTUkv7m3TTxqsX1LlFcJvmvk51tZU\/cC7d8AQWpphOCZGkST8EEI4m5XZoiqVEF8EkUSoklYvBbjiowc5Oox5bZRk9Qzy0+nax\/dnnxGK8fJHR4YYtOlLmfbfyLBvyZp6nJFJZOIp+Il+RLwqYFGWO6PPPB4DM\/2sn8s9zic1mzxyPhfuflR4fOv2s\/zZvilViYxG2QhqQhgO0PciAASsW4KABBQ6ABAMAEAwAAAYHW9BzqGaWKTdz5j\/Q3Z4ZMWtxyxpuTk3H5XlHC0f\/N4ldfeuf6nrvo3BPjdHlX4dHPl61E\/u9gOJs9S\/wDcT\/8AmwM41j0MM0cnksSMzwr6icW0al2RE4kkgSHKcMdObq+l7lE4pVcmkl22VTk9Y\/pwbjgStvzL\/wDgT3Zv3lUF1H3\/ADLMFfTkl\/Qmq43qnqOXDgl+He14pxjLi+GnRfo9dHNp8Essoxy5U6XuYs0FLV6\/6sbxLGpNe7XX+4vTsf43Bizzaj9LK1FRXHS4NfiOlnTVTXatM8Rq\/wDmMnH8T\/6nuZKse2XZ4fUL9vkv+Z\/9TXBKzrsBy7EdGQADIEAwAQDAKBDAIQAAAAAAwEMAPU+l6x6nSxuVzj9svf8AM8saNFqZaXUwyRfH8S90Z5TYseu+mvYDD\/nWl\/nf6Ac8reutGfuuSyLMs8sYTrmUv5YjhHLklc3thX7q7IYtzZ5OSxYecnl+IlmPGovdL7pPuT8kcezHwlSJzlTi789DVX7rXwOD448ojyuwxPlr2CIajT454pxlFXNbZNexn0WgxaXBHFuc0p7+eOTXNbkVcp8y4Khap\/ZdcI8JqLeWbqnuZ7mWow5JPEppz7cUzx\/quP6XqGaK63X+vJrilc+SIoskVvhnRk\/IAMBAMXkAAAAQwBgAAIoYCQyAAAAAAAAAsAPcY4RhwkaY\/JSpIk5WuIs87qsljjKTuVIg1uzwinwuQjWT7WmmEYy0+W3ck\/JRoldWxRlWReLC1kVrpkci2tP+UIvk210cb1fFqcsP2M2qXMU63HXeWKTft5K5KOSCkub5sToeb9Dcvx8uOXBp\/qjP6\/j+nr2\/5op\/7f7HdWCGl1ynGFPK6f6NnK\/xJD\/icc\/eNf8A39TcvbLhPorZdIqkjoySGhLskAA+QsQUAAghiGACAAABiAAGIApiGBUACAD3i46Q0KLSROMG1aPO6JYnUkaGlMzqDT7LoNr8gYox7oZpQfTdouyrz3aKJN75e98FynvxXXIRG04sg92JcuoV+gS5imvyMeaeWMpbb2uPT6sTtWvPDclNeOV+Zxv8Q28OGT5abR2dNOWTTRlKNNrp+Dj+ur\/h18S4LPUeeZW+yxkGdWVb7JWRY0yoYAACAACgAAIAGIAAAAAAAGIAAYCAo95FfqXukkv1KIl0ZNqR5nU0vuLLtUzNvknz48ElkcuHwwlPIpXcevZFe7ZO6qL7LYT5qQsyU4uioljapoWRp9lOC4ycZeVwSm4x7YEcU9s5QXT5\/Ix+tQvRTSXIp67EtQlGStd0adS45tPa+6LVGkeMfZFluaOzLKD8OipnSMoMSGxeShgAwpAAAAAAQAAAAAMEIA8gAvIDEAAFAB7nc0qRbjbUvzQAcHUp\/v17kklaYAQTklSIz4iABEIN70vgxeszlj07cXTfAAaiRzcEIR02Oe1OUny3+Z08LcNPsX7qugAtR571SKWqdeUjGAG54yiyIAaDAAAPAAAAwQAAAABQAAEAMAAAYAAgAAj\/2Q==\\\",\\\"id_front\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P\/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P\/wAARCAH0AOEDASIAAhEBAxEB\/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIDBAUGAQf\/xABLEAACAgECAwMGCAsHAwQDAQABAgADEQQhBRIxE0FRBhQiYXGRFTJzgZKxstEHIzNCUlNicnShwSQ0NUOC4fAlY6IWNkRUZNLxhP\/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP\/xAAeEQEBAQADAQEBAQEAAAAAAAAAARECEjFBIRMDUf\/aAAwDAQACEQMRAD8A8\/hCS9JdUmj11VoQtZUvZFqwSHDr0OMj0ebwz7oESEuhZoGpqJu09T1sV5alfBUmwkksh33QKdyARnpt3SWaW3ivFFSxa6rw\/YchWkN+NVgAWICAqD16eBOxCkj92h1enqW2\/S31VtgB3rKg5GRufVvLVq2XifCxbdTy9sAFF9VwT0gckqd+v53cMZwI5atNFVur1FlQtsoNL0VXV2LaeTAb0WJzzBXORjIJznAgZ+EIQCEIQCEIQCEIQCEIQCEIQCKVHcMUVm5Rk4GcDxiZcabkv0FAocpZQp5gdWlGLOZiHw3xvR5RsQfR9mQqERrHVEUszHAUDJJ8IMpRirAqwOCCNwZMa\/k4r5xprq63qbtFtweVnUZyBjbLDYEYGQDgSZxS\/RvXd2Wo84usyXtZSDY3a2elg9MpyHA8fHMCmhLfTLw3S1czalLr+cbhW5QMWg4yNwcVHcZ39sZ4VqqKNVomtHLXXqUe\/cntEyPzemw5vpQK6E9aPlb5L4\/L1n\/\/ADt\/+s8y7egarWWjBVufsk5NiWOB7MAkj1gQIUJoN",
+        "ts": "1620058293.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "breGvxECpdN5sdyy1kfnvgfFB5cMDy77KozkSiuVEuda37RAxCvjHMO44gIhCEAhLbi1NdenQpWinnxkKB3GNcPuqo02qS7J7RCFUH4xKsBkYwQCQeoxjO8Cuiq63tcJWjOx6BRkyxr1FaJRWmoSh677TzqrABSFxvjm3wR4idourfX6+2gVBD6dddvKquO0U8pBIHTuHhAr7abKeXtEKht1Pc3sPfG5YazzenSnT1HLtYHx2gs7PAOfSAwc5Xp+jvIfOnJjshnkxnJ65zn3bQG4RVjK1jMiBFJJCg5wPCJgEIQgEIQgEIQgEIQgEIQxtmAQhjbMCMQCEMYncQOQi0QFsMwUeJBliH0NXDr66bC19tXKcg7nNLY6Y2Is93sgV3Y29j23Zv2XNy8\/KeXPhnxiVVnOFUsfADMsaH0qaVks1DuysWrT0uUHmr9IDxx2nXw9kYqaltA9DBa7e0D9o2TzAAjl29uff4CAx5vd+qs+iY3PQKfKvhFdKJzWDlUDArOJlkajW8b1dqIrVOzMoZfX1xAqITSeaUfqK\/oCEBvyg01tOjraxMA2Y6jwMruF8P1PFtcml0ahnbck9EXvZj3D\/nWaPyzXHDKflh9kzM8K4nquE65NXo35bF2IPxXXvUjvH\/OsCz4hwS6i7Uvp9JedJWi4tuqNeTy7nfoM5Pj0Blai0qFGUyCebJBj\/E+M6nVXWrRrNcNJYB+Ju1DPjIGV67gHOM92MyrgTdGFOqYOECkH4wGPVjO0OJLUpqFbVscHPJy\/wA8SFCAv8Vno+M+IiIQgEIQgEIQgEIQgEIQgE6MYnIQFMQR88AQImEDpOceydB6HwiYQNGvwZptLSdTwW1w1QYXW3vV2p5OY8oxgjO23q8Y9VVwfXDVVafh\/m9lGmsvW1dSX3VuhB23+qM067hvmNejutQI6KtvZo4XJQ+kV6c6Mq+kvxgfbGtA\/DOHaHVXDiJu1Go0bU+brQw5WYD847HECt1IQIWLq7Fhkgj1\/cI\/olq85LOyCr80My9O7IlZCBofKGjR6bTabzdGVrKlsPOACSc5K+K+BkPgFT3611rXJFZPX1iR+J6mjU+adg+pfstMlb+cNzYYZyE32TwEsvIwZ4rb8gftLAtvMNR+r\/mIS+5IQKPy4XHC6Plx9kzJ8M4bqOKaoUaZCSBzM2CQqjqTj\/hmy8vl5eE6f5cfZaYrRay7Q6gXUEZwVZWGVdT1Vh3g+ECTr+E6qh7Hq0GuTTIPyl1LL7SdsD2d0rpoL+AtZo31tGi1S+cYOn06AvyDbJY46dcDrjEo79PdprTVqKnqsHVXGCIDcIQgEIQgEIQgEIQgEIQgEJN4ZULrLVGl85sFea684GcjwIJ2z0g2qpRir8M06sDggmwEH6UCFCS+JV11aoCpBWr1VvygkgFkBPXfqZEgEJY8P4Z5yqW3My12MVrrQZstI7lHz9TtF8V4O+jVrals7NDy2pZjnqb146g5GD0OYFXCEkcPqS\/XU1WKzIzYIXqYEeE0lmi4dpWbT6zSLXqnx2ai5iB37kDv6DGZXcZ0dekNXLUtTHmDotnOARjv8d+kCshCWHBtHVrb7ktrvcJQzgU4yCPHPdARxLS16XzTs69RX2umSxu2x6ROclcfm+Gd5beQ4zxe75A\/aWVHEtVTqvNexW1ey06VP2jlssM5Iydh6pdeQQzxq7+HP2lgbbkhJPZwgZ38Ii44Np\/4gfZaeeT0j8JIxwXTfxA+y083gWicZtPCjorjYxr3osVypTfcHxGJWvY9jc1js7eLHJiYQCEIQCEIQCEIQCEIQCEIQJfDtTVpbLHtr7QFMBCgYNuNjnptncbyRrNVotbqFstOoQKpUsFDM2CeUncb8uAT6pWQgSeIX16jUh6QwrWtKxzjBPKoXP8AKRoQgWGk4lVXRXTq9INStRLVEWMjJnqMjujuq4vVamo830fY26kcttjWtYWGQcb9NwJVQgEf0L11ayp7jisHf0eb+XfGIQNQOPcMdtEbNKebTsp5zzEruSeXfxxjOdpTcSt0prpp0dlliVlzzOvKdz06yBCASdwnV0aO659RXa6vSyKK7ChBPTOO6QYQCar8Hgzxy\/8Ahm+0sys1v4Nxnj2o\/hW+0sD0HkhJHLCBlPwmDHA9N\/Ej7LTzSem\/hO\/wPS\/xI+y08ygEIQgEIQgEIQgEIQgEIQgEIQgEIQgEIQgEIQgEIQgEIQgEIQgE1\/4NBnj+o\/hW+2kyE2H4Mf8A3BqP4VvtpA9M5YRcIGN\/Cf8A4Hpf4kfZaeZT1P8ACNWtnBtMGzjzgdP3Wnni6Ko9S3vk0V8JaDh9B7298UOHUHvb3x2gqYS4XhlB6l\/fFjhWnJ6v747QUkJe\/BGm8X98UODaY97++TtBQQmjHA9Ke+z6U6OBaTxs+lHaDNwmk+AtJ\/3PpTvwDpM\/5n0pe0GahNOvANGe+z6X+0UfJ7R9xt+lGwZaE1J8ndIO+z6UP\/T+i8bfpR2gy0JpzwDR+Nn0ofAGjz1s+lJ2i4zEJqPgDRnvt+lOf+n9H42fSjtDGYhNL8A6T\/ufSgeA6Txs+lHaJjNQmj+A9Ie+z6UPgPS+Nn0o7QZyE0LcF0w77PpRJ4PpQP8AM+lL2goJsPwY\/wDuDUfwrfbSVL8L04G3P75o\/wAH2kSjjl7Jzb6Zhuf2ljR6HCEJRkvwjWdnwbTMQSPOBnH7rTBV3I49Egz0by4rFvCqVP64fZM8+t4aueZMo3cVmLf0w4igiLVRIfaajT7Wp2ifpL1kinUV3boR7O+RUlRvFAAmIBMcVsDpAXjAilIiA+e6HPv0kVJVopcmRxZ6sRYvA7jCH1BxFYzGBeT3RaPgbiUSEG0WBGksBHUR1WBHWQd5dsRLAYwZ1rAB1jRsB74qudZzMAfXOOfnkHQwgu53jRYZ6xQYYzA6cCc5snE4d+k4SBA4x5SD3RJcZgxJHqjPKc7Qh\/IIiXX0ZxMxb\/FEoi2S98hx\/wBXtP8A2D9pZRsOsvvIkY4rb8gftLLPRt4QhOiM95ZnHDaPlh9kzIoAw3mr8uM\/BdHL+vH2TMhVZkevvnPl6sONQryFqOFo7cyZR\/0l2lkrCOAAzKqHOr0x\/GL2yfpKN5Jp1NN4wlmT+idiJbNSrDGJC1PC6bzkphh0YbGXUxxV98UqEyL2Wt0fxSNQn6LbMPnjlOvqsbkfNT\/ovtAkdnOirxi19sVnMBIqE7yeudzgbTmTAOXG4MPS7jOZ3gCe4Qrp5h1iOYx0EHZhicwo7oCQYtWGYgjwnV3kA67znKR3xzBxvOHEqE58YHJ6QaAb1yAA2IMjXKV3B6SVmcsrz88oj12g9e+P2fEHskCxWrciLF5K4PUQFvgDEvPIls8YuH\/YP2lmcZ2MvvIU\/wDW7v4dvtLLPRvYQhOiM75a\/wCGUfLD7JmNCg+kNjNl5a\/4ZR8sPsmY5Zjl6sOVk5j9Z2I74zWNwY6F7xMqlV7iLwDGkOMR5TuPCShLVhgdpFv0Fdy4etWHrEsFxFhAZFZ86DUaXfS25X9XZuPmPdO1axOYV6hTRYenN0PsMvTUCOkYv0ddq8rqGB6giXf+mIwXbYZgEz3YjHmWp0e+jsyo\/wAp91+bwiqeIAuK71NFh\/NbofYZfUOlMHcRPL4SUq5O4i+zHhAglXPScVD1k\/sx7Ik192BAisMDdY22QcgSYVxsYciEeECF2h75wvmSmqXPSIamER2PrnOcRxkI7sxl68d0B1XGNosPzDpuJE3G47o4jjrA5qUz6QjCgfnLvJ3MCmIwwycgQIzBfHEv\/Icf9ZuP\/wCOftLKR68jMvPIhCvGrvDzc\/aWWejdQhCdEZ3y1H\/TKPlh9kzHIJsfLTbhlPyw+yZjQ+BOfL1T6Ax1DjvkTtTvjMUth2zIqepGI4rjOJX9vj5o4jt1gWKkeMdUjEgrYcx3tcYEipY6ReNpFFuMRXb+uRTzKCMSLqdJXapDoGX1iOdqSfGPKC4kVTinU6TbTPz1j\/Ls3x7D3R6rX",
+        "ts": "1620058293.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347039161605\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 173 792\\\"}\"]",
+        "ts": "1620059154.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620059155.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347031030900\\\",\\\"message\\\":\\\"To login to the mobile app, use this pin 9861\\\"}\"]",
+        "ts": "1620059193.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347031030900\\\",\\\"message\\\":\\\"To login to the mobile app, use this pin 8820\\\"}\"]",
+        "ts": "1620059240.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS SETTLEMENT INFO]:\",\"{\\\"sessionId\\\":\\\"100006210503181958896936506719\\\",\\\"accountNumber\\\":\\\"9978427808\\\",\\\"tranRemarks\\\":\\\"FROM eTRANZACT\/ eTranzact-NXG :TRF\/Pro\/FRM DOTUN BUKUNMI OLUGBEMIR\/100006210503181958896936506719\\\",\\\"transactionAmount\\\":\\\"7000\\\",\\\"settledAmount\\\":\\\"7000\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"null\\\",\\\"settlementId\\\":\\\"209210504001382700001\\\",\\\"sourceAccountNumber\\\":\\\"null\\\",\\\"sourceAccountName\\\":\\\"eTranzact\\\",\\\"sourceBankName\\\":\\\"eTRANZACT\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-05-03 18:19:44\\\"}\"]",
+        "ts": "1620062460.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347039363674\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 794 141\\\"}\"]",
+        "ts": "1620069977.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620069978.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS SETTLEMENT INFO]:\",\"{\\\"sessionId\\\":\\\"000013210503203445000115630673\\\",\\\"accountNumber\\\":\\\"9977674344\\\",\\\"tranRemarks\\\":\\\"FROM GTBANK\/ ADEYEMO SAMUEL OLUWATUNMISEADEYEMO SAMUEL OLUWATUNMISE-\/000013210503203445000115630673\\\",\\\"transactionAmount\\\":\\\"2400\\\",\\\"settledAmount\\\":\\\"2400\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"null\\\",\\\"settlementId\\\":\\\"210210504020556600001\\\",\\\"sourceAccountNumber\\\":\\\"0017674260\\\",\\\"sourceAccountName\\\":\\\"ADEYEMO SAMUEL OLUWATUNMISEADEYEMO SAMUEL OLUWATUNMISE\\\",\\\"sourceBankName\\\":\\\"GTBANK PLC\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-05-03 20:33:44\\\"}\"]",
+        "ts": "1620070503.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"ikeja-electric\\\",\\\"amount\\\":2400,\\\"meter_number\\\":\\\"46000125842\\\",\\\"variation_code\\\":\\\"prepaid\\\",\\\"request_id\\\":\\\"08066738373-1620070659058\\\",\\\"billersCode\\\":\\\"46000125842\\\",\\\"phone\\\":\\\"08066738373\\\"}\"]",
+        "ts": "1620070659.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348066738373\\\",\\\"message\\\":\\\"Token : 56071442554841375983\\\"}\"]",
+        "ts": "1620070663.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"Ikeja Electric Payment - IKEDC\\\",\\\"unique_element\\\":\\\"46000125842\\\",\\\"unit_price\\\":2400,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":36,\\\"total_amount\\\":2364,\\\"discount\\\":null,\\\"type\\\":\\\"Electricity Bill\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":2400,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16200706594541622690425199\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08066738373-1620070659058\\\",\\\"amount\\\":\\\"2400.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-05-03 20:37:39.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"Token : 56071442554841375983\\\",\\\"customerName\\\":\\\"     MR SAMUEL OLUWATUNMISE ADEYEMO\\\",\\\"customerAddress\\\":\\\"Cell:08066738373\\\",\\\"token\\\":\\\"Token : 56071442554841375983\\\",\\\"tokenAmount\\\":2232.56,\\\"exchangeReference\\\":\\\"29897988\\\",\\\"resetToken\\\":null,\\\"configureToken\\\":null,\\\"units\\\":\\\"45.4 kWh\\\",\\\"fixChargeAmount\\\":null,\\\"tariff\\\":\\\"B-Non MD\\\",\\\"taxAmount\\\":null}\"]",
+        "ts": "1620070663.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348066738373\\\",\\\"message\\\":\\\"Token : 56071442554841375983\\\"}\"]",
+        "ts": "1620070663.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349032178788\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 154 266\\\"}\"]",
+        "ts": "1620074888.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620074888.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348038693754\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 248 654\\\"}\"]",
+        "ts": "1620079743.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620079743.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348028163609\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 638 516\\\"}\"]",
+        "ts": "1620080838.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620080839.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348134515197\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 389 912\\\"}\"]",
+        "ts": "1620102803.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620102803.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348038292264\\\",\\\"message\\\":\\\"To login to the mobile app, use this pin 2837\\\"}\"]",
+        "ts": "1620105167.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET PAYLOAD]:\",\"Lukman Suleiman\",\"22513266719\"]",
+        "ts": "1620109501.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET SUCCESS]:\",\"{\\\"account_number\\\":\\\"9977797232\\\",\\\"account_name\\\":\\\"LIBERTA(Lukman Suleiman)\\\",\\\"bvn\\\":\\\"22513266719\\\",\\\"requestSuccessful\\\":true,\\\"responseMessage\\\":\\\"Reserved Account Generated Successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1620109503.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348062698724\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 888 800\\\"}\"]",
+        "ts": "1620110387.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1620110387.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LOAN ERROR]:\",\"{\\\"product\\\":11,\\\"loan_amount\\\":5000,\\\"tenor\\\":1,\\\"loan_purpose\\\":\\\"18\\\",\\\"tenor_type\\\":\\\"monthly\\\",\\\"selfie\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv\/bAEMAEAsMDgwKEA4NDhIREBMYKBoYFhYYMSMlHSg6Mz08OTM4N0BIXE5ARFdFNzhQbVFXX2JnaGc+TXF5cGR4XGVnY\/\/bAEMBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY\/\/AABEIAfQBdwMBIgACEQEDEQH\/xAAaAAADAQEBAQAAAAAAAAAAAAAAAQIDBAUG\/8QAMhAAAgIBBAEDBAIBAwQDAQAAAAECEQMEITFBEgVRYRMiMnGBkUIUFaEjUmKxBjPB0f\/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf\/EACMRAQEAAgMBAQACAwEBAAAAAAABAhEDITESBEFREyIyQmH\/2gAMAwEAAhEDEQA\/APd\/yYIOxojRdjAOwChgACoKGACGh0IA7AfYACChgVCrcKGABQDABBQ6ABJDrYEMBMEDGAmhFC+Qo5AYMCaG1YAAUFDAqFVANBRBNDS2ACgExgyKl8gV0IgkA7GAuwYw6AmjOSNaJkgOeUQNJICK1GhDKgCtwQAMAAAAEMIQDAKS5GHY6CEMAKAOxiCgBh2AIAGAgGgCEA2FBSAYAIB9h0EKtgoYBQKhgUIYdgQIENgAhDaABPYRTEQT2PsXZTATAKDoBCfAw6AiS3AprYAAA7HWwCQwAAGAAAdjQBAJjABDQkNAMEAdlUdgDAADsYq3CGAxBQgGgCExgCAAAABcgCBhSAYgGIYAJIfQAAgQxAAAACaAGBBL5G+A7ABB0MEgEIoQCAOgAQxDABgAAMAAAAAgBgDAEMSGFAdgMqAAAAAAAYAAAgGgAQ+xDAQDEAIOhoApAMQDQq5GBQgGBAugAABiH0AEsBgQS+Rg+UACGAuwAKAChMAACRghkQAFDCgAAIYACABMYmAIfYIAAaAAAEA0UABQIAABgCW1gwAADsA7AA7BgAdgPsGAg6BrYAAAAAQIAQUCGIA6DoYgDkQ+hAJ8oBsRAAAwJAAAADYAiVsMEBVAwAgBgAQAAwpAwBgCGAIIAGBQhoARAwACgoAQAAD6ABDF7DAOhA2ADEMQAAB2A+wDsACgXAAFAkCAAAAATBgACfFghS4GAhsAAljAAhAOgAlAgQED7GIYUAAAAwAIBMYuwpoaEhoIAAEAdjQhgAUMCgADPNmhijc3RF006M82VYouTa2PN1XrWOEXHB90\/nhHi59dkzyflNtvozcnXHit9e9k9Yw43TTbXsY\/73Ft+MNj5yWWTddPgqHkns9n0Z+q7Tixe7P1qUtoQSXuVH1p+cYyj+zxFP7m9nW2xX1Uv21yT6rf+LD+n0P+7401tf6OrDrMWbZSpnyiyxlstjeGaWOSp1W5ZnWbwY2dPq+UPlnh6f1Seye1c2exgyxzY1OL5OkylebPjyw9aAMS5K5gBoQAkIYBSBDBAJiH2AEy4BBIEAxDDsBPkQ2FAIB\/oCiQEMyAYhgA0AAAAMIQPkA7CmgQIYAAMEEAAMAC6Jnkhji5TkoxXLZ4vqHrKa8NO2v\/ACJbpvHC5eO3WeqYdOnBSuS9j57VazLqZuU5N3wvY555POVttt\/8keTe\/RzttenHCYK2p8\/shupR+3k0de29hGK7590QuaZafzScXUk\/cuGCWyttdsuKp7G0bb9is\/dcv00m74HFbu02qpP2Ov6avgvwVcA+64IY2ntatl45O2ppuT2O36UHFqkifouK29\/7I3jyOePl5u0+LPR0GseCdf43RzSxvq0LwUcaV1\/+kl069ZzVfUYMsM0fOL2LPmcGfNp5KUXtd1fJ7+k1C1OGM+H2vY7Y5bePk4rh3\/DfoaEho04gSGC7CkJFdCAQdD7EAmJDYo8IBgDABMOgfIcJ2ECAOAKIGAEU0CAEQNgHQAAwAAF2MOwgGgAAABhSG2optukJ7cnieu+pLGv9Pjatrdolulxx+rpx+repvPleODf0k\/7POTbZh5eTpbmyi0vZ2cr29nWM1FOo8kv2TC75J25RZHG5bVve5SZEW2y4lZax+TaCsyijWHKIreK2HQ4\/iXGPYgz8eykWo\/Bf07XBdM7Zrfb2H9NSjdd9m0MHZUsLq\/YXFrHPThnjdOlwGl1L02VNN1e6s6skHSTVHJnjsrjw6MeV6pZnNPo8GaOeCnBp2jVcHzGh1stLJ8uLe59JgyfUxqVcnbG7ePk4\/irQAuQfJtzAmMQAIbEiAfBMShIAAGDATDlAw9yg73AL2ACR9CGZANAAANCGEAAAAAAgGMQwEMBhXPq80cGnnkl0j4jU53mzSnLdt2e\/\/wDJ9V4Y4YoyS7kj5lfdujGTvxzU22haaXZbm22uaMounbLxrayaM8lcCsb\/AOBIMRUTVUZxRtGOxGlx6o3xx2+TGCZ1YlaILhG2bwjaJhH+zohHY3IzaSgXGPwWolJGmKcI\/BbjY0x8mmK58sPc8\/VpwTa49j1prY4NVBPY55R34s9V5UuWe96Pq\/rYVi7gvc8DL9km62s39Pz\/AENVCbdRfJnG6enkn3i+rF2CaaTT2YHd4QHYN2IIGA2T2RQxJlfslfkA2HYMQBww7DlCXZQAC4ACRiGZDBCGgAYhgAAMIBIbBAPsAQwEFpDM881iwTm3XjFsK+P9YzfW12Xz3p+K\/g811BtR7Y9VklLO5u\/udlRhun2c3ot1NJir3Z01SpIUMW9s1UCuXrJItRNY4zSOLYxa3IxijSPGxose5axKKJtrRY42deKGxGLGjsxQqOxqM1CVUjfGTVOyk1sajNarcLBIaRplUS9rRCRcU3TLKzYJK0cWohUr5O9o59Rj8o0KTp4mpxffstmZQj+Lb4O7V4monJkqMebaOV6ezjy3H1GklGeng43VVuanB6PmWTTKNNeJ39naePJnNZWB88AuR9CXJWQIb9yeWA2T2ymT2yKYg6DoAbDvYGqQPpooT4AACJGAIgClwSURQAAEAwAAfAIHwC5AaGJDADh9ZV+nZd62O84vVoPJ6dlivYXxrH2PiMzTqkdGHHcFKujD6f8A1\/2zvUaVdHOOud7QoqKtujHUahR2g",
+        "ts": "1620111362.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "TqZylKo\/j7mS07lbbZWDjrmvyZ0Y9dS+5o5Z6W1a5MFGcJPnYalXdj2sepjJeVpJnTGSyL7XZ4OGVPd8no4cksVXw+zNxWZV6uJJI6Y0o7fs4cOROnZ0fUvssVcpV8lqS2MoyTe7HOSRUdEZq+TWE4u0eVPM43XJy5tVKLT8ndce5YzXty1WPGt2tiP9xxRe9c+58+tU3ac3\/RSlLJV\/iVl9FHXRlu1t7mqnHLG4nlaKLnJOrjHo75SyY15tUEZajHs0zyJ2ptS99j25tZcalE8fW43HK663MZO\/Fe3teiKP+ntKne56R5voeNw0rb7dnpdnTHxz5P+qT5EUI05imhdj5F2woZL5KfJL5IBgwe6DcABcAgKEuWA1yAEggQJkAV0IZAAABDQISGuQofALkGCQRQAAAZauDnpsiSt1saocq8WFfCQxS\/1X3qvG7N8kqjS5ZrqFFZ80ocORzOVyVmI6Zd0RxJbcmuOCRMpKJC1MI8tJGMmsY7I4VJcBLQxktkYQ10K2t\/pHRD1DEtpOv2qGK1xZ9A4O0qolQai0+ej1Y6nDkXKZjqIQauNGrEjHBNRSj2zqjJ+S9jzoS8ZfKOvFlbdNGdtadkHuTmbStMvFC3twGaH2mmXDLI1fkck4uXlS3fZ15FHy3MnNLjYSmmOn0zSbex6un08GlaRwxzwhvKR04vUcC28v+AmnrYY+PB0ya8d+DzsGv082ksiO6WSMoUqLtmxg4+GR0\/tfRw6zH5Zkr2kjtns7OfU7+EqumS9xvHqvU9Pi46WCezOjsz02+GDqtjTs6zxxy9N8WJ8j\/8AQmVAwoFyLdAD5JfJbIfP8BTF0C5GAvkOWHAkAdgOt\/2AE9CQPgERD7GIYDAA7IGgQdAigYxPkYDQAgAaIzRcsGSKdNxaRaFL8H+gPi5S8sfku2cs209joUX9CK+DGUDk7Rz59S2krp8Wc+OUsk2sMHN9tnZLTRyRfkrZOHFk02RyxOl2vcvSduPU5tThn9OUvFrfY0hm1ccsISypudUrT2ZtrY\/6pxmoeOSqfsyvT9DKGohle6i7p8GpYzZW+bFm0rSz4\/C+JR4ZeLNJ1bTXuenl89ZJPLKknsoqkefn0OHA7h5X1uZrcZSd5HR1abdo5qpnXpY77nKusexpILwti1WNrH5Vyaab8Dq1MPPTrbg3O453qvmssJVJnn5JST+50j2s8GrXFnHHRPHP6ibc79rLC15GfJkwQjLw\/LhyJer1eDxSm4SaUkvdM9PXaXJnjGKlFON1sc2L0XMskJZJRUL+6uUbmmK3UddixwzZ8Uc2KSTdo302s+7ywScY3vik7r9Hs\/VWbGtPig4pRryl0jkj6Dhhk8nKUmnzxZn1ZdOlZPqKLXsUsfnUX7o3x6WMI7LcIR8c0a9xIbehBKMYr2Q+wVbAnudXI+RB2HQB2JgH7ALsnspiqmrAOg9x9bk2FAAD\/IAfuAd\/AAQNCGRAMQAUAkMgYABQdjJ\/yKAaAQAV0KTqLfwK0jHU5VHT5X7Qf\/oD5NL7I17DULJxtPHFo1jsjlXWEoRQ\/pRfI6NIxZztdZGa02P\/ALToxYFFfbFIFaNU3JEmS2CUvBNR3kcWZdyds7PFpM5cy33Lvaa054x3tnZgTvbo5Y\/c6R34IUkSq9LTrZbnfFKUfFbnBgrY7I5PGkdMXPNhqND5y9jmekeJ1J2j1\/qJ1dIjLGL3N6Y3Xlz0uOaqcUyP9txJ2nJfyejLHF7I53inB7XQWFi0scf+TZ0KO1Ixg3e+xtFtdE2aVWxg4\/8AVj+zdy2Moq80V82WM119gAV0dGDfuIZID42EMPYBCfIPkT3aAdtqvYHwH7EFDBuxth0\/kCWAAET2MnsZBQCT3GADECAYxAALkZKe7BypEFXSM5ZPYiU29uhBdKcmzDV76TMv\/B\/+jUjUQeTT5ILmUWkRXy+JRWLxj\/i9zRPYjFHxllg1TXKY0YrcaxfRtA547HRidujnlHXFtCO2+5tCJGPc6ca3JJtq1n9JtM8rUybzOEOFyetqsnhiaj+T4PPwwjy92zdmmU6fDX5cndhx2zHjc7NKlLbySfyY9q\/w3xwdbI6sOByXO5hHN9N2mvYqOtcZ+SOnUc7utJ3Uk1TXBlgz+WzOr6uPMre0jz\/DwzTS4u0VJ\/8AXcmuUDMMc7VXRopv3NJpXgmEl4q0PztGUpc7kpCk96Fp\/uzfpGU2zfRr8pUMfTLx1KrDsQ2qOrkBMAAT4C+EPr4F0AmD5QyZcoBpi7GtmAUvYHyF7j7AmgGAGa5GxIfREMYgQDDqwFZAwulYmzOc62ApzozbvklOxkaMABAMAADg9TwQ+n9VQSndNpbs8Tj+z6PXLy0k\/jc+byOpszWopyqka45U0cjds1hLg512xenikqOnG7Vnm4smyrZnWsqjG+6Eq1lqs0Vdcnny1MoRbhuzbJGUpN2c2TTSZd7PDx6nVy3ahKPsnudWLVSS7XwcMdLkjLZ0duL0\/I15PIialPrTdaltW2Yz12RTX0sbn83Rph00N45HZX+0\/Upxk4pDRcm2i9Qlkn9OcGpex6Xj5brdnJptEsHDbfyd+NJbG5GMqxWzLU0uVyVlhas55SoVJ22U642RLknuYebZXnsZ21pUm6O3TR8cMV77nnp3Kvc9WK8YpLpHXCOWZg9w7A25l0CBCsCmtia2Q3wJ8ABL6\/ZXRLvZ\/IU+w5ALASGIG63AS5AYAZDQkwIigQXsJAUKxMmUqRFKc64M+dwu2CIprgYgAYxDAAAAqc0fPFOPumfK57U2fWHzXqmJ4tVNdXaJVjiT3NITu\/gyT3Kic67YurHkpGqk5bs40zeE0uyaVvyOtjD\/AFEES9T5OkxodMVbOqN+Pinued5urRvj1C8k\/Y1IzXXh0zjPylLk9GCTSUWjyf8AVOT2NYZXzZrUZ7eooVyUk1+zzF6jPDKpO18nXi9Rw5I70mTZ810N7HLn2bot54TX2tHPmnapC0k0jypMFKzN2uVQ4PczGq6tPHyzRXyerRwenwvI5PhHfe53x8cMvR2G+4dgyskFA+AYA+BdUV0T7gDZMvxGTNNxCq7AFuF1YC7Y3wLlhdWAAG1ABihiQyIaAQEUpOjFu2VORBFhgIL3AoYgsCugsQBTABAPs8z1vT\/UwrNFbx2f6PTFKKnFxkrTVNAfGNUy4s29R0ktLqHH\/F7xfwcsZUYsdpW97ET8mtmCkNPpmWmUsGerjTKwYp2lN0\/c1+o4cO0XGcZLcsqWV0R0eWVKM1LY0hotRGVvGn\/JWkzeLVu0uDveqjVrZmtbXdjkjo9RJtqCTN4+n6ppL7Ujox6xRdqW7NHrPJbP+RqJcq4M\/pmRxbnPf2SOLH6XrHP7WlH3Z68tVFP7nbMsurlPZPYWxn\/ZyQxZcEmnkuvY2hl8nuZyblxZKuLMNOiUrVBj3kkjBy+T0vS9M5P601suPk1JtnK6ehpsf0sST55ZqHYHZ5w3uLsGACYwF2FNCAXYD7E+KGxS4AEJ9ggYCf8A6B7bjYf47\/wAuQBbgBiuBiCyIZLdIbZnNkVDdsLJsLIqgEmAFoBJhYFWFkthYFWF7ksL3AoLJsL2A5vUdPHU6WSf5R3iz5R3GVM+ye6o+R1K+nnnB9N0St41MJGq3OZOmawkzDrK18W+Bxg3tReNo6sVPojUrlUZw\/GxSy5e2z2McYuK2NlCHcV\/RqRLk8KGbM9qZ0QeaSVyaXwet9KEmvtRotPia3ihpPt5+HBtZ0LTJ03wdKhCHApZOdkiIwljUeDnyUvk3yTOWbtg230emlqcyivxW8mfQY4KEFGKpJHJ6XBQ0cWlXk7O1HbGajhld0dh0S0U+Sskw7Ex2ACDcW2wU3uJ80HuF7gMT4B7MT4Ad\/an8AJbxQ74QEvsfSB8iAAEgAxAVjIgbMcjNZcGE3uSrCsLJvYdmVOwvdE2NPcC0wsmwsoqwsiwsgq+Qsny2F5AXYrI8iMmaGNXOaj+2FauR816tFLWTrh7noan1KKXh",
+        "ts": "1620111362.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "hdt7X7Hlal+Tt7sLHLdM0jIhq0SrRl0jqjOtzrwZV2edGRpGbRK3Ht481Ro0Wc8fHnaq2bLPfZN1rUemtTui4azdpvg8r6yT5BZl7jdT5j1pZ2+yHkPPWo43Ljlc39pWa6ZTsz53Y4x7kEmVivoNJ9ulxL\/AMUbqX\/JwabX6WcIQWWKcUlUtjqU9k00ztHCtbGZqQ1ICmAm9xsAQg6JbSVt0ubYVXKAyx5Y5I+UJKUX2jRPgB9g30An2Ao\/ihsUd0DAJPhA1uKW41xQCQC4ADCxkhYQ5M55v7jaTOab3ZmrDsLIsGzLSrBPcmwvcC2xWZTywj+UkYS1kV+MWwOyxeVcnnS1WWXD8V8GE5zl+UmybXT0p6rFFbyv9HLl9Sa\/+uH8s5GS1ZNros\/qGedrzcV7LY5JZZSdtt\/s6JY1JbnPPG4y34G10Iu5Wx5HZK2BsppFh42FexS+SNxlKLXARnX5bG\/jZLhfKJtdJU17lKT9yf8AT3+JpHSZXwU2PJsuNvY1xen5H+ckjtxaTHj7cmC5ObDppSa8juxYlBbIpJVsqRaQ2yTMsjpG7SSOfK\/JkhXHNVJ0a4dTmx\/hkkv5IyrdExW5dpp6WH1bPFJTqS+UduL1fHL\/AOyLj+tzwUWizKs3CPpoavDkX25I387G3nwfK+TXDNIarLj\/ABnJfya+2fh9MpdHneravwxrBB\/dk5+EcC9W1GJW2pr2aPP1nqD1Gr+q\/t+1RoZZddOnDjPufT0NHrXpslcwfKPaxazBkS8ckbfTe58f9V5Myrs603RiZae\/k4MeW78r6xSHfueJ6br1CsOWX2\/4t9HsKR1l2+fycd47qrXLoNqJi+hvgrmHwC5QN7EgN8sBPdgBz2efqfVseOTjij513exz+peoRyY\/paeT3\/KXx7HmLg55Zf09XD+ffeb2MPq8Mk\/DLHwb4d7HRJ7ny8m55XFcLs9OGqnHFGHlbSq2SX+2OXDGX\/V6XklyzOeoxx7s895JS5bFZLXPTrlrP+1f2YZNROX+RmSTa\/KvKyluTHgpGbWtKF4plICLpm4iaNGiZIDPxRMop8o0oGrKOSeHxexH0\/c7MkbRk4mtppgsZrHCnW4JUaRdEagWnS+SvppdWbY2aeKfRFc8YxXCRtGfwH0vZlLFL2ApS+Ck12KON\/JaxtPgqHGJe3Q4wd7spxS4CMpJvkylE2lzRDjuVHJliR47m+X8kjIzViaGgXA2gpNbEsvomhtNIfBw6lfcd8lRw6l3OjUqaGgi\/Jt7+x6HCOfSwUYqjpMW9vqcOOsJKR2aX1Z6eH05xc0uN+Dik6Rj+yy6XPDHOar6LB6rp8tXLwfszshnhNLwnGX6Z8i12OMpJ2m0zc5Hky\/Lj\/FfYOV\/IeR8pDWajGqjlml7Wb4vVNTj5n5L2luamccr+XKeV9H5JsDw4etTb+7FF\/pga+45\/wCDk\/p5sYe4\/FDGjg+ppj9PxlaXJaZoyXEu3Dk\/PMu4pfBSVmadPcuLRHkywyx9NkpFOhx5DAS3NEhKNFkVKVXYwYm62Chksd9Ev4CEAmxJlDohx3KsHzYEOPYqLtdiS3Cqxvg6obo54ROnGiKtQLUKHDg0VPkqM6aGrG30OKCKS2JkzToyyOuSiGt7CVKLbEpW76Mc+W9lwNmkSabb9zKTW\/wOUjN+xlTXBaJjFs1UQpVZFGyiQ0EY5ftg2ea7nkX7O\/VTrHXucumh5TcnwjU8b48PrKR2Y41FIsFwD2Rh9Vlk3f6EojkikvtDOmcuNiUW+SFyVkSe6Ib3NJK0Y5H7FYrTG6TYAl\/0gA2GIZHQDQh06CnQvHe1sC\/ke4LJfU2+y4BzsJKnaDy8n5v5xbrgdERn77MtMPJcbjdUPgl7ouxERlJDSLCuijJxF4mtB4gZUS00zfxE4jZpzyVmmOFj8TXGgLx40zTwaZeJGrQEQWxVAmrLVPhhU+I4rcvxVAlFLcREO6MpUtzSUorjkykm93ZRlNuXwjKUTp8bBwVfoiuRxrdkxx72zocPJ\/Bp9LYG2MIGqhsi1DcqhpNsfGrMJnXJbNnHlpJsDztbK8lexrpoeONLs52nl1HwtztiqVFr2fmx\/wDS0Ju5DukJIy9iWvuK4Q6B8MDCRPDLlyTJ\/aisB8GElvRuuNzPKq3QZyaJJ4ml0AYN00ANNBmWPKp7Pk2orU7DT9xV+\/7HQ+O9iNEr\/gfQgAoFwTvZSugqqsatcMSv2HZEuMymqfkO6YgoPLn+WX\/lS3KXHyQtlQ09yvLlhlh7FVxsFD62HFkYImi6sK+AqFEuOPe0ioxNIxAeN9NGvPyT42t\/7HUlwyoTW5UUmibt7pouNAWkqIlS4oq9iZ7+xUZy\/gSW\/wAj2TspXX2oaBFbci8HJ0uDVQfZfii6TbJYkgceTVxIl7AZVuJ7FSJrcCJ7RPP1kvHHI9DK+jx\/UJ3JQXZGoy0seZPs64mOJeMEbraNslfU48fnHRPd0X0TjW1svqkiOhP2EymS1vbAymtzORrMhFYpLcjIth8MdXsGRg2YCg\/F12AWM5Qp+UXTNsOe\/tlyS17kSx3uuSs9zx2bV8BRzYczi\/GZ0p2iOkuwLbcb\/wCQdtBSRZG66Y02+gq7BO3ZLtOn2VFkDfKKTIfI0wqgEmFgsl6q06GnTrogdh5s\/wA2N7x6axLS3MoyrkuMrDx58eWHsaKP9FpExZcSua0tgTBbAUJ79DSXsNL+yqYRNL5E0V1uCKJjBFxQiioqhiAIGzOXJbZEnvsBEia23LoieyIrDLLZniZZfV1fwj09bl8MT9zzMEW25PsO3Dj9ZOmEf6Le9L+QSqNP9lQVu32YfTikt+Buly9x2Kr+ERouk2S\/dlf\/AIS+CiZmZrL5M5Bisl+Q69gkq3HF7FZS95NgVJVv7gEXKD5M90+DqMpxrcNWOecfJcbjw5XB+MzTlkZIKSDPnjpjJS4KOHHkljdSOuM1JbbhuXayU7YNv+xoNFPlFJ7CnyJP5IH2Oyf4GBSGTf6KQU7GSOwp2NNolPcpBPVxyNcm8Mlo5gtp7F28+f5scvOnbGRXJyRy1ybwmpcMrw58WWHsbFLciLstBzPkXYwSKgQwSGEAD6FdlCZDop7ckvgCW+zCcuTWcv8AFHHqsqx42yK871DL55PBdBhj4owjeTM5M7Iql\/7JXv8Az4amz5pe5rFUiMa8vu+TQy9kG6\/kT\/5HS7FdcIgXC\/QnyO7t2JlE9ESNF2RJBKyn+JKTovIrQosrmcfuVMBpVwAVrBqUbQ5RtHDDJLFLfg7sclONhcbti40S0btbGLVBLGc4qSIhklilvwakyinswy3U1OqZojgi5YZ\/+J2wyKcU0w3jls3uK9+Rif8AJGh\/Q0JP9D\/gCl8sP6F\/Y+Qp2OyLplJgC25Q1JDTYpMCrC+xRexMWBp0NOnaIb2BPYDohnadNfydUMia2dnnJ7lxk4u06Lt5eT82OXePT0k9hrk4oanx2kn\/AAdWLLHIri0zU7eLPjyw9jZIKdisdlcgJoe4q9wFIylKky5tL\/8AhjJ+4ImTpcnj+o5\/J+KeyO7V5\/pwfu+Dx1eXNvwR0wx+rptpoUrZ0LdePb3YopRVexpjjSbfLMV9XDHU0qKpUNgn\/YMjZdUFdsW1c7h+t2UGzfxQuUVVUTT56AXYnwV8ie4Rm130ZNeM\/g2qzOe8twxVRe4EtUtuAKMpxsMOR434vhjbsiUbKx47k7VkzjaObDlcH4yZ1p2iOku3O1QGs42ZMJYiUbRmm8UvdGwmk0GdNsc1NF9dnGk8TtcHRDIprYNzLa\/5BfwHfIL+CNDh9jtivcpfoBJ+5SaBNeyCSVcBRYrtlR4IXL\/YGiITHdIle4FN2gt0Sn9w0+SC7CyL2RW5RomEW4u4umZ+VjT2BdX114tW47ZN\/k68eWE1cZJnl8hvF3FtfosyeXk\/Ljl3j09i7BvY83Hq5xpSXkbx1WOa2dP5NbeLPgzw9jWb7OfJPxTKnkVcnma\/VpfZF\/tlc5HLrdQ55",
+        "ts": "1620111362.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "HXHCHpYUrZjhj9TJ5SX2o7ox2pcGcq9v5+P\/wBVcVb24NK+0SVJJDbVGXugT2+RPdiX\/IcsAW2\/9j5W2yF\/+vcdbbsBL3B7tg3aqgfIQqB7sAe6XsFQ+TOa3vo1fG4mk04sM1EWAo7OgKyzez4Ea5I0zNhmxEo2VgzOL8ZA+CXGwnjt5VmU4mWDM0\/GR07NB0l3GD+RGzxpozcaCaQ7fRncoStcGwq2DNaY8ikuS7ONpwlceDfHlUlzuRqZNVuUmR4rpsdUr8g2oG9wSTEgLRmnuzROiK7CnJ2id0qH2vYT5YQ3ymK6bsK2Fvu6ApND6dE3dKgAqxp7kXsO6aYGidDUtjPypv2Gmn3TCtLT7Jadg+PdDi\/kBU2nTaOR6Lyn5Sba9jsntFvgzcr7Y3XO8eFu7ELGofZFbFpKNJAn8DfCYbk0pCk9hLf9FSW2wUvb3AFul7gAbU0xL+2Pm\/cLb4RQVtu9w5SFV7LcbdxRAmNcULga2tdgTJV+iapWW+CXxV8hGaSk3YCvxbQFYXPcya5AAmSBdgAZRNbWdGCbkkmAFMfW4pJNABHVg+Q6AAwmRg345NgAM5OvDJvk0kAEdJ4ceQQAGjl+JMX9jAAG0LsAAGK3bQAEPncF+YAAe4\/8mAAD23Q193KAAoTfjL4Kj0ABTl+DMo\/kgAIqXI3+IABSQAAVPyHIAEC2bYW7qwAC0qJ\/7gABIa5AAExNVIAEGWbZqgAAxX\/\/2Q==\\\",\\\"id_front\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv\/bAEMAEAsMDgwKEA4NDhIREBMYKBoYFhYYMSMlHSg6Mz08OTM4N0BIXE5ARFdFNzhQbVFXX2JnaGc+TXF5cGR4XGVnY\/\/bAEMBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY\/\/AABEIAfQBYwMBIgACEQEDEQH\/xAAbAAACAwEBAQAAAAAAAAAAAAAAAQIDBAUGB\/\/EAEgQAAEEAQMCAwYCBggFAgUFAAEAAgMRBBIhMQVBE1FhFCIycYGRobEGFSNCwfAWJDM0UmKS0VRyguHxRKIlNUNTwmNzdIOy\/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAECAwQF\/8QAIREBAQACAgIDAQEBAAAAAAAAAAECERIhAzETQVFhcSL\/2gAMAwEAAhEDEQA\/APeSfAVzHdNiySXZDdY\/wnhdR3CqGwRY5v6g6X3wIf8ASpHoHS7\/ALjAP\/6wuiCj0tBzj0HpVV7Dj\/6An+oulAX7BBv\/AJAugfPa0zxxsg5v6h6WQf6jAP8AoCY6F0rn2HH\/ANAXQ3ruCEA+vKDnjoPS\/wDgIP8AQFH9Q9Lu\/YYf9AXSHyQDv80HNPQOl8ewwf6Qon9Hekk\/3KHf\/KuoefVCg5Z\/RzpP\/Aw\/6Uf0d6Tpo4MP+kLqFB4UHL\/o50j\/AICHfzakP0b6QP8A0MP1aur2R2UHJH6N9JH\/AKGL\/SEf0b6Tv\/UYv9K6oTCg5I\/RvpAusGGvVtoP6OdIs\/1KL\/SuslwoOT\/RvpG\/9Si+yB+jfSgP7nCf+kLr7eSXyU2OT\/RvpN\/3KL7J\/wBHek\/8DD\/pXVP4oTdHJ\/o30m\/7lF\/pT\/o50j\/gYvsuqhByv6OdJ\/4KIf8ASl\/RvpP\/AAUf2XW47ItNjlH9G+kn\/wBFF\/pR\/RvpP\/BRfZdX5pq7o5A\/RrpIJ\/qUX+lS\/o50n\/gof9IXU+ShrI\/tG6fUbhUc7+jfSaA9hh\/0hH9Gukf8BFfyXUBDt\/NNUco\/o30givYIfsl\/Rno\/PsMa63KOfmtDk\/0a6RX9xir5Jf0Z6P8A8DFXyXW77IPy2VHJ\/oz0c\/8AoY\/sgfoz0fgYMX4rrelo+m6Dlj9GujD\/ANBF9lIfo10cf+gh+y6Q2+ql8yg5f9GujnnAh\/0pH9GOjnjBiH0XWu\/ki9kHH\/ov0n\/hGD6IXYq0IibuFX6Kx3Cq7oGErva0x3S7IoPnY2T7cbKJPfZPtwKQG9d7CBVc7IINeqO3ogAjv33QPpaPyKBd\/VNHf1R3UAhB5QoDshCFAJJlLZZAikItAIRaPkoBJNCgN0IQqBCEb\/NAfVCK+iFQJ9kI+SoQAaNhVp\/VHdHyVB9UIR9NlQvpujYb\/gjujk\/JUHZHr3RyfRHPHZVRzzwi7+iR5obIv0+aCV9gnf3Udx6lMbeqIe6EcoQTdwod1N3wqvshB3KEIHCBHbfZPt2pB2NpE\/KkDo16hA2F70jkdkDi6+aBhIICBf8AugO6O6EKAPKCg8oUoEWhHZZAUuUJqBI2+aEIH9EvkhG6gOUIR9EAb7INEpBNAXSd7pd0C0BuSn32KQR9FYHtaAgXSO2xVAPkj5o7I7KgG3zRwNkHsg80tA4HzS4Hqn3S5KAOw+aOB6p87pd7PZVRwEth9Uep+iPVAcbnlMeZS53PCXJs8IJaj2CFHV6IQ0vdwoFWO4VN7okSHcJXQpA7oHCBXeyZ2CCk4gcmvmgO29IH4oHHogG\/mgY\/BG9+qAfkl3\/igaO6O6FAIQjsFAI7b8IQdlAFJP6JLNDS2TSUAhNI2CgPqhHdH0QAtCO6L35QCrmnjgaHSWATQoE\/khk0T3FrXguadJF8HyWXqxvCLRpcXGgxzC4O9KAPz47JBta4PBLSCASCmCK2WPpsYZhBo3Fn3jsXepHmosy5fbTjkMe3XQLK2FE0d7vjsqN\/ZB4WXqE78fF8SMsBDm7PNAi9xwVbjzePC1+kC\/JwcD8iFRaed0d1iinmGbKwlro9YA1WC2x22o\/z5hbQqH3\/AIJefki9kdlQJdkz2CO6oD5JHyCY5tK6F\/ZULk0OEcn0TOw25KRFCgijk+iDv8kHyCCOwQInyQnsNkILnfCVX3VjvhKrvYohpcFMcIHKBHcpFSKDsgQS+9JkoHKA3v1S7p90jz3QCEIKgaQVOTkxYuM+eZ2mNgtxrhYZev4DGkRyOlkLSWBjHEO+tV\/soOomsXSsyTNxBNIwNskAt4I8x+I+i2KBpfVFosfRZAjZFoKgNkGkX6IKBbWmfmle\/G6zNy3+1GCSB4JdQcGuIqjvdV28+6CWdI6PFfo1Bzhpa5ostJ4Kcc4fjmVsUpq\/d00416FV9SiMmO8ksLGgOLZGahtZPcKUDZIcRwDWueNRa0PNHyFnhBhiL5OqBz2PjGr4S1w7HkglpK0dSdKY\/CjhcRsdY",
+        "ts": "1620111363.000400",
+        "bot_id": "B01RC3AKYG6"
+    }
+]

@@ -1,0 +1,13 @@
+type|subtype|text|ts|bot_id
+message|bot_message|"[error] - [""[ERROR]: {}""]"|1616127409.001900|B01RC3AKYG6
+message|bot_message|"[info] - [""[HEADER]: {\""Content-Type\"":\""application/json\"",\""X-Auth-Signature\"":\""be09bee831cf262226b426e39bd1092af84dc63076d4174fac78a2261f9a3d6e59744983b8326b69cdf2963fe314dfc89635cfa37a40596508dd6eaab09402c7\"",\""Client-Id\"":\""dGVzdF9Qcm92aWR1cw==\""}""]"|1616127409.002000|B01RC3AKYG6
+message|bot_message|"[info] - [""[URL]: 154.113.16.142:8088/appdevapi/api/PiPCreateReservedAccountNumber""]"|1616127409.002100|B01RC3AKYG6
+message|bot_message|"[info] - [""PAYLOAD"",{""account_name"":""ITA UKEMEABASI"",""bvn"":""22222524746""}]"|1616127409.002200|B01RC3AKYG6
+message|bot_message|"[info] - [""[BODY]: undefined""]"|1616127409.002300|B01RC3AKYG6
+message|bot_message|"[error] - [""{}""]"|1616127409.002400|B01RC3AKYG6
+message|bot_message|"[info] - [""[URL]: <http://154.113.16.142:8088/appdevapi/api/PiPCreateReservedAccountNumber%22|http://154.113.16.142:8088/appdevapi/api/PiPCreateReservedAccountNumber"">]"|1616127486.002500|B01RC3AKYG6
+message|bot_message|"[info] - [""[HEADER]: {\""Content-Type\"":\""application/json\"",\""X-Auth-Signature\"":\""be09bee831cf262226b426e39bd1092af84dc63076d4174fac78a2261f9a3d6e59744983b8326b69cdf2963fe314dfc89635cfa37a40596508dd6eaab09402c7\"",\""Client-Id\"":\""dGVzdF9Qcm92aWR1cw==\""}""]"|1616127486.002600|B01RC3AKYG6
+message|bot_message|"[info] - [""PAYLOAD"",{""account_name"":""ITA UKEMEABASI"",""bvn"":""22222524746""}]"|1616127486.002700|B01RC3AKYG6
+message|bot_message|"[error] - [""[ERROR]: null""]"|1616127547.002800|B01RC3AKYG6
+message|bot_message|"[error] - [""{\""account_number\"":\""9977581206\"",\""account_name\"":\""MERCHANT(ITA UKEMEABASI)\"",\""bvn\"":\""22222524746\"",\""requestSuccessful\"":true,\""responseMessage\"":\""Reserved Account Generated Successfully\"",\""responseCode\"":\""00\""}""]"|1616127547.002900|B01RC3AKYG6
+message|bot_message|"[info] - [""[BODY]: {\""account_number\"":\""9977581206\"",\""account_name\"":\""MERCHANT(ITA UKEMEABASI)\"",\""bvn\"":\""22222524746\"",\""requestSuccessful\"":true,\""responseMessage\"":\""Reserved Account Generated Successfully\"",\""responseCode\"":\""00\""}""]"|1616127547.003000|B01RC3AKYG6

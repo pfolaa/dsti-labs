@@ -1,0 +1,954 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347033050208\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 250 542\\\"}\"]",
+        "ts": "1619855473.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619855474.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348055118057\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 125 945\\\"}\"]",
+        "ts": "1619857320.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619857321.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"OMODUNBI MARY BUKOLA\\\",\\\"beneficiaryAccountNumber\\\":\\\"0122089939\\\",\\\"beneficiaryBank\\\":\\\"000013\\\",\\\"transactionAmount\\\":\\\"6000\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"08033984930-1619858716993\\\"}\"]",
+        "ts": "1619858717.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"08033984930-1619858716993\\\",\\\"sessionId\\\":\\\"000023210501094516005006998708\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1619858720.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347084202092\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 118 706\\\"}\"]",
+        "ts": "1619860458.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619860458.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"JOHN  ANTHONY\\\",\\\"beneficiaryAccountNumber\\\":\\\"0023869034\\\",\\\"beneficiaryBank\\\":\\\"000014\\\",\\\"transactionAmount\\\":\\\"2000\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"08060959591-1619862431035\\\"}\"]",
+        "ts": "1619862431.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"08060959591-1619862431035\\\",\\\"sessionId\\\":\\\"000023210501104710005007000850\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1619862433.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348029575981\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 103 648\\\"}\"]",
+        "ts": "1619864518.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619864519.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348029575981\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 626 925\\\"}\"]",
+        "ts": "1619864759.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619864760.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619864846.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348029575981\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 589 559\\\"}\"]",
+        "ts": "1619864846.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"NUSIRAT AMOPE ODETUNDE-AJAO\\\",\\\"beneficiaryAccountNumber\\\":\\\"1238053408\\\",\\\"beneficiaryBank\\\":\\\"000014\\\",\\\"transactionAmount\\\":\\\"100\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"08179224819-1619864938517\\\"}\"]",
+        "ts": "1619864938.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"08179224819-1619864938517\\\",\\\"sessionId\\\":\\\"000023210501112857005007002376\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1619864940.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"mtn\\\",\\\"amount\\\":100,\\\"phone\\\":\\\"08107085537\\\",\\\"request_id\\\":\\\"08177608934-1619865194040\\\"}\"]",
+        "ts": "1619865194.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"MTN Airtime VTU\\\",\\\"unique_element\\\":\\\"08107085537\\\",\\\"unit_price\\\":100,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":3,\\\"total_amount\\\":97,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":100,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16198651944483302242728261\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08177608934-1619865194040\\\",\\\"amount\\\":\\\"100.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-05-01 11:33:14.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1619865195.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LOAN ERROR]:\",\"{\\\"product\\\":11,\\\"loan_amount\\\":5000,\\\"tenor\\\":1,\\\"loan_purpose\\\":\\\"6\\\",\\\"tenor_type\\\":\\\"monthly\\\",\\\"selfie\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv\/bAEMAEAsMDgwKEA4NDhIREBMYKBoYFhYYMSMlHSg6Mz08OTM4N0BIXE5ARFdFNzhQbVFXX2JnaGc+TXF5cGR4XGVnY\/\/bAEMBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY\/\/AABEIAfQB9AMBIgACEQEDEQH\/xAAbAAACAwEBAQAAAAAAAAAAAAACAwABBAUGB\/\/EADsQAAEEAQMCBAQEBgICAwADAQEAAgMRIQQSMUFREyJhcQUygZFCobHBFCMzUtHw4fEkYhU0cgZDU5L\/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX\/xAAqEQEBAAIBBAIDAAEDBQAAAAAAAQIRAwQSITEiQRMyURQjM3EFYYGx8P\/aAAwDAQACEQMRAD8AxzStdGGta4t4BKwfw7XS09uHd12pdK5mC2gB1WCePw3+IO2PdcmtOv25jtK0ONHF4VDTt+ieUJRunqE+AwK\/BHSwmKWjZ6D4QA+d1+6HZIBh\/wB0wn1UFo2NF\/zBg0UW9wFbCiUKNloBlFZaQpuY7r90RQHni0xpe1p4pWY6F8JjGNjBLh5v0RhpJF8\/olstMBDjd2qyOi2yRsohpN3lZxHyW\/ZXKVgGmzwt2l0plIe\/j1SNNA5zhuFjt3XTZE9wAc6gOgRRDGmOIbQQrMpIpjTZ6lHHAxvAymU1gs0ElFwwkjOO\/qtbWhgAHVIGpjbxZ9gjayWfL7jjHTqUyE6UC2xje\/0SNQ04Mh3OvA6BaHuZAzbGAFkc\/wARxzwouSM8tRbRSvkgKroWostuW1QjDnA7iCDws2rl8STY021p+5WieTwYez34Hos2mi3vFjyjlMbamANY0DGAic8MaS7ACuqz2WHVTB\/lHA\/NBxWqnE5Hl4FIoYnRst5q6x2V6GEPl3PogcBadRk1XKe\/pptmccG+mVgBLm7eKW1\/yuA7LG8bZD6ha4xWMJc3a4Balnl5TxwFosQRhCAjHCDSlY5UGQo0IMTeFdXkKgKKL1QFN+ZNZ6pRzwU2IIM1o7JzeEtoTW8JQxtTAEDUwJhYVqlaCRWoomFxi5Wj1XSC50QuZvuukEiWFapXSAsKXlRRADILYVbTbAVHfKUEZuMIAuqiipIKUVKINwX\/ABGPUNBk8r\/xe6wa2UODWjjlKY3c+rx1SpZN8hPfhY72elXhAVZ5VEINVqgrwqQEV2qU6oNdqEoboJbnJ6LYi602Nhb5nYd09EEIrzu56J7fM70QSBpJBpK1OpEfkit0hx7KTzHzMiIsfM4nASodNTrLtzjxQVSf0rf4ZGHiEWLdySVu02mOzfJgnoFek0rjtLhTRwF0NuEBiEfhDDPqE1kgpP22UYiBGUzZzOeGN3OKOPTl3nmO49B0Ce1gacBRzgLsoIcbGtyAArmlDGEuwOiyyasR8ZPZYpJZNQ6jx0A6LO5IyzkXqNS57js4RaNpDXE9TanhshAMmScgJsT97dwFWormt2M5UhjAJLj5G9ewVtB6JWtk2tGnbzy6kks8jnamcurnAHotscYjjqs9UvTQ7Ii8jJGFoeCWkDB6IJk1M2y2N5Io+iTpdP477d\/TB+6Z\/BSOf5yKJyt7GCOPa0UAntewxxCImh5TkpOpHlFcrSflPssUz3eJR46IjbDVvlnlFNz3pZpm\/Kfon6mxtopJK3x9K1otzAGOceQCjb8o9lHDc0i+RSJooAeis1hERYVBEChSxhEAa4QgJrBhADzilADWEVZVtCQBRtOiwEJFprBSBDGhNCBqYE1DajCFopGgIArUyrpBJkqKBWgh6fM7V0Vz9N\/9hq6IQEVqlaQRUDdq0LsBAFVhCBQpU1\/mArBHKKsoCihKJUgBUUtRI3jpH7WENrzDn0WWkTw3cS1tD0QFZRQrGO6EqY5VBAToopwqKYTdSouVF2UBJcaAT0W0c5HGyjuf9lbY2tbb8lEG2bcaCZDZ5jZw0HhLnmLneHD9whe58jgyJrtt8gLdo\/hu0XJ16IL2zQaTxSGsbQsW5daDSsiaQBnumxxtYNrQAE5jUK0FjaRkIqAV7b5TAGtroj4FKOICzTztYOcpFbock9EivZYZZySaNlLc90hoX\/lNZC2MbpSPZRa58s9lxQulNnjqUTpmxjbELI5cVUs7nktZ5WcUlUpZI9xe63GytkILYm2MeizxROc8Ywt4bgDhKizSi8QQmQ88NHqsemYZpS52ep9VNRL48oDfkbhv+VthjEbAOvVIqt3y47gIwLVVZaPVGO6SNhHz0O3KOlGis9UQGUKhb+FhnNygAVQXQfVGlz5K8ZxBuxavFpPTNqeGi+SSkcp+qNFg9LSF0T01x9IFYVBWE1iCseioIghQgmRnkJY4RBAHglXdIUQCWhoTcprAlsCc1MxtTGoGprAgxNCOq5VXWAokS77KKKIC1FFEwZphc4XRXO01+MD0C6QSJArUUQEQv+Qn0RKnCwR3QAWPLhECCEOzFnspGMEpASoqKFAJcHONhRHXqog3hbVKrVErNSypaG1CUBZKAuUJQ8pwtpRJ9fRNazwxZ5UDPDbfVWBdWbPQBMkLhdu\/4CuES6mQMjjFcElO0+jMotzaHqurBp2xABvHX1TJUWmbE0dT3TWtTAFYahSg0IhyrAULg3rjugK3t8TZfmq0EsrRWcjos+oezxfEBogVayPldISGcH81NyZ5Z6Om1RNhpSWRvmdf5lG2JkY3TGvTqgk1BeNrBtaoc9ytML44BTPM\/v2SXvdIbd9kNJ0UDpDxhGhMbS2tJwBlaYdIXEFy26fRhoshbGRNam2xwkYHReFtA5KRq5TGzYD5nj8lv1+2NzS7hrbK5LQ7UT2eT+Smss\/Zujhs7z04WzqrY0NaAOApSisqEjzNTG\/LSHl1eibwAhCgMqHBRNCF6Fwt+DS53L3kXd0t0pIBIWNl05wGC5aYtIy6wgytAN+QfS8\/ukI9QKnfzg0gC6J6bRYVhUEQQtYR0hCIYQYgEQQhEEGIBEEKIIBjU1oSmJrQgzWhGEDUwcoAlapWkS1FAogL4C",
+        "ts": "1619866189.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "nRVyFaYO0nzu9l0AsGkFucVvSJaiiiQRRRRAUeEEXyo3GmlDGPIPVARRTqrQA0orv0UQb59ahKV4o7q2yNc6i7b6lTobGUNqT1E4De19i7abCX4gKNFswAk0AmMaGCzz0CGEtouOFqigL\/ADEUOloBcUbpH\/p6LowaVjAKGe6qGEM6Z\/RbGBBqawXSe0YVNamAcJmoBWAFHGgayUmWdsYJcRxhBWjfKGDP2WCfUWcfZKkmfM4ht5U2MhFymz\/as7kwyz2VqLDGOvJypDP4TeLeeCq1rrcwD+0H2tJPPsERJxkLzZNkqxnhVpIvGkLewtdKPRV0T0cw2Rp4QSLXTgiaBwgZpqTPFbFQNknihyhtJpoAHCslrBbiAPVJL53Co4wz1cf2VM04vdM4yO9eEBm+I\/8Al0YQSGjJ6Jeli8Jln5iulOQNK4AVwsQohRk5+T2MBSsWpwFbchQxoWDzn2CaAgbVlMOAgtK4SzZPoie\/lLLvsnGkhcp8hKxROLpGMJw5y1ag\/wAorPpGn+IYasXwtcVsU7vEnlfjzPJ\/NLVk2VFs2iwrVKwhQ2qx7KgiCDEAiCoIgg1hEOUKIcoBreyYAltTWjKDGEY6IWhMakBKX3UHKlIJArUUQF9FOinRRAP0RO8jot2QVj0Iq\/dbkiVlSj0V0rpAUFFFCgKdW0oWAtbXI6Ij0CtACeVERohCgK+iipRBvm1fRTb2TfDdztd9lRYR+Ej6I2jQfDdfHurEY3ADzH04CMttwA4WnTw04G89fRLYFBAL3yt4+VgXQjjJy7nt2QxMyDX0Wtrc2hcCxlJrBmlYGKSZZCyQNANdfVLZtF7a2jce6jpABkrJLqgwHOegWQvlnNAEBK5M8s9NM+sHyx5WcMfJ55XU3uVN0cWAA9\/5BLe90htxtR7Y3K0wzbQWwjaOrupSqs11KtrS44C0w6bIc7plBTG3yyas7p3AdwEsi3lE479ST0LiUI5KqG6nwKHfNM4j5Wgff\/pdlzWxt3PIa0dSuZ8Fc9kMvhstziPMeBQXQZBdPmPiP9eB7BNrj6LJk1GIgY4+rzyfZNjijhaABfumHhUgwn0VKyFYbizhAJ1cgZBRxZWIaiMeUuAJws\/xLVvln8JpGxpwe6xahzQ0Amz+iVx2zym3Ume0xObuonssTZZoiS2TA5BWHxnjlxKp0rnt5TmKO10f\/k9t032906D4iJWgOw89Fxd4G68oQ8ghzSQjsh9kehklaRQItSOQPGDZ6riN1RHzCz3TodZ4btw7cKewdrp6t22ID+4pBfsicbohpI91nl17ZttgiuUT3gwON9E5NHpkVhUoOVs1i0beEKNqDEAiHCEI0KWEQVBWOEBaJqFExBnNTWpbUwcJAxvCNqBqMIAlFFEiWoop0QF9FStUUw2aLDRnlbQsWjy9vTy5W1IkVqKcpkE8qIiEJSCrrJVgUEJY50flIVxv3suqPBCDWqKJCcICqUVgA9VEB4\/+JYTtcxzXdlm1EgedgBWyWX4fJhjZC4+izPjjYSRffKzh2szW0c9c+y2aSL+UHHlxtJbGXEu2HIWuE7IWNrIaFW4jcamNpNFALEZ3cDFJT3ufy4n6o2fdHVE0TaDntDjmrWD4nqg2RrGZNcrn6rMrB2U1X9cN7AKNFctwbS0EOldZPTqiM7nCm+VvYLCXkOJHVUZZKO2k+1lZttuymsjc4i8e658EwLxusO7rrM2OaPHkFf2jqjWl44w+BjWmnAtPqFqnqPTuIqqSmSPk8rYwGceblJ1UTodO4vk3WKA6JLvpzY\/6l9gULVcR+Z3oo1VGD0PwiEt+Hh\/97if2\/ZbQUn4cdvwuAehP5kpoIQ1noRQ0enCsHoskj53MkcJGxtY4tIqzhBnTTRQtO94BrjuuNrNfNIAAS1hPHognkZy4l7h1cVjkcXmyqkIUs+44AFHlZnuLrJRkchBttMaA5U35qKbswqcw9Etn2lV5lC09E0RVRRhn1T2O1mo2plaTFZ4VOhPZGx2kEhMZM5oLbtpVGLCEtIwUy0e1wcMIhlZQS11tWmJ4ca4QZpabz1yrqjSrN8qwhQgiCEIkzEFYQhEEBaNiBMYkZrU0BLamBIDamBLajCAJQFUrQS+VFXVWEBAp0UV9aQG3RUSSB0AWwLNo4yzcDwDS1dU0qVhQqICFAHAu2qTOLWXWDhAxvU5SMxhoUha3bK+uCiBBVD5ighFCUXKEpgP1UUIyokbx0UIZybJTGULJybVtblEyI7R65WO2FyA93lNDoqonHZOMdVfcIwwcpbT3MwjJViIA5WighfQaT2CWx3ObOL1wb6gIJzu1Dz6omW7Wk3WScpZzucTmiVov6ILqBRMus9UDvRNc0+HY5CpUKjGTeMrdp5NpwsMZtPY6kVUdiHUDqh+Jy7tKOxdX+\/ZYWSV1R6t96WMf3OJ+3\/akX0zsxE76BX0VZETfUq2+YgdSaTZPT6WQfw0bLohoFH2TcrL5S2kDtS+AeY7mpNm3xWxiyVxdRqy\/xA001ztyHU610poDynlZr3ZVBXPKrYOuUYYSr2o2qYlbbNqBndO2qUp2uYl7Ffhg4TNuEQajatE7AOiIMCbsVhuUbGitvooWJ+xQs7o2WmV0fZLMeeFt2Kiwdk9lY5r4aOEpzXDjBXUdGD7pD4b6KpUXFmin2na\/7rU3IWSSIjBCqKYxuAdx2VJ9NwRBLbI13BCYmpYRBCESQWmMSwmtQZrU0JbUwJAYRBCEX0SC1FFEEtWqCsJhauNu6VoPdUoB5hXNoJ1NKKjPuU9KgFRhNCZIorUQQXtL2loPKSGbQM54WjCXtskINQRNFi0rLXkdE6PDAPRAVSpEUBJBsIASc4KijwC6wokHmhtaMBE1pDQOwpX4TiOQ0JggseYk\/Vc7ktJJFtsjuoXf2tJWgRtHQBWQlstufPM6JocY+fVR8m\/TF1VYVfEhQY0d1epb4ejaM5oJqlY4yPHld\/a0pIH8t32RvoQ1wS79kAw0+6teydubTyBsJrgIKRSeWF3oFUVGRmE0O7BJB\/0Ig4KlNDH36J+rNR6dvXZu+5WRrlq1pG6ADkRNB91NLIuQ+RjfS1cJ\/nM9whmOWjsAEWnP8xp7IiY6\/ikC1jnmMpDrNKpJbBzj0QxNL6xgJtVtZdWtDYfTCa2Lim\/RadmMpWtJGIsVbKWlzQELRn5bwkuM7m10VbbTnNzwqDUlADUQbaKlEjVtVgKwFYCAgCulAFdJkraoW4RDhWmRDmoC3utDglFqZMc7L6LFKzZdhdVzVlnjtvsqlRlGNjg1wK2slYW89LXPeC04RNOMHI4VI9N38QwHg\/ZG2aN3DvulwSteADQcnFredotChtKaxZtPfhNtamJGaxMCW1MCDGESAGuEaRIArCoHKtBLVqgrGAmERw5mbi8oE3Tf1gaukE6rMDikaEIk0oooogLwguiSi6qiLQZBI30cdynB3lG02EsNtxtC0eDKW\/gdx6FIHoSiQnlMBKiulEBw6bWar1Qumiby8X6ZUGljsbrd7lObE1vytA9guVw7JEwd8kUjj7UFD4zuI42e5srQGnlQgAXaQY5dIJnNfM8uLeA0ABZviVNhaLwSuiTuHl4XP+JV4Tr5oAfdOKjmSnyRjuSf2Q15bvqVcgAftHDcD\/fdRwoAelrRoAchTU\/0TXVE0eZBqnU0N7qoqMYCLPup+qKlSouJpfIxg5c4DPqteudu10noa+wpL+HtDtfBuut4ulbiZNU4nJLyfzU0qqX+qR0tHFW5LNukPTKY0AWDhOHDWt3Gh1XS00NR5WXSNJYSWgjgLoQg8AY4RWsMjZtF9UTxhMOGisIH8KVkOvrwhIpGVR5QotwuiEJRHhVhJUCpSJUkaBWorQEFohlCiGEyRWoqKCU5A6kZQEZTBRCXI0UeqeRhLcO6Cc2eOjdLOcMx3tdOWMFqwSN2uI6LSVllAMoHc66rNHK1l0kcYc12+OuvKxVghadO8vY6InphMo3QkGNpHFLQ3Kxx3G4EfK",
+        "ts": "1619866189.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "enZbWJLhjQmtQNRhICCulArQECtUrCCWooAoEBadpATLfQc+yUnaOxMKP0TJ1QrVBEmlSitRAUULzQJRJT3XjraDE1ti+qp+WkHujj4QSGjRHKAMcBC7lXEQ6MFQoACoi5UQHGLurRZrCJrXDLnKBoAyTj1RPAEbtoqwuZwFAOP4q9L9EQBuqsHgBOIA6BRLYKIocV7Lj\/ABC3ahzc0HNb+p\/ddpy4uqP\/AJxyPnLvsP8AhPFcYH+aZx7klXL85VsG54vuhkNuJ7q1KZgrPqz5m+i0NOSs2ozIrjSei1YGFEQGEzbPhLd2vYf7AXH7JWn\/AKu49LKd8NcIzqJCMNhd98JUAxIePKVJUMTdz06hZr7IYmgcj0WzSw75LOGjlUuH6VtxV+i3xkNoAGuiGERNIIoA4qk4MAyOCprWIX2lu70rPPohJtJQTnCW7lE49UJ9EKAVSIoUjRXSpWg0pSuEQRbeqAEDKso6wqcMIIPRUVfRXVoAChIym7VWwoBdIHCk8sSnjCYZpRhYpmktuqIXQfwQs0jMUnKnKOcRZVtGNzTkI5G7H0gY4sfThVrRk6enc2WMEdRlPh8p2lc\/QybZK6HhdF4qnDukqNLeEwJTDYTQkawrtQCwoOUBau1SiAIKwqCvhBLWnRC5LWXotugqj3tMq3jCsKgiCaUUVqimSJLhTzaddJMwJiJBykqDYaOVbwHpTbLWknlOPqgADQAr6KWqtAUorUQHK60pJ+Bv9zgP3\/ZWBm1D\/VjHu79v3XK4BdVCp1VlBxXovPSO3TSvHRrj9\/8Atd+SxHIR0aSvPvO1kwrs2\/W7\/ZViomAXJ7JXCbEKa8\/+qWVRxGBZJMyu91qacLMRZKuNg0raFdIggNmlFfD9Y\/FkNb+aXE3+RJjJofmnsbs+Dk4\/mTV9gErx3RhrGtttdfdECNaQ2upXR0cJO3Ze48eqwtALr5BXpPh0LWwtIJ4GCE1wqPS+a3ZARuaRdcLWarCVILCmrjI7JQG6TXNzwqprcuSWRSrbjlXJKxptLOpYBhCl0qLaQfxMatuoY41YQNipQC1dgqDCRra2kZwo08KPQFj5VCFGqyaQCxlXbRyVEhwNOPJTI907GDIQO1jBWFm8N8rxZwFoj0bbt7gRSaVnVNc3DVQkY\/j7JwiiZYqx3SZoozRaKKKcLkbSQRlOJIFHIQOFi6SU5+sZRB+iymjgrfrGXFu7Ln15uy0xY5ezIyfK4dDS7TSJIweQRyuJGLc0WtsE0mm2seLiJweydErpxfKE4JURBYC02CmqVCugoOVVIhhARQcqBWgLUUCtBIVu0AG2+6wELofDvk+qcKtygUpWOU0rVFWFRTAXjcwi6QO+SuUdEKiAUjVDToq7IzwkRExzkdHJ5QC6oKkRQpBLUVHlRBsIFD1QAjxj6NH53\/hEBZ4VMHnkd\/7V+QXO88XVQn8lDyrAsoVAasbdG8jk0PzXndQbDyODJj2A\/wCV3\/ib9ukI43Gh9l5\/Un+XGe5c786\/ZViqg4id6kJLrWp0f\/jbr9Vld8qo4oHnss6eT5D7JI5VNEARNCoIggNsxLfhmlZmnl7j90sD+U2+ACU\/4k3azRx9oGu+6VILaxgP4R\/lEAtOzdsb3NL18cbWRho6CivIxGnNPX1XroDvha7uLVVpCybPZVsJF9EZHnwrmG1lDlSqME7xHdCysxjkd53nn8lrc1rQXO5WaZxPVS0jK6Hc7zcJMmnF0DhaTuKohG1aZP4ashytkO1wN8rT4V8IXROajY0JoocorSA6ijDklaNa5FdpQKa0ICxhRz1HChaSXWgLc85Q7yEBOUbBWSgaGyxk4Rhx6C0l2oY00PMfRRurPRte5QTTZIykSPpA7Vu6sNdwlGdj+tHsiiD32VDXRLyVe7ugwSs3xub1IwuO67vsu1dLk6tm2Z4He1eNZ5wDD5r7rp6X+fC5sguzkrltwVt0Ty2cdA7Cus426Nz4Z\/4d+Ry0rohYtVCZWB7PnZx6rTppRLE13WsqVG9VfVSlEGgVqBRBLCsKlY5QFrdoRTRWe6wrp6QDY3HROJrUFCFArVJRUrKhQAlQ8q1R5SMmUVI1wObTRuzf0SpP6rR3KacFBhQq+pQlIIcqKrUQbCOyGEHab6uJ\/NEMAkoWOIjYALNCz2XO88ZOcImcoeAja6k1xi+LEeHGwngOd\/j9Fw5jZib\/AGsH5kn911\/jr6LKIG1n6n\/tciU3MfQAfYAKoKqVxDGs4HJSCaCdN8\/0CQ\/FKorEL\/lKUEbjhCqaLHuiaLwhTtMC7URgdXD9Ug3fGRt+I+F\/YxrfyWdw\/mkDpaZrHGb4xKSb\/mkfQFJLiXPenDhl+YL12gxooierV5IUQ28YyvYMGzSxgdGhOrhbnU8E2s8+oq+6GeWnHusEj3OcoaSHF7pMnKVIOSnQxGrdhoHKyPdJqpjFphTRy5Cgvlaw5ICWdW0\/KCUOoZp9NYMniSfosZ1UYPBr0Ro+50G6s\/8A+f5qHVNJyC1YDqgHAeG4XxfVEZc09pafUI0Jk3Oa2QWDlKFg0UqJ+wgA2Oy0St4I6qbFyiHCdGcJDUxrqwkZ8nyLK61pBDmEFZiM0gQMbS51oNQ8jANdytMB2WaWEn+J1FPPhx3zXCchWkP1AjwEcEk0sobFDvc5pIaOtBDqhH4TPCGQaISYJTEXEXe0tVyRlbTm6qZzzG2Oi3lqF81uqRu0q\/hxrV+JIT1JJ6p+vLdQ\/wAjarqinNlwyhrtu62ngrQR1CyxaUgjK1sjoVdqVwF5WDXM85d6BdBwNrDrh5h2pPH2nP0yNsgrXC0viJ6tysoFmlr0j\/DkbfyuNH2WjKOvpiJIGOvJCrSAxzyxjjkJWkJgeYnfKT5SnMbt17v\/AGapU1KwoVAg1K+ipXygLCtUPVWOEEvqF19MLY2uK5XIC6+l\/pD2VRNPCtUFaaVdFFapAUqpWVSRkn+qL6FNclSYkaU0oMB5QlEULkgEqKlEGxvaWsdY5CsijxhC7j3IRWTjj2WDh0ur5RMaCSENdr+qOPF90Kji\/FWVPsJsueB7en5rn\/NM893FdD4k6\/iVgfL5vt\/0sEAt7fdWVBP\/AFXehpZ38hOky4m7spL\/AJk4rEDuEKJ2QhpU0Wuh8HjD\/iEe8W1gLz7ALABkLpfCMfxchxs07q+uEUMsYdJKaNF157KneVlf3Gk2HyxPcD+Ej74WdzhvaCMclEONLK2g3wvXud\/JBHZeLhJa1vsvXQyb9NG4fiYCnVxz5z5ilwgF3ek6ZnmKU0UPT0UNYmu1n8oxxjJ5Poua12pEbhCx1dSFvOwH5Pqmx6lsTXNbEHX1CDscv+CiOnLjLvk5IHRc\/AcRVBdaYB53eGQe6y\/woJJLCnsu0mWR0sjG7nFjQNovAwunqNRA6HYW7nVxSzM05AwwBObASPOfoEWnMWLwXF9xW1vqVraTsDTkhMDBwMBQtF4UWtJEZymO5VNACJ4GKKRiYTmkq\/MjaaS3HzWgGjGUBjAs1hWx2E00W2mTIdOCbCJukNcMv1Th5eKReLiiE9lpm\/hXA3TUQ046u+gTt4d0pS+yBoAiAVvDWtRt8xygloGkgzkWVg+Ichb3LD8QGWFVj7Tn6Yx84C0MAMbu4qlnblwWzTDc11jHdaMnRib40OfmHPv3TdOd8oc7kCln05eGAsFk4cP3WqNpY5pPXClbQVFSmUBag5UUQS1YVBWEwschdmAUwey4zQC9oPddqH5SOycTTFapWmlShUKpARUVLyqtIyp\/kv1TOgQTjyFFGbY1BoUBRu6oDykAHlRQqINjJduYSw003z6I95PDEyjklA2x0WLiC+V7GOfssNFnhSHVQTMLmuAzWcIda8t0MvqK++Fg0cYOms85r0JxaBtj1D71eoeejSPqRSzw4N9QCfyRvdcU7jy9wH53+yqEHa8gWdtKiZylOF2mnhZ3HBITjXCbU7lUq6q+qpSxyupoRt+Ea+Ti9jR91ywumLj+A814s\/5AJUMzB\/47iT",
+        "ts": "1619866189.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "+IALNL\/UdYwBQT3SBmna0ZcXE0lE5a08nLk4cMoMexo5pej+Hy7tFHngUvMvsStdeei7XwaXcyRlddydaYuo6PdlL8ECMrTCAY67K3tAFKF7cmVm35koO2m1u1IBysJAJwlWkX4l8hTffZAQQpRSUvdfCqyeVAETW2kakUcRdZ7KEV7ImPppzymRZxhVRWxmmL4y84ASHMo4SOF0VTm2jb5rFHCc1jNpBw7oUBkbgpzbGOiVI2jhU15ac8IDRt6qttI2uY5uOVKymQA1E1lmkW1WMZQC3AtFJDuU+R5JN9EhxylTgCsfxEfyWn1pbSs2uF6c+hBVY+05emFjW+Iy+oC16IfO0\/ZZnNIiZKRhp+60aRw8Z3qDS0YujpPKyj3taK6nolRtoD0TRlJQgcK1Q5VoCKwqRBBIiHCFEGuIwDSZVcWZ2V3XZiFNXJga5s7XOFALqtlZQymm00KIPGYOqEzt9Uy2aqSXahvYoHaogGm9EaGz+oUKxxal5B3DPqo7UvPACNU9nzHygdSri+QLnyTSOlZR+WyU5s8mykdtHc1u4QHlZTI+uSgc+SwdxR2jubOVFiLn38xUR2juC2bVO3DZHjF2oH6r+yP7oWHy+5Tg4gLm24mXVfxE0RjcGNaeaVsi8LSbbycJ0h4SZHncGh1AZ4RteONy8RxHm4iO8t\/Yf8o2O2aeU3l1NCGdhjLGO6bj+dfso4EaYHu4\/orTrTO7grO7ApPkw0rO5ON+P0FT2U6KBUBNXQ1Uu34Po4m3fncceqwN4W\/wCJ0IdLEOWwtJ+uUBjbDt2vc7cXC\/ZVYdMaHy4TnOa7bRwGhIi8xc4irKDgntPjNs5W\/wCDuLNa0d2m1iczzMksVdLT8MeP41zjYaQQPfkfon9Lj0sL9riO6Y42fUrMHbX+6aDTDXJUtGTUnJWUg3a1ytF5WaR2f8KauAOQq2kKwUVgpLUGWUyg0KxhthBIbCAVNJQwj0+nfIQ52GDukvw9l8XlaHzkNq6CA3SzNDNjeAsoIvKyfxTC6i8Wm7+qQjTGwOKk8YYywQlNkrqhllscoBRyVCLFLPJM66jbuPdHDI4jz4KDNj+Qjq0pzXWEptZPdMAQGiMA8o5IqHokxuorQXjb+6aWGbCQ42VonyVmKS4opOr\/APruTXFKlI8N18cJ4oy9FtAf8NdXQIdJRnYSBRHH0RQurQO28iwgiJYYHnghasXVaSB39UbTfRDdixwiCShjlEhCJAWoor6IJFtjFRALGtd4Vxnkto8ydyElh8ydYVIWhccqyaBS3O8yYEThBzSl2qLg0BMIKtV1Cn4VT3bRaYDGAZn31pNPAS4xTS48lH+EBADjCgGVapIKq1FDzhRAKb8gRAnhUOFY5XC5YqQi+eizOcSSfonPOfdKlNROdwT+SVdPD\/XM1rt2pz0aPzz+6Caxp4RWMuVakg6mQj+6vthFqnH+Wz+1gWjGsknypMnKbJ090l5yrjfD9Qnso0qFQYKaRtzjvgLd8V\/++5v9oDR9AsOmG\/XwtyR4jRj3WzUkyfEpL5MlfnSVKkSgRTvDflaaCGEU3KKQ7t5PUoWHpabSLkslwGAKKboxsew3kuBWffvmocH\/AAmseBtJTVHqHgX7K99M6KnEBovqAkPdgD7qGsDJJZWdxRvdRSilVxVohyhJUBUrNDsUSqQ2pupMlPAcCLSXlwG0i\/ZPDu6skHogMP8ADtk5BBTIopYsXub2K04VWQgBD6FISC\/rhMHPAV7cpGECmbWilGadxyU1uOmEe6spkERbQE1paBhJ35VByAfgFU94AwgLrFpT3lAU59lLKhN5QuKlQHOSZ3fyT7onFKnzEB3IV4s8kB2aI1y4othMcAd2KkgBdHEOMLRLXisBFeR37LRk1QZiFpwCTANsTQnBJSwiQhEglq1SsBMhN+Ye61mjyssfztvutXVXEZLHoEV90A4wiPRUhZOECsqulhAQ8KOaHDPRW5V0NphRNkBSg4UVQUF\/smFROJc5vICMoI6i1BZ+F36pjgigBUU6lRIKx1UVG1EAkElS0AKu7XE5ItzgDZ6LPK4OlZC3Ixft\/oTJr2mugJWeize\/ghhz67f+0SNplrHTmvO54rkm0WpP89\/2\/KlUbbnjbzkKp\/6r83k5VoIk+YJLuU1+Xn0CU7lVHTP0ArCo+ysKkNXwRu\/4rE4iw3c4+lAq4jv1e85JJdf5q\/hzXRQ6x4xUe2\/c\/wDCCAYe7s0n9lN9kFzhtrqSkuIa6wMhXI\/AaBkclU1tsd1ccpxpFQ14meppMYBvIHPRDGzc6yfVT5XHvSanqmv8TSRPH9otIe5T4fIJPh0dfhsZStQ6lm2gXPyh3JBeiDrQuGEqApdogVKjOVFQULqQFhW4HoqBtGmQBkZVoqtCQLSNdhXvAQUO6MMaMnKAjXWO6u1LA4Com+iZBJVF2VRGeUtzkjOD1T1n30Uxrw5tdkGEnuhcVHcoSUClnLkExHkaepTQMIQ0PnzwwWrxZZejI2g6xxPDQKTZW2+J\/wD7V90GlFyPd3NppBfM1vQG1aGodEYQcGkd8JGIBQKeqsIJAiCG8ogUyHELkb7rT+JZo\/6jcp7jSuM6trQeDlEOcoWtrNqwbcqSK6CDP0RoeqAs3WeVSvp3QnlMIrb85UHVUObTAH4ma\/1TXc+qS+mzNPdNeePRAV3VcBTpwquykE91EBOeVEAgKDlVatcTjipnbInHqfKPqsWosQPdm3Xf5D91q1FlrewPCx6h38qqoFwoemf8JxpPRGkAfq2jokSuuRxscnhO01tdI4dGHKz1yrBdW4kpLvmK0Dg+6zvFvvt0Tjqv6hRBOilhIp7SCimbEXkx0WcAkJp7TYSW\/DpiPxPAP0\/7SGu2scP7sLS9u34bFXD3uP7JRYQxtiwkkraKQ0Wkbe\/KJ4PRF0zzX3TaQPyMoclZy7JsLQSS4ICPRLanX+BSbtNKz+1wNH1TNT8xWf4EadOO4BWnUDzFTWuLE61cZvCtzeyFmHIUMq2lQ5VdUlDc8AJJksoZyaws4e6sC0aK11IKq3FG6UcMXLZqujsJ\/wDEN2+Up6G2uzVkqAtWN0xdwrZKcJaHc1EhEHBZw57uGkpjYdQ7hh+qehs4ybRaS6egjdpZ681AH1WeeERN8z\/oEDanTWlPmrqlFrnnyWAnRaXNvRot0DXvIstwnROsq3gmgB5QjjjqklCLcJLk+TASDkogqdAkNNtkPVzqtNeSGmkpnyV1J+6vGMsq3wsEba\/NFCNzy8\/RC0HY0Ep7BTQOyZDIyipD1RAoMStUFaCRQKKcJkbFmQJ3JSoPnv0TgrjOi9lACoOVB1yqSv6qieFdKE59Ewrkeir9FZOAqvCYQ9FOLUvIQ33QCX\/1W33Wp6ySdHDutb8i+qKAnhLcaIREoCLHqkEKiEnOVEgTRpWQrpCSXH6rkckgJwPK42aWPVHys5u3foP3JWrUfkAsE7idl9GWfclVIoMYqGUnrQWc8dlqaa0rh\/cUlsT5DtY0uJ6AWqkOFbaaFnc05XVbott+O4tr8LQXH8lThDGf5NNo0S4WbWuPHV58uPqOdp9FPPmOJxHesfdaG6R7mOBczy\/+2PyXT02mk1TPEncS38DD1Pf0TpNNGI95B8NnL65P7K7hJ7ZTlyt1HKn2mCGHeP5TTfuSrOkmdE10bd7RdlptP8jyQCAXenKVc0Eu8ZF5HAPuss8Lr4tMcvPkpkMs8gjjhcX3VVwtEvw2aNu0tJd3HC3aL4lUgY5gjDupdgFdN5Dxx7rg5eXPC6sdmElnh5FzYx5Xbg4YISTXIXZ+L6Iho1LR6P8A8rjkLXjz7ptWmv4PJs1jgeHsI\/db5uSFxoXmKZjx0K60jw7IWhwg8oSMonHKrnCFiBtqqsqmmjSvqgAkZYShHtNrSMhQsTBR0weLHKEaIey2Rt2p3INo2WnOGmc35XFMY2VtcGvRawBSraUbOQLJpGcsB9k06uUjDAhDCiDD2S2ei3unl+Z20eiUNOLtxs",
+        "ts": "1619866189.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[LEADWAY PAYLOAD]:\",\"{}\"]",
+        "ts": "1619866912.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"airtel\\\",\\\"amount\\\":100,\\\"phone\\\":\\\"08027170517\\\",\\\"request_id\\\":\\\"08027170517-1619866961950\\\"}\"]",
+        "ts": "1619866962.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"Airtel Airtime VTU\\\",\\\"unique_element\\\":\\\"08027170517\\\",\\\"unit_price\\\":100,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":4,\\\"total_amount\\\":96,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":100,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16198669623480943626312349\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08027170517-1619866961950\\\",\\\"amount\\\":\\\"100.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-05-01 12:02:42.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1619866963.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LEADWAY ERROR]:\",\"{\\\"errno\\\":-110,\\\"code\\\":\\\"ETIMEDOUT\\\",\\\"syscall\\\":\\\"connect\\\",\\\"address\\\":\\\"197.253.9.28\\\",\\\"port\\\":443}\"]",
+        "ts": "1619867042.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348102667300\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 890 694\\\"}\"]",
+        "ts": "1619867745.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619867745.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349045003064\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 413 795\\\"}\"]",
+        "ts": "1619869481.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619869482.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347067137028\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 914 308\\\"}\"]",
+        "ts": "1619873356.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619873356.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET PAYLOAD]:\",\"Israel Olumide\",\"22148753565\"]",
+        "ts": "1619873679.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET SUCCESS]:\",\"{\\\"account_number\\\":\\\"9978682753\\\",\\\"account_name\\\":\\\"LIBERTA(Israel Olumide)\\\",\\\"bvn\\\":\\\"22148753565\\\",\\\"requestSuccessful\\\":true,\\\"responseMessage\\\":\\\"Reserved Account Generated Successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1619873681.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[PROVIDUS TRANSFER ERROR]:\",\"Transfer to virtual account is not allowed!\"]",
+        "ts": "1619874844.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"LIBERTA(Afeez Adebesin)\\\",\\\"beneficiaryAccountNumber\\\":\\\"9980342379\\\",\\\"beneficiaryBank\\\":\\\"000023\\\",\\\"transactionAmount\\\":\\\"1000\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"08033984930-1619874844674\\\"}\"]",
+        "ts": "1619874844.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"LIBERTA(Afeez Adebesin)\\\",\\\"beneficiaryAccountNumber\\\":\\\"9980342379\\\",\\\"beneficiaryBank\\\":\\\"000023\\\",\\\"transactionAmount\\\":\\\"1000\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"08033984930-1619875195238\\\"}\"]",
+        "ts": "1619875195.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[PROVIDUS TRANSFER ERROR]:\",\"Transfer to virtual account is not allowed!\"]",
+        "ts": "1619875195.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347025871491\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 614 834\\\"}\"]",
+        "ts": "1619876093.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619876093.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LOAN ERROR]:\",\"{\\\"product\\\":11,\\\"loan_amount\\\":5000,\\\"tenor\\\":1,\\\"loan_purpose\\\":\\\"18\\\",\\\"tenor_type\\\":\\\"monthly\\\",\\\"selfie\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv\/bAEMAEAsMDgwKEA4NDhIREBMYKBoYFhYYMSMlHSg6Mz08OTM4N0BIXE5ARFdFNzhQbVFXX2JnaGc+TXF5cGR4XGVnY\/\/bAEMBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY\/\/AABEIAfQA4QMBIgACEQEDEQH\/xAAbAAABBQEBAAAAAAAAAAAAAAAAAQIDBAUGB\/\/EAEIQAAEEAQIEAwUGAwUIAgMAAAEAAgMRBBIhBTFBURMiYQYycYGRFCNCUqGxM1PRFRZiweEkQ0RygpLw8VSTB2Si\/8QAGgEAAwEBAQEAAAAAAAAAAAAAAAECAwQFBv\/EACoRAAICAgICAgEDBAMAAAAAAAABAhEDIRIxBEEiURMUMlIVQmGBIyRx\/9oADAMBAAIRAxEAPwCjfPbdLzTb9UtqCxUVtui0l80AMmBLLaNx+qibLVKckVdKGSK92+Unn2KTBAZtLSd0rZPoqxEjOiTWe6VFFp0iITqlO\/IKtrdXlBPqpoZhGA1zCCeZu7KBFrpYQKRtyHIoQIUd0o+CaDt\/VOCYAR\/okHJOqxXdNQAfJKOWwRsgIALpKEg33QdikAvLdFpPmi0wF60oXG3GuSkc7S3ZRNGo6QkxomiFNtSpg2G6d8kwDmjki9t0DkgQupCTb837IQGysOhQPVNB+CW+iYh177\/oi9tk0FBNnZAB80ljuhBSGF79lBpLnuLh12UvzTTd+Xn6pAAYAaKCABdck+9vijpz2SAdC8OZQPwT63UDXaXXWym+FJoBwO3NOHOv2UY57pwKAHj1TTzRaQ9u6YC89rSpN0BAC\/v8UtpL8xSdKv0QIU\/sjqkvuj0QMjlN0By5lOi5kqJxt5KmiBDb7pex+iTp\/ql60P3TTtySj1TELZpL0Tb3QSUDHb9h9UJvl9EIAqg0Oe6LFWmJwO3ZMkdfpzSX6Jt7BFoAX4JL39EJOXJIBT1RaQ\/qk9UDHg\/+0Hkmbpb25KRiE9VJE620Onr0UZNjbdMa7w3X2\/ZAy3zSpiUUEyR4R05ptpR3tAC3ui0m9otABaUFNv1QgBSfikc\/Sw+qOqimJuu26BoRu5ACsg7bKvCLdZ6KcdfqhAx3RFpvX0SpiFRddknwSA7IGO0+qEeVCBlL5Jb+PyUbDbRSW0yB9oJrlabfdF0EAOspUzZFlIByS+yP3RtfVAAlBAICT4pOtKWNCnYprjRHUJT7t9k29vRIpEuO+26T+H9uilHdU43aJLJ\/9K4PiqQmL+yUeqbaUoEKSksUglNukALYReyRFoAcqz3W4m1K8009+iiZu4BJjRYjGlv7p9jumdkthUA79kJtpbHdAhb6ovZJaL9dkDDUe4Qk8v5f1QgRnQu2pSWKUMdB9my3uApdcXR5+YRY2PtAPZJ930kHzCKb+cIsQ69kHcpNj+Jv1Rp35t+oRYC2lukmhyXQ\/o0pWAWg8kaHflclLXflKAGaiRyRYpNkjduWk\/BQEPbzaQUqKJnkd1Ljya465luypgOdyaT8lYxonRai7rWyEJ9FpLeyZdpbCYh2pIUm2yAUAKee6Bz+KS0BADJXcgiIbWonO1SGupU7dgK6JDHfXZL0TdrQqEOvaiUt+qbaS0APvZIatNQCgYuv4\/RCKHb9UIAzHEtfQcQCpG6SBsFHLyvslidba7IAl0t7JdDU27Sg8wgQugc0eG31RZCL6FAg8Mdyl8IdCUA9ktoGHh9nGkoa4cnkIBTgeSQADJ\/MP1Sh0v5gfii9koKKAPEk66foEeJJyLGn5I50ltKgsUSOHONv0R4p\/lN\/VJaAR3Todi+KP5Q\/VL4rB\/u\/1SXaNqSoBfEi\/IR\/1JdcbhQa6zyopm3ZMkIoBACsa1r7kv0pSl8Pd4+QUMY236p9CuSKAdqivZzvp\/qjVH0efomhrfyhGhvZMBwdF\/M\/Qpbjv+L\/APyUzS3tsk0NrkEDJCY\/5o+hSWzpIPom6G3ySaW80Boktv8AMH1QovDHcoS2Fop9CFFGadRT7Ub9n2qEie7TrUYcCNtkoQIksWgFMBSg9UAPtL6JnwSgoEO5J10ownAlAx9\/olB2O6ZulBQA8dKQOfJNB9UX1SAfaL5Jt9yjqgB2\/VFpto6oGOvdQuOqSk9zqBTIwCbQNE4sABIktKCgQpKVNtFoAcTsi9020h9EAOvZF9k20WgYebt+qEvyQgKKF9E2T3b7ItBIIPqqJCN21J9lQMNO3UtpAPtAJCbaLQBJaNSZaUFAEgKUFRgpQUAPBTr2TLKUHqEDH2lBTLSpAOtLfRNRaAHA7JL5pCdq6pLQAkhB2CezZvqofeepkhioTbQmIdeyLSXulaHONNBJ7c00mwC90DfbqrLeH5LqLmaB\/i2UjcFrbMkzR8ASt4+Nkl6Mnmxr2Ur326JLVl8EDdmyuJ\/5VF4LjekhycvFyx20OOaD6YyvVCPCd+U\/RCx\/HP6NOSM4PB6hKHLPpKigotvNOvupGuVAEg2Cl1OvmUqCi+SltZ+t4\/EU4SyD8RRQUXtSUFURLJ+ZL9okBBJBRQUy9e6cCqH2mS+iUZUnYIoKNAFOBVfCmdK9zXDYC9lcDB6qJSopRsZ6pbpK8BrbATBySTsKodaOqbuhMQ5I40EJjrLgOyAHM2Fk808FN7Is9E0A5K0Fzg0AknpSvYXCMjJp76hiP43\/AOQ6rXx48Th\/8FuuQf7x\/P5Dot4Ym9sxyZlHS2yng8Bkkb42Y7wI+dH3j\/RXJJsXAboxohfIO6\/VMkzJZXC3WBvyVHLfZIvf16roi1D9pxuMsr+b\/wBIgyuJTOcQA0bKic6QPqUgg9QpMuVsMJr3nLHdI57zvsj9RNPTNoYIP0a5maeQCUOFXyKzGONjUVYbMBVrqjnfsqXjqtFzxD3chVfGZ3QtPzIz\/AzG1FLrKaheMdlsdr9AjV6BNQgLY7V6BGv0TUIHbH6x2\/VGsdv1TEqKC2O1DsjUPVMSooLNPhrR5z12CvV0VPhvuvPqFeXLPs2XRFMSI7BpQh7\/AM5+qnn\/AIZ+Kri+ycehS7Hhz",
+        "ts": "1619877403.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "h1+oS6nen0TRaexjpHBrGkuOwA6q0SGsj8DT9URseXWIib6UVrYvA5CRJkyeEBvpHvf6LVjkxcSOodr3Lne8fmto4m+zGWVLox8Xg+RMQZYxCw9Xnf6LXxsDFwjqazW8fjcLr4BL9pZLyeAb6nmoMnIa1ha0iz23W8YKPRzyySkLnZpJLb5crKzWyyHcnrZJUYk8V1kciPgpJCA0Na71KqxUS+Mw7i7A3pV5CB5ufzSNBFuBG\/OlUz56iIBroEmxpFDiE2p+3LkFTjcQSkmcS+j0TWOorG9nTFUibUT6JdymAgqZlLZMtbG0UKWh6oT2OjPQlQuYgRCEIAUJEqEDESpQNuSCEBQiAnVugBA6NXho8r\/AJK7Sh4Phz5GtsEMkh22Y0mlvxezPE5auAMB6ucP2u1yyTb0aWl2Yc\/ufNVwF1GR7KZTItU+RjxtB5lx\/os9mBBCd3GQj5LSGKUiJZYoq4XDpclwJ8jOrlv4sGNhMHhUXnYuduVRExragPRTRuJ070uuGNROWeRyLM73Gy00em\/NZGRI+vc3uytfwxvRN1yVfIxA7UXOIrmStDJGK7KJAJJDgo3PLyNJP1VvL4dIQ6SKnVzA6KhC7Q\/TJYJ2UstFiIuaKA5qV1kEuofAKMvawNDUwue7cuG52RYDpZgG7b9lmZche7cqxkSFoLdlWgxpM3Kjx4q1yO0hROVIuMbejNcbcSktSTRPgmfFIKexxaR6hRqDV6HBymil6FV0oNFWmCdF3xG+iFV8RyFXIvkIAil69H7HcCY0D7EHEdXSO\/qnu9kuBuNnAb8nu\/qs6QriePBpS6Ta9gHsjwIf8A3\/AL3f1T2+y\/BWuDhw+MkdySP3RSC4njwjcTs0qeLh2XPtFjyv\/wCVhK9ph4fhY\/8AAxIIz\/gjAVhGg5I8ah9neLTODWcPyPmwgfqtXG9g+KygOkEUQ6hzrIXqCEtCc\/o4PH\/\/AB3X8fL1X0aK\/qtvD9keH4rAGwQuePxyNMhPyJr9FvPmijBL5GNA6k0sjP8AaPHxyWY48Z\/K\/wAI\/qnV+ibbLRxBjR2\/KcyNvJrPKB8AFi8Q4t4T9MDHlv53vslU5uJz5UniTSWegA2b8FUy5dbSL8362tVH7MpS9IfNxWTIoOdqvqSSs+dzhvdNvko3sOoNaKcTVXSe+N0Y0SHmOdJk0SRaZGkkkHp2VvEaD5i7cGgqsMWs1R7WtOCBsbdIBL+YFWgQTThjyLulWYJ8pzmwxySOO2w6fFbuHwQH73O3PSMf5rSM0eOwsYxsbQNgBSwnnS0jaGBs4fI4XxeOVrrbEOznf0V5\/stPmYgmEsPijmN1bysp0rj2WnwWfUx8Z7XzXJ+pm3R6E\/EjDHyrZxs3COIQO0Px5HVyLRY\/RLHwbiMvu4sl3zc2v3Xeh5DqUj5NqWP6+XTRzPErOB\/upxCZ1yeHEPV1\/stngPsvHhZrMiSYySRgkACgFuuKnwx9y9\/UmlivJyZZU+jTjGEbSOG9rPZmWbJmz8OnX5nx9fiFxJFFe1SgEm+R2XlHH+Hnh\/FsiECmarZ8DuFt4fkObeOXoU42uSMxCdpVjHiZI4NevRRi0VULX\/smH+chaURaOrj43nZH\/ESX6Gv2VgZuWd\/tM\/8A3lYeIfJ7x3WpG9oFPJII+q1SRg5svjOyg3+O\/faw87lMdxHJH\/ESg9i87KlJMwNqw147qs\/KY1up72jbmeqfGxc2aZ4rkBtPyZAennTHcXnaf40jt7PmP9VjTcTx9yLd6Da\/qoBmlzSQPDHcbopIacjoxxSagZJXab\/Oop+MhjS5jb9XHZZTQHEU5x1b2T0TZovu3G9jtfNLXodskfxGbIkuV\/kG4byTgdXI2R0VGEU\/TRPzVxsmg+Wvjz3SBsmx4vKXOIseqRrQ2Wi4OAO1bJWkjYGwnMhcaNXfRAilIyUZL3kB4PbooZZnulBJPl5haU7HMuuZG6dw32en4g8Sz3FCN7rd3wUTmoq2aQi5EfB2T5eQIYWF18yOQHddtw\/hkWE3W4B8x5u7fBHC8LHwYfCx2Brep6n4q+eSwWXmrRo4qL0VjZeVWnY1wcHAUQrT9ibWbmz6b3+S8+2mdOJNvRgz1HK9vYlX+COuR+34Vl5MmqWR3dy3eCRBmJI8jnspX7j1Mz44dloEgpxOyjB3SuNC1xz7OCiOV1Aq7hH\/AGIn1WRkS\/eCP8ThfwWph+XAF9Srw6t\/4HljUEI\/cLnfaPgsPEJ45nOLH6NNgArozuq2VHraNrpYY5OGTkhY6vZwj\/ZOUn7nJaT2c2lA\/wBm+JwmxB4gHVhBXaBulytMfsu9eXOJrPFD0jgP7K4p\/wDEm\/7ShegavVCr+oS+jH8MTisWKZrfdHLup3P8Ld8jR\/y7qqZa2uu\/qs3Myi8lrDt1PdfUzx48StniRc5stZnFQ0BsQDiNtR5BZb5pJX6nOslM087SVS4J5HL\/AMOqMFEmBoXzKkimfe52UDXb0U4VY5VzUWVRoRZD2uouIF2KCvQTB8JY5xeL5jalkwuDSDd+i08HRrGsU1x+CtMzaLDIQHg6aab36qdsbWjtpCsHFFamk6a5KSHheTku+4hcdveOw+qbaQkmxjIBotux+HNWcXFmynFkTS7of\/a2sDgQjYDlP1kfhbyHzWxHEyJgbGwNaOgCzc\/otQ+zLxOCQwgPyPvZBvR5BaDgDyCldyUbguLPbezWOhYm6QnuNJI+SSU1Sa+OMO2VclxWLnA6tRJvqtss1SH0WLx5zceMusBcr3s7vGfySMQjXI1vQldRhMEWA3oXLmOFEZczXNOretl1czg1rYx+EKerZ1eVK+MUMtRPcNyTQG5TisP2o4gcPhjgw06Q6Af3XKo85KK9nOlWzBz\/AGklfnSnHaAGnSHHfYLbxva58GLjsy4Wu1CyWbELhMVhmyAwWS5y0uJuHj6AdmANC9iPjwUao5cmeUmkz0bC4niZ7NWPKHHq07EfJXI2h7XWF5fgyPika+NxaQdiF6VwiV8\/DYppa1PXm5fG\/HK10aX8OQ2fHrdVXjQFsSNDmLIzRTtAG655Qpm2GfLTIfEHdCX7KeyFGjpuJwWbP5jGw79SqJ2SOfZJJ3KaTRX1WXI5ytnhQjxVDtW\/NLsd1GT3QHdlkUPrdJbQe6V2za7pIYnSytiY0l7jQCOgSskiMrnVGwk+gtbnB+FZc7mvyJfCjBuq8y1eH4keBjiIAF\/4ndyrB0ndpo+i5J55f2npY\/EhXyN\/heLgwNDWt1nu82tcUBtyXHQ5D4iN9gtzEz9bacVEcz\/uMs3iuO4mshQQzB+17qYFbxmmcbTQp5KEPCke6gVS8Q6qrqsssrZcI2Xm8kybkEsRtvNV+JZLcTDknfyY21ct4yUvlRW4lxKDhmMZZXAuIsNvcry3j3HMri2UXSO0xjZrGnYLZzp5uIh08xcXVyHILk8j+M4djS1WJRWylPtI7P2HdGY6samkucF1Ln6nErzHAlfiDxY5HRvOwIKvf3g4kWFn2g13oWubJ48n0dKzxdX60dtn8RgwoS6aQN7DqfgF5\/x\/iz+J5DTWmNnutUE0z5Xl8ri5x6uNqlKbeqw+OoO32ZzzclxRocDjBynTO92NpO6JnF8m2+6miAxOGhu3iTGz6DoqzBbrK63pUcvbLWPRka3vsvV4cdkOFDHGQWsYACOvqvJInkSChuN9l0GLxzJxeGudHIWuYQA3mD8ljPFzTN+ekjscviEOFHqnkDRyA6k+g6rNwuJYWZnaZZfCJPlDyN\/1\/dcbxTiU8khdM68l43I5RjsFjGUskDgTYPNYLxI18uy1kS\/ae1XjfmaheVf3ky\/5jkKPwz+kVxh\/Ixyd0iQV1S2F6ByiFKy72TU5nMIEWA0mh2C6f2S4SJXSZz27M8rL79T\/AOd1zcVue1oFk7D1XqPBsNuFw2HHrcC3fE81j5EqjX2a4VT5GNn472EuA2WY+VzV2s2M2QGxssTO4Q1zS5g0nsuFHq4s0ZaZhsyHsINrVxMqw",
+        "ts": "1619877403.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "HN2HUdlkywOjeQRVJGyOiIc3YhLs6Wk0dlh5V0VrRvDxa4zAzhIPKaI5hb2Fm0Whx2K1hKjzfIwe0ash8t0qDngPN81akktltpZ0zqeTyCqZhiiaeM4Fvqub9rs7xAMOJw0t3efXsrEnGGM1RY7w552Lgdmrm+ISBmuZ7vXcrrww1bOfI+MqRk8UzvBxgxla3j6LBiaZJABzJU08viyOe82SUyFxZJrHNW3bDjxRZlGimDomtHREYMr+6bOJWkho8vokxqLY2Z4bsNypOH4wnkMku0TNyVtez3sqeKjVkPdGCLBHQK7xL2bkjkbjYU7HQjvYJ+KpKuweOXSOcyZvGkJApvRDBTVNxDhebw51ZERDTyeNwfmq8YLmct0tk8a0QyTOY+mmj1VyKVzIWTzk7G429z3VaLHbJkO1u+7j3e4fsEmXMZpNhpYNgOw7J9C7I5py5xN2TzUFkpeZ2V7FhjgYMjKZqv+Gw9T3Popqx2UELT\/ALRP8vH\/APrCE+KDZQsJRukAS8kAACc0G0oG\/onNQI3PZfC+1cTbI4Axw+c\/HovQopOi572awhh8Na5w883nd8Oi3YzRtednnykd0cfGCRea9RTAOHxSNftaje7e7tYciYx2ZHEsMOBeBuFgzMO45LrJfMCFlZeECS5oVKR6GOeqZymRmv4dkRvb1O47hb+Hx7CljDvGEbuzgVy3HHB3EHNHJg0qhFYdsPL1XZHEpRTZx5PJkptej0R\/tfiRRFgJlPQNC5vintBlZ7y0O8KM\/haefxWK6xuCml9fFbRxqJzPK31o6ThMzIo7cdqsqhxHJdnT+GzaNp39U3E+6xXPlJ1uFRxjm71PYKGBwhB8XY39VreiYY98mUcqPw5yK8tbKTGx5MuVscTLJ2W3hwR8QmbF4YkJ5NHT1K3cPhUEGQGOipuxGnYg\/FJKzVYrdlLE9mHx49uI1EblUp+ByY+dDHJQ17ht7\/Psu6fjO8bEayVxic7dp7BRtxWx8be\/IGprm2CRsfRVSNINJFOTxMHB8DBjMhDblezopeBFkrpHy7mrBIXQiOMRlrWgNI5ALNOK3EM07K1P\/ATsUJ2ZrIpJr2Jl+FLE6N7GuYeYcLC5rL4DjSSsZjw6C427SdqW06WSWQAxuHy2VnFx5GTSvcWl8fJhHL1tUaVFLZx3tB7NswBBj8Oe50jt5Gu3377LHHstxJ\/IMJPTUvRM2NhfHIBUrmnUe++3+alYIMDGOVkbmrA6p1GtkvHDin7PMpODTcNmrPZpfzZGObh3+CpZBmyZ60knkGgf5LvWYGTxvJk4lxAjEYXBkLX866Ks5kGJkSNw44H87mc\/d3w7BZTtL4owUYqXydHHf2Vm\/wDx5Pohdj40nbH\/APsQsf8Al\/ib\/wDX\/kcGniimKeJmv49lscbG1ZWjwXAOfxCOOvIPM\/4BUQDdeq7r2Z4YcLA8WRtSzbm+g6LPNPhE1ww5S30bETKADQAB0UwFJrPUKTmvMZ3SYpuk0iglSE+qyZCI3NVTNlZj40k0nusaSVccdlzHtfmacdmIw+Z\/md8On\/notccXKSRfLirOOyHmSZ8jubnEqEvIYWjmSpJabz59lXJsr1ejzm72WYH9ZDbG9CpDltJ+6xmtrruSqpfqDRVAKwGQlgLZtHdtJofKujY4WYcjiDZQdIa2iHkKDjDsOLJLcZ3iG963aPmscmiacSF0XsvwhmQ92bnNIxY+QP4z2SnkUY7LeZpUiz7KN4kZxJh4znMB8zgwV9V2cUWRJl6ciDwydwQNimY+W4xfctbjY0Q6bABOw+PYuZI7GikeXUQHEbH4KoOVbLjHItlifiODixSyy5LI2weS73vrQ6rH\/tmPiWl+PK5oH5m8\/VcT7QP05z2B+poe4gAqtiZz4BTXV81SZORuDqJ6Pj5OXEdX2jUB002m5PGYYJWyZMTzGfeczevl2XMYfFnvAa+Ug\/FbTGsmbq2O26sxeeads6RmZHLgDIxWCSN\/u12Ukr2F7HBwbKGh1E0COoK5QZM3BQPBcXYZdckXPT3LVm+0\/HvtLTJiuLWTAM7eUdFNG0OMlaOi4nnsj4mIwWuic0aXNNj4Kxkue90MjTbPCFfHe15vg8QngdTJDXOlvYfFDI0Mkkex3QsOw+SaZovIUaTXRf8AbbLdj8HwNBp0jnXS4iLNkDa1XS6X2gxs7i0UB8WN8cDaaGtrn1PquUnx58YlsjC2\/oVLtHPOam9Fz7Y\/uhZ2t3dCXIiiUNo7qSO7sFaGdw9gfcLrHbso+HcPdPnRxyODYybc70SbpWX+OV0bPsrwM5+QMiZn+zxkHf8AEey718I07BUcDJx4IWRRaWsaKAB5K47MieNiF5+Sf5HZ0LHKGkhhZpUZcAoZc+BvvTMHxcFBNmwRt1ySsa09SVjRuov2Wy8ppesx3GcHf\/a4h\/1LL4h7V42O0txAZ5O\/JoVLE30inxirbN3Pz4sLHdNKQK5DuV55xLiTsvLfL7znHn0HopW\/2h7Q5JLpNVHqaa34Bb+J7BPliDnZYEnbTsuiDx4nxb2cObMpaRxzoJDGZCCe6hpd\/meyGfBhARFkxF6gw7\/RcVmYkuNOWSxuYb3DhS6rTMEyqOaeBuhwDXiuS1uDcFm4pmiNltiG739glKSirY26VjvZ\/gc3F8nlox2G5Hn9l2k0LXzx4uM0NhiFADl8U6PwsSFnD8GMBjTV\/mPdZ\/tBxJnC8Y4mM7VlyfxHflH9VlCDyPnL\/RvixtPnLv0VeNcR+1P+x4jiMeM0SPxlS8Jg+zw5OS47RQPf+izcDTK0PA59Oy1uIF0Hs7kaG+aeo\/kNyuk6pPjBs4NxLiSdye6ApDCdVAWV0HB\/ZHPz2NllZ4GOd\/Efz+Q5qHJLs89sx8QSF3ls0u24NhZs8DajIafxO2C2+FezvDMDSYIfFeBu95sE96W0AIwS4gfsE1Jicb7OedwHJla5j5Y9J7Wub477G5eNjOngcJWR24tB3HfZdrl8dwcUEGXxHflZusx3tM+eTRFigMO3mO5VbZrDFL0jzCI6JBqHXktOGZhPYpnF\/AHE8jwQNAeQAFVadO4TWjKS2dLgZToXDnR6LUmwMfiEN6W2fTZcjj5bmEdQF0nAMmfLnbjwNJvmTyAVNoyaZX\/utD+VC7X+yv8A9k\/+fNCnkh\/I4dzYBjOkOkyE0WnsqDgxkRdG82di1VZpiTsTabDmMafvQLG2w5rNHpN0NypHxRaQ4gk2SNlRfNMBXiP\/AO4q5mObK4GMEDraY3Ec+Fzj0F7oZlK\/RAzUWg3a2OH8UkgAZKS5g5EHcLOhbTQD2UmnqFBKN6UYXEIyHMY++oFOCwsvg80DXPiIlYO3vD5IaXMcHNJBHUFX4OKUA2dt\/wCJqpUHFMs+xckbXSse0gg3a7\/GJl0loIaPVcPh5MJkLontDiNjXL4q8M\/Oj5zv09C07KlCPdbNI401rs7dweBbXX6FZ\/EcHB4i3w+IYzSeQdW4+aw4OPZ0Q3cyVv8AiFFaWP7Q48oLcyMxd3HcJOCZnLC\/as5DjPsRkwB8uE9s8TdxuAQO3xU3s3M+HhcmM5pina+3Xzc1dlLHjZ2O442Q1zXD8LrXF5cU+HmOZrJLT9Qs5Qk++gxYlfZrxufBA+ZjblIpnx7rn8jhEpD5ZHOdITfxXTYefw+SFvjvdE8Ci0tv6J2XxPhcDLJLz0sUujVHTddo5TAYceXSR5XbEdl2ORwKfLOOzxWMxBHbj+K\/guRyeKx+I448IFm9RC3cL20YzCbFlY7nSNFamHYqG\/oyzfNUjQwvZnh3D8rxtJyZPwNcNmrQzs7FwYtefO1vaMdfkuOz\/a7OmBbiMbjtP4ubvquffJPkTGbIldI93MuNlTpbM1FI6nO9t59RbgQMjYOTniyfkoIuJT8RZrfO9xPNpPL5LnCB0T8Wd+PNrZ8CO6akXF0zpmQNcR+qscZyYeG+z8mRExrchzhHGTvue3ytV8DKjyG2007q08wm+1vDZ8vhGJNA0lsTn",
+        "ts": "1619877403.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "CQDuapaJlZJvjo4dstut3NSg2LtX2+y3F3432gYjvD6EkC1PhezmS8XkPbCL93m4\/JYvIl7ORK+ing4k2dkNhx2lznH5D1XpHBsPF4PhhrXgvI+8f39PgszhuHj8Ohc2Fukn3nndx\/87InyNflGzQi29s0WOts3f7Yx\/wAp+iFzmodj+qFXMuonE3ID52mwmua534Sug4nhl\/3rWAO66SqMD9LqdsQosOVlOCN7n7sJHZW5zI2AsLSxpHbZXmZDQK2A7qPOzGvxyxp+P+Q\/zTuw516M2MclJSY3mnkE8tlIICOeybzQWPrmonambdEDHkVuFPBmzwEaZCR+V24VVsg5OU2kUCi2il\/g1I+JwSAeI10bu7dwo+I5rHY\/hwya9fvHsFn1sl010Vc2NydUJBLLGbje5h7tNKyc3JcbdM9x7uNqFrUulFkK0OdkTu5zPr4qI2bJ3Pqn6edI0+iVj2RpQ3dSNiJO3VStgRYqKxFlOrurBhI3TDE42lY+JAd9uic1qkEddEoLbrmUWKhYnPjeHsOlw6rreA8YjlPgZWmnbEO5OXKMLXGqI+KsNZtt+ifKh1ao9B4rmw4+CZXuBYdmiua5j7TGZHPiaQXdCOSyHZE0hjZJI5zGXpBPJWojsqtehL46RcMhdu4pA0uPomMslW4m7qWIj8H0CFa0jsUJDMnGqTFbHJescweaz8\/BJ87W0Vf8GXxQQ+iNr08wmzRzsaSXteD001SZinRzM2Q5vl\/EFEHnYGiSe6uZWO0zPJb5TvTTdFZ+kNeACT5uyofZc5J7HXsU2r2SOab2UmhK4lRmibIUfiSF1B1Jwa\/TZlaOu4RQWKYrGx3SNc6M2f8ARRiR4d77ErpnD3gCPQ2igstsljPMUVMGtIsFUI5I3fFWI6FUUik7JxGneFaVhsKdo29VNlUQmPZAiVnSE9rBdJWFEMcG\/JWmwADklrSL9FXmlm5NNBLsfRaMMYG5ACrTyQssNGo9lUcXjzTTUE2PJxmO8pLz6C1SiS5DnRSzchpHZPjxDfJOPEGMJ1Me0erSFPDnwPrzBMQ6PDBbuN0ro\/DarzJIzHbSFVndraUUF\/RTa0mQFXomqvE3zK9E3a0WFE0beqsxit1FGFO018kmx0Pr1KE3V8UIsdFWWPckhRTDUwgi9laG4DHnzVzUb47sb8lZzWczkt0yub1Cz5pI5W2W04ciOy2eLQkFxb71Fc8Abu6DU0Oy83n3Ti3ums30+qnLfLak0RSmh3LgVawMKGZpEh8wKY9tbnkpIJhG4HkQht+gpGfkYZjne0uDaPxUkOAZpWsjeS55poAWrKMXLcDICHVVgq\/w9mHhgyMjc59c3OAKrnohwZgZXDpcWQNcLPOwq7XuYaPRb+W5kmQXmaMaxRoE0svJx49RdHK+SzvqFJLa2VVdCQzq9FLYWbFC4EHdXoWFQ0aouMdZUreSbFGTR\/yVjwxpKgoq5GTobXVZ02VI+w2j3J6K3PCJHnVd3spWYkMURDg0noWkH9Oi0VJEvbow52SNa18jXPLjQJ5KTFzpIGuItr\/wBrRXra38nG+04TWRga2EFpVLF4dkvl0vxbP\/AC7fVXGSZjJNE\/D2Z2bhuyCwStBojqEx7Mcuc2WPQ9u2+y6nFjh4dw\/wabrO5rusKVnjZLpTXmJUNqyop0MxoyY\/KSQE9zK57q3Az7q6UcjfNXJS2aJUitG3zG+6uxjyq+z2dndC2aGVjtbdWk7FVJcafFNTxOYfXkm0yVJPoezYJ2sd1AJAOqTxFJZY1+iFW1DuhA6LYZqpw7ckrLqnjc9VO2O6I6J4i1AW3l6LajisyszG1NNi1xnFMb7NkvFVe4Xoj4qAElb7ArkvaXG++DgCBp\/YqkgsowebHY70VyJocPRVMFv+z6D+EkKzG8Ru3GwUSRvBkr8cOH7KlLiyNd5VrMka5iXSw8\/2WabRrxsxPCmFU1SRwyn\/AA2tf7MzpsE9sDL2aLVchKBnR4rnDfftakdi0OXNaWho3QC09lHKy1EzTBRGylghOrYbK54AJsXSs4+ONW4SbKobFjnw9VFO8MAUtKOMAFlc1C6Ia0MlGY\/E1v8Ad2KzszDyMc6o7LTyXVQwsvzb3fySyYge3duptUVaIZyWNxOeBw1AH0e2wtWDjhq\/s8RPLZzhX6q2\/g7HH3QQehTWcDgu9Dh6AqyWrKkmdJNdkNDvwtU2NivkcJHjSB0Wpj8Mhi3ZGL9QrfgBrOVKWNGdI0COgKVMst3JX5m+YgckxkVkWoW2U9I6XDc0YcILh7g6+ime1krSx7WuaeYO6pRRHw4\/BaQQBbiaH0VtrX1biNXYcl00cN7MnO9n2SW7Ed4bvynksDK4fnYlmWB2kfiaLH6Lt6cDYq+ovZBDnc6HwKlwTNFlkjzzxvj9ELvvsrPyj6D+iEuCK\/M\/ow4pmglpHI9BdqQ5WP8AnCuPwBkZEU7RpA3NiiVZGDHZJaDfotXRzKzCyMgGLUYZHMrY1ssTiTH5cbQ6F9lrg01zXeNxYmt06BXZSNjYz3WAV2CVoqmeV4PCM9r3Ndiy6XCwdBA+quu4FxA7jGcV3eYSXkN3qmgepT3sETA5wGoj3RsE+KoFkaZwTODcSH\/DvodqVhvC81u7oC35hdnhtlbqeA1wJ3Fpc1rZGNcDTgapS8SujReRJK6OQbw3MJoQPN9gh+DlR+9jyD\/pK7PFALnOHIU0fJWFm8aTNI+RJro81yXvidTmuB9QjFm1Hr9F6NLBDM0tliY8H8wtZuR7PYcm8TTEfTkk8Zaz\/ZzrSCFdxWjolyODZWMdmeIwdW7\/AKJcVpBAOxHdYuLTN1JNaLuho3CruYNeytOsMvp8VVe7Sb5pslCaCFNHLpqjsRyUTg4stZkuXoeWO2KpOhVZvtLXCxzKl0t2WHDmEgAGldZk0AdSpSJcGaNtYN\/3VPJyAGkBRPyHOHNQSEuBNJSn9FRjXYzXqcrGPG58zQ0bXZVMMdroAmyunwcf7PAAR5jzRjXsjNL0Ecr\/ABQ1\/lB+isBwJob+qNDR0CUi+tLdtM5EqELqO9UiyeX6paCEgDdCEIGCEIQAIQo5ZmsB33RViboqTSkPDgLp5Nd0rHO8Zrntc48zsnRRlxDnNoDlq6eqlLHMe372m+vMrVtdGST7IJJPCke\/TIC7kK2+Ka0mV5le3doobcyreS4tiJ0Bw6hRQNBYwXzdqQnqwa3RYiYI4w0dE9IlWRsCEIQAiikxopDqcwau45qZCBptdGflYj3NuPcDosoRSuyC1zSAO4XSprmNd7wBUOCbs0jlaVMxnR1HQXN8cicZGljd65hdy+Bhbs0X0UEnD8acfeQAHujiyvyo4XhsebkO0x4731zcBst\/H4ZOSPHkbHf4QbK6GPFijYGMBDR0BpI7DhJsAt+BVKEfZMs0vRBFw7FicGkFzjuNStiCIco2D\/pCNIkaASduRTzy516p0l0ZuUn2xAxg5NaPklVZxMUtg6ge6sMcHNsJtUSnY5CEJDBCEIAEIQgDJnlzwNdFretDklDsh0QkZPrrmAtRYvEceXHnMmOXNB325LWMr0YyjXsvxGX7N4jnnUeQUgbKd3tYfjzWLi8Ve12jKq2mweQK12ZsUoaGGy41SJJocaaB0kV+drhR58wld4M5H3x25DkrNCqrZI9gc0ghTyK4sjbEQwt1lwIrdEcWiS+gbQSiIAeS2n0TY5ZC5zXMvTzIS2w0uydCY2RruR37JykuxUIQgAQhCABCEIAEiVCAInBwJIcQOyRz9qv5hPcdnbKIxkiwqX+SHfocHEjyvb9E4ueG+7ZTGg8iOalAooYLYh0vbR\/VJGQPLaek0N7BKyqFQk09iUpvokMAD3SDVe9UlQTXNAhUJLHdCBiqOdofC9pF2EHxCfKGgeqeLrcp9C7MOXAZO9rKAvmSn5mEMVgMJPlGwbzWwWNJsiylVOdkRhRg8O4zkMeIc+B7L5SV+63WuD2hzSCD1CrZeLHkHS\/bUCNu6wI583hEp",
+        "ts": "1619877403.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347033394682\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 287 935\\\"}\"]",
+        "ts": "1619880713.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619880713.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348081570798\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 520 834\\\"}\"]",
+        "ts": "1619881616.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619881617.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348132152993\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 385 648\\\"}\"]",
+        "ts": "1619883025.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619883025.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS SETTLEMENT INFO]:\",\"{\\\"sessionId\\\":\\\"000016210501170044000033083685\\\",\\\"accountNumber\\\":\\\"9977673608\\\",\\\"tranRemarks\\\":\\\"FROM FBN\/ OLUGBEMIRO AYOKUNNUMI FUNKE-FBNMOBILE:LIBERTA AYOKUNNUMI OLUGBEMIRO \/SELF\/000016210501170044000033083685\\\",\\\"transactionAmount\\\":\\\"10000\\\",\\\"settledAmount\\\":\\\"9950\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"null\\\",\\\"settlementId\\\":\\\"210210504007569400001\\\",\\\"sourceAccountNumber\\\":\\\"3056218753\\\",\\\"sourceAccountName\\\":\\\"OLUGBEMIRO AYOKUNNUMI FUNKE\\\",\\\"sourceBankName\\\":\\\"FIRST BANK OF NIGERIA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-05-01 16:59:37\\\"}\"]",
+        "ts": "1619884852.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"ikeja-electric\\\",\\\"amount\\\":10000,\\\"meter_number\\\":\\\"04274255548\\\",\\\"variation_code\\\":\\\"prepaid\\\",\\\"request_id\\\":\\\"08033984930-1619884925285\\\",\\\"billersCode\\\":\\\"04274255548\\\",\\\"phone\\\":\\\"08033984930\\\"}\"]",
+        "ts": "1619884925.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033984930\\\",\\\"message\\\":\\\"Token : 51210543523841563654\\\"}\"]",
+        "ts": "1619884928.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"Ikeja Electric Payment - IKEDC\\\",\\\"unique_element\\\":\\\"04274255548\\\",\\\"unit_price\\\":10000,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":150,\\\"total_amount\\\":9850,\\\"discount\\\":null,\\\"type\\\":\\\"Electricity Bill\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":10000,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16198849257296142613490065\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08033984930-1619884925285\\\",\\\"amount\\\":\\\"10000.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-05-01 17:02:05.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"Token : 51210543523841563654\\\",\\\"customerName\\\":\\\"     MR ONABIYI OLUKAYODE CHARLES\\\",\\\"customerAddress\\\":\\\"Cell:07061530021\\\",\\\"token\\\":\\\"Token : 51210543523841563654\\\",\\\"tokenAmount\\\":9302.33,\\\"exchangeReference\\\":\\\"29736960\\\",\\\"resetToken\\\":null,\\\"configureToken\\\":null,\\\"units\\\":\\\"164.1 kWh\\\",\\\"fixChargeAmount\\\":null,\\\"tariff\\\":\\\"A-Bilateral\\\",\\\"taxAmount\\\":null}\"]",
+        "ts": "1619884928.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033984930\\\",\\\"message\\\":\\\"Token : 51210543523841563654\\\"}\"]",
+        "ts": "1619884928.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348102471450\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 147 517\\\"}\"]",
+        "ts": "1619886490.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619886491.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348039181181\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 375 425\\\"}\"]",
+        "ts": "1619889442.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619889442.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348034131417\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 386 134\\\"}\"]",
+        "ts": "1619896916.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619896916.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348034131417\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 379 526\\\"}\"]",
+        "ts": "1619897027.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619897028.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349094115305\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 143 924\\\"}\"]",
+        "ts": "1619897505.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619897505.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348055118057\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 858 484\\\"}\"]",
+        "ts": "1619898433.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619898433.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033894126\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 739 425\\\"}\"]",
+        "ts": "1619903795.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619903795.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033894126\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 775 942\\\"}\"]",
+        "ts": "1619903834.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619903835.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033894126\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 751 366\\\"}\"]",
+        "ts": "1619903893.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619903894.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033894126\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 881 059\\\"}\"]",
+        "ts": "1619903961.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619903961.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347025741566\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 356 656\\\"}\"]",
+        "ts": "1619904574.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619904575.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348134667672\\\",\\\"message\\\":\\\"To login to the mobile app, use this pin 7878\\\"}\"]",
+        "ts": "1619905143.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348061553410\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 987 117\\\"}\"]",
+        "ts": "1619907046.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619907046.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348188609427\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 421 594\\\"}\"]",
+        "ts": "1619907731.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619907731.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"NUSIRAT AMOPE ODETUNDE-AJAO\\\",\\\"beneficiaryAccountNumber\\\":\\\"1238053408\\\",\\\"beneficiaryBank\\\":\\\"000014\\\",\\\"transactionAmount\\\":\\\"100\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"08179224819-1619911005720\\\"}\"]",
+        "ts": "1619911005.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"08179224819-1619911005720\\\",\\\"sessionId\\\":\\\"000023210502001644005007026433\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1619911008.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347034670919\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 971 725\\\"}\"]",
+        "ts": "1619916378.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619916378.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347034670919\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 709 183\\\"}\"]",
+        "ts": "1619916546.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619916546.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347034670919\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 990 396\\\"}\"]",
+        "ts": "1619916643.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619916643.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347034670919\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 388 999\\\"}\"]",
+        "ts": "1619916666.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619916666.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347034670919\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 972 238\\\"}\"]",
+        "ts": "1619916737.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619916737.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347034670919\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 528 033\\\"}\"]",
+        "ts": "1619916794.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619916794.001200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347034670919\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 158 666\\\"}\"]",
+        "ts": "1619916828.001300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619916828.001400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347034670919\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 408 728\\\"}\"]",
+        "ts": "1619916879.001500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619916880.001600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347034670919\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 597 467\\\"}\"]",
+        "ts": "1619917390.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619917390.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349077705581\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 422 426\\\"}\"]",
+        "ts": "1619924855.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619924855.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348025306668\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 281 286\\\"}\"]",
+        "ts": "1619931039.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619931039.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349905777645\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 855 485\\\"}\"]",
+        "ts": "1619931119.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619931120.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033894126\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 120 768\\\"}\"]",
+        "ts": "1619931735.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619931735.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033894126\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 943 365\\\"}\"]",
+        "ts": "1619931759.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619931760.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347230969328\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 704 095\\\"}\"]",
+        "ts": "1619932077.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619932077.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LOAN ERROR]:\",\"{\\\"product\\\":11,\\\"loan_amount\\\":5000,\\\"tenor\\\":1,\\\"loan_purpose\\\":\\\"3\\\",\\\"tenor_type\\\":\\\"monthly\\\",\\\"selfie\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P\/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P\/wAARCAH0AXcDASIAAhEBAxEB\/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAECAwQFBv\/EAC8QAAICAgEDAwQBBAMBAQEAAAABAhEDITEEEkEiUWETMnGBBSNCkaEUUrEzQ3L\/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID\/8QAHBEBAQEBAQEBAQEAAAAAAAAAAAERAiESQTFh\/9oADAMBAAIRAxEAPwD5AK0HAzbI5YAhhBQAkADsLJKimA+RpOrBXQ+\/tVFQr9xqnyK0\/KKW3SArl8DS9xpeSqLGbR2jpFKPuEkoo0msprRydSv6bvwdUnzfBy55xdxM1qONivY2Szm6NYZKW2X9SPuc4DTFSlcmyQAARtil4MS8f3Aro5AErH5NMhIaSoaRSXhKwEo2Pts0jjbW9FeiPLKmojApQ+RPL7GTk3ywrVzjEl5fZUZugGhybb2yWMT4IOXI\/WyC56myTLReRiGFJgAIABAAD2A48gEdaY7EijTJgAVQD5FQXstVsqJSZS4qil\/vwKUu3QEOVRFHXqewvtbvk0x4e71SX6C\/wYcV+qSNowplJUiqNSMWk1wHkqPyPtKzoWtEZHbo0M3qTBGOXUTzs\/3nfnkefmdyZz6dOWbEMEm9JbMtlsBuLXKoApAFGkcM5RtRbQRA02i\/ozv7H\/g3w9FkySXiy5UtjPHNvTNlF+dfk7sfQ48Nf3S9zVYIs3Oaxeo4oYlVvdlbjqMTs+guLF9Fr5L8p9OFub+BdkuaO3sa5giZRVU4tD5Ppx9r9mTy9ndGGtEzw2uLRMX6cdUJs1nha+x\/owk2nTVEsaO6E3XIm2\/BDUmRUZfvteTPg0ktaMzKwgbsdCCgOAAAAKDwA4ugAAO3yOrF4HwaYMHwJlL2fAC4ZpGhJKr8sco9tbKhydXIxUrbk9m8o97r4MHjkpdoqxeJW+5nVGSZjGPbGi4FjNaqn5KStGda5GpUaYXRSdcmfeO20EXJLwYZW0aXS2cXV5nH0p7ZLWpGHUZX3Uno5m7dsb2I511kwjXpoufUQV1szNOn1nx\/\/wBIRa9iXS43qUU0c+T+Oxt+huPwd\/KKUUlbR1yOP1XBD+PxQXdLfsjeOJS8JJGjuT0XGKSSGFtYLHFvZrBRWofsnKu3IRhkpd0k\/JUdaikr0PtT4aOfud6ZUVKRUa9vygcH5\/8ASVB+40kuWA+xt8EShWmgl1ePA7ckZZ+uhkkpTkkvYlpJQ4K9aHF0+2X+Tmn\/ACGGLfamzmyfyE3qMUl8mfqNzmvTy4e2r8q0cWaEfMkvlnHPq881TyNfgwcm3szempzW\/fDuqT0vYeXqo9vbii18s5QM63gcm3fkV+QAihtV8iWx0CQAAUNoBBQ6ABUAAQdg7K7V5DsXubYLd6KSbdEz9KTXguFummUrSKUnVcDmqVBDl6FPmjTBw4sErldDxrue9I2SS0gWo+m+35JWjdfBE4PlBNJIuMvdWjNaH5Kjak1aJqvwSm4l91oDOUkk2zyc0\/qZJS92d3W5VHG4Re2eazHTpzP0mAAYbBv0qvqca+TFvWi8Uu2alfBSvdWSKdtqkDzqT40+DyV1N13K0X\/y6dxVG\/pz+XpyzY4qm0mvBC6qLl2vTs8ieZzbbdszU2pXfA+ycPX6vPFLXKR5KySTtNp\/BU8znyZMzbrU5xf1Z39z\/wAmsOszw4yS\/ezmGmTWsjvj\/KZ0qai\/loxydZmy\/dKl7I5rGPqpOYblfLtisAI0LCwoAEA6CtgIXkpxoFogTQqK8i\/ICoYDooQqK8BRAgoaBlE0A\/AEHXGdLZffH3MVsrtNsNeVqgS7XXgyUX4H6u7bYHTHiy9PbMYP\/BovSro0zY2xwVboKXdpnLk6jtjpbMo9U03e0Nhj0YKnRTbXg4odXFvyjqjkuOzWs2B0+ENOnVIUWgb2EN74MOpy\/Sg3e\/BpPLGC2zzOqy\/Vya4Rm1rmaylJyk29tkj2KzDqljQB+CBh+ReQAPAWwAA3YyfA\/YAF5AaQAHkEACb9hp7FSGFUFE2+SkwGFCsdogKEh\/saRQhMqgZBNBWx0OgEIpioADQBQCGDCgFQAwA9L6ca4E8ca5Mvrvh6K70023RthKjXkpryQnbs0juDtgS0\/wC0mWV12vRb45Mp5ItVIaIyv0pk48sUmpwTT8+UTOVqlwQTWsU5K9cHRh6lxqM9r\/w5RjTHfLq8aWrbMpdbN\/aqOWxD6qfMaTySm7kyLCheCKLC17B4EAA9B+AAOABoADYfIAArGIfICXI6AACtBQUNAHj5ENi8gNWxeR+KCvcKPcXAwoAi6LtGLLg\/cCwAqiCQLSXkGkl7gTQq2VWxUAVsVDqwQCaDwN+xICAdABs5Jq+CZZlVcmF2BdTGrzVwJ5p1zRmMaYfc3ttiAAoAAAAGIBguQAAYuQ5AA\/8ABDBBBeg55D3EAB4BsVAOxUNKtjAnyNIPJVMCUFD3QAC5fkEg4egsAaEilwJ\/AB\/6GwGlpsBaC6Q2JhS8CWinWqJYGkXaKszi6LTsgruEnvYhgVoK9kKwsoGAmwAJCGCWyBVoBtMArIKZVD0uWETQ6HcfkO+vCAl8gDewAXkaAa5AABBewE9ghpUKih+QYmMBeQDQgH+ReRrbB6YQUDGFAKh+ApjqtsCRp1spUTQBsQ61aG0BNUFaHQACF5C6H7AKtcjuv2JgA\/OhIa0HkKT4BsNEsARrFURBLyakCCtlUEU7oDXp8P1G9PSvQZsEscV\/TmmrttaZu808HSxjF1KW\/wAIjN1OZ4orvlUlT+TXmJtcnAD5YMypFUJFNAJpgMAOfYAADEhiAbAPIwENCGqAA5CwKDzyF29gABWhDsT5AKBIK+RoAQ\/b3ChqNBC8jpvZajb3yUo\/AGSjQ3GzXs\/2PsdcAY0la5F2mrjvSBRvwBk1QVSNXCiXHY0RyLfkvt9hNUBNEsq9iYUmgG\/\/AAKCCxc6G17AlsKTE0+bGx17gT5LhLdMmhNVsDcadNNcoiM7RdEGnU28ndepJNGbbaSfC4Na7+nfvB\/6ZkWiRhVgiBUWySqClegAAOcAAqAEALkgYwAAAAKEOwF5AB68gFWAXsAHQQJUOr4Qqo0UdICVEpR9i0tUXFAJR0UoFKJp2E1WVUHabdlj7PgmjDsG4G6h8B2DVxzuBLidXZ8EuHwDHM4OuCHFnU4mc4hHNKJNfBu46\/Bm14NIzaEW415JXkAS9+Q8cDBoCXxsPI\/AteAATWuRh4ClF0bJ2tGHk1xu9AbRklCa96IaGw8ECAAAFwMPAeAoAAA5QAAgHHkQ4oorkNABABxyCDyUAD0ACaHwHKHSCENbBDSp6AaTo1UHQoxWrNklQExXBrGAKNmkYsyoUTSMbfA4QdnRjxVyRpisfwXHDbOmGPyaLEQcn0hOB2PFRLw\/AVxvGZyhR3PE1ytETxIGOKUTKUTtnjrVGE8ZUxxzRDjo6JwMXGixnGLjbM2qOiqM5R+TQySHafI2qskIGvAmMAAXDGAEqm9s2hCjJx9jTHkapPdBV0PwKMu5aHRFKgGACoa4BAgBoA5AYOQAAqAqJJUVogqheRsRQIB1uhBDQ62IYA1wA6H+gFWjSKa0SjWCbAqETVIlI2grVkqnGNI2hCxLG2+TfHja4M",
+        "ts": "1619932345.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "61ioQOiGO1bJhCjpgrW1silDHW2arHe7RpDHaVm8MOuLKjmWNVtWKWNJ8HYsa8r\/AniryMTXA8bsyyQR3Tx\/gwlHRK04JwMJwZ2ziYyiB584vZjJHbkho52t1RYjmlEykqTOqUTCS0ajLBk0rpGrTM2vUVCqxVsfCAAXsAUPlBSbWwxK5\/oJLQQtNsDWEKRTQoNNF1oip8CRQqAPILkBpaAQDqgA5W\/ZCoc1UtE7Kh1odCvVDXBA\/Ar0MRQ2JWVyCQBVoKG\/gV6CHehqxclV7AVBaNYGceDaCtkqtccLZ2Y4JcmOFUdCk1wZVrGF+DaGMwjKXszfHknp9tkxddEIVyrNVBE45S0qR044qy4aMUeLOmL9v9Fxwq+DT6K+b\/AAXE1nKDe9Mz7fCR0fRcdtaK+mnr2Lia4MkGvw0c04s9PLBpa2cc4f7M1qV504tMy7dts7Zw9zCUUZsXXJOHkwyYzslRjNJosHDOOuDnnGjumtM5cqSZqM1ytGUtM2mZS9zTKQf4BbHx5An3BfI2AC8jSsai3wbQwuvVpeWFKEKS+S62NtOWlS8D8EVLRLRZLQCQIaQcAHAAwIObI\/RH5MzfJjuEa8GLTXJpki\/BBZFPVBoKoEkUPiPIJC8Fe2ioXPIPgdLYeCCeGUmJjiBtDg2x8mUF6Towq3RKsdWGDlXsdsMEXozwRUYo6IySZjWpG2LDGqouWKmmgxTs6FC63+iwrm7a8UbY5tUVPA6tGW4sepkep02dNJy8HfhUZfJ4WLL2s7+m6hql4ss6S8vRyYtkdlepceTVTjNJJ38meaagmnVG2XPmo87NLt2zbqs9ttaPNy5O7yc7fW5CzTcr3o5pqT4bLbKjFy1wTVxyShPfkxeObb1R6LilZlJIumOCcHVrn2OTJadSPSmrs5M+PyJSxwTMZ\/g3ycmMtm2WaGOgCFyNaVgNRlLSj\/gAjKnvg2dmUIvupm6jQUBQ6GRUirwVQgJBcjYU7KEAwIMk\/cicbXBok6FTo2w5qosuUUyaM1oewcjAgVUVygoaQC8EtF0J7KJXsUlbsVexcYt\/AGuOu06+mVbOWEWrR1YdR0SkdamkVHI2zm7vc0xzuqMyNa78TbaPSw48nbbPL6VSnkUY237Ht1PpsKjOUlJ+O6zfM1jqs1mr0zVBmxKUe6P+jkz5bnovps7+1u17MWERfbI6MeR82Y9TGp6FjlXkxfG569zo8kpL9EdXkadt2Yfx8\/Xt0g\/kpduQu+M564c07vZySdsrLO2T08fqZEjEmujfpullld1o63hjFdvJbnDFipJX78EwnKW4y2dpy5XpxdRjePfk4ckmj1eq6bLKLcXJ140jx83fGTTJ1yvN1lLJszlK0TknvZFmca1y9Qqkc74OrPs5WajNL9gl8DirNVAIz7LGotPTqjq+h3dO5rw6ZnHG0FjSEVkVS+9LT9yVGisUX3L8lZEu917gRQqKAKhoRdaJaAlh5\/Qwrf6AAACCkl7GWRUzZaezPNyjbmxlwZG01RlyZrUIaF5GRTRRJXKCgACgFVnRgx90W14ZlFHT0n\/0cW67vIRMuVRvBNRsy\/vOiK0iVYhyO\/oOhz9VTiu2P\/ZnL2WdnRdXl6WXp9UfMWWYl\/w\/5Pp30XURxRyNvtTbInNf8WM1nlLK5NSi\/C97O3+Tz9P1+OOSHdDPFVTWmvycGDppzbbfbSvfn4OksY9\/XrfxX8d\/z+klPvlHJF+dpin0uXo5r60Gop0pLaOjoc\/U4Ok+lih2W7lOXn8I6skPqxT6jM8vaqXdpV8IhLY4eokpq1xWvk5oyorqsv1MjrSWlRijn068vR6LIo5E5W\/heR\/yGXunxWtbOTFKgzSlPcmY3zGs9c05GnSZVjbb8mM16isXpkm1qzXLPTt9fU5ezDB5Heq4Nuv6TJ0PQvJmzy+rJ1GENIvpVLDHu6fJKNu1F7RP8l1r6rpvo5o9mSL1JbiztHKvFzLN\/wASOd9QqlJx7VLa15NP4rpMf8hOeLJllDIlcX4Zw5cc4zlDmn44PU\/i4Y+ixy6jPkjGUlUYp2y2w9ed\/I9Hl6TI4yqUV\/cjjUtJM7uu6l9RJqNqPz5ORw1Zztakv6wzcHPV2dWZaOWT7XL5RFThVzSOzs4OfpI3kt+EdlFGvSNKThJXGS4LlhwP\/wDVwfs1Zik07XJu8az4+7Gv6i+5e5qJWM\/pwtY25P8A7PRlWzb6E1Tku38sUsdL7ov8MlVlsKKoKIrN6RLLaFJBE1yJraHQNU0AqAfgCKZnl8Gl2Z5ndNG3NlN6MvJpP7TNIzWoAAZFNDQhoKAAdAVA0TqSaM4F8NAbx+42ht7Mo+5vjVmaRvjijX6V8E44nTCNk1rExw+519PUGuxNyXFBiwd1HpdPix4d1bXOjXLNPp8eR+vL\/gx67N2w7Fpvx8GnUdQqqDTf+jgzO05N23yzXXSSOWcrloaMXK5s0gcq6RvDgWTgLpA+KMNOaS2yO9p8ms9M5pvZ0lZr0+i6jt9OTh8HV1GPuVp6a8Hl4H3QOzD1LS7Mm0bnTF5\/XJm6eVUmnRzTxT8xPXzqErkqXscWREtWRw\/Rrb5M5o658GE1ommOPMtHFmVNHdlWzjzras3GafSP+pXujto4el\/+6PQrYDj6XbVo2jluVwlKDXjwZ1aslJoso2zRjk9VVPzXDMGmaqV6YUnplvqRg0xM0lDZDT5IqGiWX5JlywJ\/RLXqRpHkma2vyAgKSpgRUvgyzGxhlds05spfaQip8EGa1DBABFUMXABVCAaILhwOQo8BLko6cTuKOrGji6e+DtholI68fJ04qs5IOkdGNtNIxjb0cUoQ9Ta0OWaU21G0jmiraS9jpjBqFJfl0bjBY8byJum0n7E9XBwxUzuxYu3Gobt7Mv5XthhjBfc3wXE314VWzoxxNcfS9yRrHGoOjnXSMlC1RLg0md2LBLLJRjy9F9R0c8Dqca8mZGtjypx0cmRUz0csKbo53h7jU8ZqekutbOmWNNWjHpaxdSlL7W6PQzQ7dJeNG81lxW46InK9GuRapqq8nPNkqs5GGT4NZMwkyQrmynF1D9a\/B25OThyu8jOkYrTol\/Wv2R3rk5Ohjub+DtirA0hJxjopZl\/fjhL9UQvtCkvyaGvbgn9twfztEyxSgvV9vh+DOnWmKOXJFNKTSfPyEN\/JEkqtMGKvAEuJDjRs4ukKUVVhWNewprS\/JqoqycqXa6Ihcy0AloCYrOzDJ9zRms0ptJ3+F5KbbW1TNMs5skcuSTLRjEloZAxiXI\/IUwQh2BpHgJcjjwrB8kF4XU\/yduOVs8+Lpo7cbKjsg9o6cabqX+Dlx7R1YzDUdmKltnX3JxUUuDgjM6MORWalHrwlGGHVfHg8brsjyZ03VI6cudtcnBm27fIvX4kn6meeWJaTf7DF1He+d+zKhlUU1LGpWq34IfSLLK4+n8GfGvXodP1Ha00dXW9dLqcce\/bieTjUsVRn\/kuU9cjL+Gz9ZZp7bvRjjzqWo2\/lIMuKWSVt+leClleKDhCCp86EmG2om9p+T2Hkjm6dSfseM25OzoxZ+2Pa2alxMaZUqo48ujec\/NnPkl3MKwn8mEpGuSzCQkSsMjpNs4Xt37nX1DqLo5Yq5JLyaZej0MO3Cn\/22bpbY4Q7IRS8IFzsqHFUDWuAp3o0S9DKVjHUrQ8kafwy4r1bQZE6iEZKA3GmXpVZVqTutIKyiteomT1SRrJauiWlr3KjOFXszyqlLZ0KL2qMs0bTrgisEAcbAiuOEVDM6XgcntkrJ\/WbrwD5bKyzlySN8iZlo0F+4eAsgpfI\/wAElBQMQ1yBrHwKT2OLJlzZAI7MMrjE40b4JcoqPRwypnVZwYpHVCevclWNu\/1UdOKdas4fJqpaoy06JZnfNicrRimawaoiqitGkMrg9GTmkq8k3JuoqzUia6vqd\/ImtHP9WWN+pFfXTVRttmmRkyOqo55Oy5xyN3WjJ6eyY0O6hd7Qn+SJMzi61c75M3ImyW7LEpT4Oe",
+        "ts": "1619932345.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "bN5vRyzezcZrl6mVtIOjj3dRBVw7Iyvumzs\/j4cz9isu9K2wUfTY078jX2lEx06HXdolx2aRX\/AG8AR2yW0Wpd2J93Kei3kaTaSa+UROffCqS2VGTGmktpFqC5Q0l2pugCCjL2JdLIlzsa23rxwZOP9S3aSZUaTXdJ063WjHNFJ1fg2pLh6ZjkWm7FWOV1r8AJvjQGK0897yO\/9Faohfc3stvQRk+QDyHkimAhogoLEADGrsQ1yFaoljXDIYFJlwlTszRS45A7scqOmDpnBhna34OqErSFR2wSkn7g7RGPJSHOaa+CWNSqi7fJrCWteTm7qNMeXdeBIa7ceNeds3i1FaUa\/ByQm9bOjFBTe2bkZtauUZOpRi\/kjIo45Jdq2Uor3\/RU4N0mVnWP1FdMwyLHL8mso1JfkxyR0\/gmNa58sEvtZg37m05VRzzkm9ExdPuJlLZClsG1ZApy0cuaXbFm2Ro4s07lRUrNbZ7HTY\/p4UvfZ53R4vqZ0mtLbPWlzoqGlqi1w0QvuKu9+xRE4yT2bYreNa2mZynfJeOS7AKyNJfszy+5U5J0KUlw1oqJhLe\/YaVpxfkniLoFOmmAJ09kza7ZEuu5sm1WgNq9K3e0Z5UlGqBNkZJW3ZSOfVALltfIGGnFj3GT+SZPRUF\/SsiXAZQCEBloxiHYAh2JDsAKiSNBWq4ZA09Ml\/ADRS\/JKY0gNYrtdrg6cctHIpNcGsJsI7oy4Lk7ic+ORtygOrpsUMtdz5dbN4dF3N9jVJ0cWDJ2WjuwZvcqtZdPPG6q\/wAFQtKnF2b4590Lu5PyzWGHulpWXV+XP2zdOMX+h9madtJ6O9QcMd0DxuULiuCLkeZJTgrcTFwyT\/tpNnpZISUdrwceRpJpl1Mjly9PNpydKnT+DmlihiTb3R1Zs77N81R52bI568eRqWItNtoiTVDekZTlSZEZZp0jmW2PJPulrg16bF3z7mvSgju6LF9OFtep7Oh8X8madIpStUUVY48Gd8FRlplDpybSLUXGFslPVXSs1lTwqvDCamu6KrbBqlQ7Sx0nywlxHZcESXpIrta+Qm1umS5cXumA9O\/gzn5KbqToxnK5MC3NpLkJb8GXc+Cm7VgZy05fkCJO3L8gYrTmSrEvwZT4N8mo0c83RUSgACKY0SMgBiACkNck+CogXwiGynqJMuQpx\/JXd7EqtFrtb1YDXuUntEv44GuQOnHLhHRB7OWBtFtPYR0JnRim+Hz\/AOnIpWXGQHpwyUl8Hp9J1zhGmvFHgQzOOns6YdRH3Kuvbn1anHtSSCPWKEe2lyeSuoXuLJ1K5sq67s\/VJx+Ty8uVuQsnUp+f0cs8kpcaRDSzZLdLkwZTjXkiToVlDZy9Rk8JmuXJqjkyaW+QiYJylS8npYorHjUUcPSK834R3WFaqWhqRlY0wNLpclRtPekZWCla5KNXK5NoqGZxi14fJh+wvQTHRGcXFqUqdhPLaSXCMF+RSlTLpi3L4EpKie7RF8gW5W9GcmNvZEqAFLaLulRl5DutkA3t\/IClLevYCKxybTOeZ0ZPtZzPktSEAAZUACDyADsQwGVAhcFw4Cqk9ENlS4RIAaQ8v2IreyuFQFJ0kNveiUikgjbGzdcbMILRtBsC06dM0i9kUpIW4umB1wSZ0YcUW1Zx456OiGStE1p6EMeNLhGGeCohdRJasX1L5dl0xjJJGU3Rpkkk37HLkmSBylRzZslcf4FKcm6jbYLE1uW2aZZqNeqXJhm2jqktM55kC6R1l\/R2NnBKLT7onRizKap6kgN7tDTIvQJ+QrS9CTJsV0VGl0FkWNW3xYFqRMnvQU0rar8ktlFKVISlyRYWEU5bIb0DZLboCk9itWSn5BsKG\/VYE8yAgmfDOaTtnTLhnNLkVIQABFAxeQAY6sXkewAuPAlFspQoBNgk7s0USlECO23sfaXVBRAlHwJ8l\/omtlGuL2OiKMIujaDIrVKyu0IbNYosSslja2irmuUzdRQ6GGsO9+wnOXhM6aJlEZDa45Obd0yfpTk96R19loHEDBY4wXpRnM3kYS2RWEzBrZ0TMfJYiF7Ezx7taZbVFp2BnHNKP3q\/lGsZxktMlwszljp60B0uQr9jmWScflFxyxfwyjrxZvpO1w1TNJ9Rl\/tlp8UjjsqM2tF1HRlWRwhbbbZGTFLGvW0vizWPUdnT+hepeXs5JzlJtybb+S1Jpt6QWiBX8kaWS7EKwHYnsQEBewE2ADk9HK+TR5G\/BFCkSMpR2CRBNMpRKUSkvgCVEtRGhoBxiVQIZAVQUMfAVL\/ADDkAqxVstEP7io1ivYuOnsMe0U00FbY5G8TkhLZ0waYGy4C\/kmwsqYofgjuH3ANkSY3IxySIsRkkZVYPbNIw1ZBz5Voxo6c6o54q7KhNaJWi2hNbAqL2DjYolX4Cs3AylD4OkmSA5vVF6ZSy\/wDZf4NOwiUBqNoZU4NWZ2YuH6F3Sj8oujawM1kT+CgKE9E2DYDsZA7AHsBMCCEh0VWxpAT2lKNjSKSAmh1odBQCoBioCkx+SLHYGiCyEx2RVAtCvYMCm9CX3CbHHkI6cXBUkRGVIffYU0zfHwc9m+Omio0uvIdxm+QSb4YotMuMjLgaYVc5UjmyStm89ROZ7YDhG2dShUTLG0i5ZLVII5OpfJjCkadQ9mUWBaoUohZSaaCsuCrsGti4IKTE3sVg2A+SGtD7hNoCWjOSLbEVGTiTclw9GrIoAWS+dDshpCp+GBoFmfc1yNSTYFS4ATarkCjVIdDrQ1wZAkOgQAFCGHICoKHQJeAJoGiqCgqeAK7fcVFQWNPQqGkFIuLFQ0tkF2NWEYmsYWBC9jXHd3YdmgjcXwBo3tWawprVGMtqyVL5oDpaVGa52R9V0JXN2BplkqpGDdbHN7bMnbArv2WpMyS0O6QEZ3ZkmaZNoxuiouwUtEOQEVrYjPuoHMCm6E2S5WTb8AVYrChpFQBRSQ0iKzaJ7TbtJaKjFolo2aIoDNoTRpXuFUBjTA0a8gBuUtEoaIGgACgABkAMSQwBDAApUgSKSHQEUOi6GogQkioortKUQCKNscdihA6IRIM5fKIaN5pMxku1\/BRL4M5J3yatpoXagMy06Wh9o6II7W2UsWi4qi+7WijmcUrM5G84OzFwAzk2zKUdm7iS4gYNMTTNnAXaBj2saizXsH2gZdnkpRL7R0UZ0PwULyQJclUL8jAXkTRa\/wBC4CIaJaLoVFVmxNFtCoiIaAdAVVqqGSuSkRDBAIB+RiQyhjQkNbIHVAgK5ARSQUUAqoaWwoqJFNKy0hIpaZRpFlqVIyXBSegLbIlsbJbKE4icCkBBPaw7XZSGQJQ3yaKIkjRFESgYyjo6JIzki0c0ok9pu4kNEGNbBxRdBQGbWgopoQCoT4KJZUSyWUw58EE\/od0ICqpCAGQFElWLQRNEst+xLRVQwKloBgSZRFlBDTAEMgEMSH5KGMOQSIKGtCKQUFCGQUhiQyikNMnyMC0x+bJX+igHYguxP8hFeAJv5HdhQNCHYFp0PuM72Oyo0smTJtjb0KJJkU2SFQ0S0jRkvkghoTK8iYENCfBTJYRL4JZbJsKkLGIAsLYnoLCGPQrtAAEsdiZRLAGAVKGAERXA\/IAFMaAAH4GloAKH5K8ABKGNAADQ\/IAFqkHgACKK4ABRKdsb0AFQIQARTfARegAUC5KvQAUK2PkAATF\/aAAIUgAlE8k+AAoRF2AAITQASCXyAAKhPmhcABQeA5QAAm9Cb5AAB\/aAAFf\/2Q==\\\",\\\"id_front\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P\/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2",
+        "ts": "1619932345.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "NjY2P\/wAARCAH0AXcDASIAAhEBAxEB\/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAECAwQFBv\/EADgQAAICAQMCBQIEBQMEAwEAAAABAhEhAxIxQVEEEyIyYXGBFFKRoQUjQsHwM7HRFWJy4UNTkvH\/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP\/EABwRAQEBAQEBAQEBAAAAAAAAAAABEQIhMRIDQf\/aAAwDAQACEQMRAD8A+V05qcfnsaI4oScZWjsjJSSaIuKHQDARlqSppLqbHPJ\/zHuXBSplSw+erKg2niV\/BNer1qrLlp7Xa4CNYTUr7mcvS3aIbrOU\/g081beLYEJPmsHRpvlLhHPKcpYLjKcVtSyB0mc9VQdcsi5U8yZFNrck6ZMNaw1JSykjaD3Rs59P0W3+hroyTcqM76rWgoY6KJoRVCwAiZ3WEXREqeGBMFl8\/oGpj7lxjV5I1H9qAFlWiJqpWi45ihSabpoCWm49yeqWTVkKFSXb6hBPEWRBZv8AuXN9KFBc9fsUTJNvkIqkOaqV3Q48IDOa9Q6wDacqaG+AMlmXJYo56DlhAITGnYwJEUJoCRDYmAmSNsVgBLKEBIAwCkjfw087X9jCJUXtkn2I070UiY5VlIqAy1YZ3JfY2BrAHNJtwSfK5Ki9vpbtcplz09ztYfUqWmnDaVnGUtsmk1TvJstKFe1HPJ2tkvcuoQepLCk8AaKcE3pvhdWUpbsR54bMXcbWEwjaVpyS+gG+p6NNKPLwYRb3JW9pctTco\/GWKCjl8tp0BXE7WVRSeFGlaXIrSx1aVj0lckutmL9V0pFVgQyhCddcjE8JgZwpz\/8AY9RY\/wCQhz3f0Kk6VgRBdmLU6Vf2Li01aM9XnKAqK9KM5e7izVe1GfMuazwBTqjOF7st0aSxFkx\/8aYE6iXNBDjr9ypOulgq24QGepmXUrhIiXql2+pcnXQIzS9X\/sc7rGRRXq6D1OM9SiYLnn7hqdCoqkRP30A4rCYFdBMBNEsoTQEkTxFmjM9SW1WBg897L0+ucEufwaQzG6AZLKEwIkBOq6QBTXIyYlEadvh5btJfGDSUlFNs5\/CP3I08Qm4Kion8SuwfiW17TmaY4JydIDp0tSc5rojobwcq1I6aqGX3NFqPyU2+XVhEKHmTdc8kbnpyfKYR1HDUtcG04R1ob489io53qNyvn6mj11KFOJhJUxAdEcqSvDWDTTTg4OrTicqbXBp5jcYx7AbzTbb6tGmhHOexklatXyaaEr1Zox\/qugYvoOygFJ0shuzQS9rAiO27T\/cWpiK+o4c3XIaiwv8AiwCHt6\/czne6s8dC4e1ES9\/T7hF8IiKe7r9bLatZdExi0+bQBP2siDSdclT6r+woK84+wBKLb6NdmFVEU292LX2K6BWaXqq3yVNtZVEx92KyPUdRASd3aoifT\/guKxxRDbjzTKiotNYJ3Jumina4IirlkByddATtugnhChwAxMYmBLM5yisM0ZjKLlJ9gJqLks\/Y0SpEbPUqWO5oAmQy2RIDDWeaAibuTAo3jwALgDLbfwrrVrujfxEnFKnTObQda0Tr1opwbfQqOWU5SVNkJGs3CStJpkQrd6uAo5NKcai5KmjVaEGsNilprTkl0eG2Gax1uY\/+KNPDajUqfDM9TLiu2Dp0NOMIb5fYqFq+H3O40R+GlXS\/qPV8Q79OEZ\/iJ\/mYFx8NPqv3FLSlp02sD\/Ey7\/sHmy1PT\/YC8Vh9R+Hf86+5MUqjS+lleHX8xfBifarsGCFJ0slGfM77MuTwzNZna4vozSS9LAiHLCabql+4oXeEv9h6jprP2CHFUuDN++y3bh80S3F1WWA5pOOSIc9aruaSdQbM9Pq\/7gElJvnA44XFEytO0\/tRSdrIEP3vNFPCZOHPo88j1OLsBRmngmbe6kVBXd19idT6fsFOPHyZvMvj6FpdSdtTtcFRTqskxjQ5+0UeAqdTlDXCCW1y5yMAJZRLAmXBhFNptPJtqSqLZhun8BFwbd2qopig7VsbATM9R1FmjMNd4oDBgJgUdAC6DRlpppP+ZH6no1aPNh719T01wBx6uhKLbStEKDtYZ6FBRTHHpzlpv47HVcdSHextdxQUMuNfYDCME9X1C19ZPEeEGvibojYty3PD5ZWWIHRqaUUk07T7AtPT2vLtdwMUrNVFwinw7o0UFHUeMU8FxnvjFUrbyApZdI08PH1y+CXiTlHiSL8O+fkx\/quiidT2spcAUZq7VxX1Hqexl8ESdKwJ0+ObJkvV1\/3NIu+iJnJqSSr9QDKjhCjK5VtpsoyjmdhF6mIMUKp07DU3VaYR4u7AUqbp2TK1H0ik0+v64LAiHOf3Hqe0Ir1cfcU4tvpXZgOCpcUTKTUvj6FLCaaqiKi8p\/uA3wyYc84KnhOiYLD\/AOCgm6rsF4FKLb7jd1gKjmWf9ihRlbp19igJYimSwMtWSSyrsxuF+1o11EpP3U0ZqKeFKyo1iqVAxiZAmcus7kdMuDjm7kwJAAKNlwUiUUiNNIe5fU9JcHnaSvUj9T0UiBoYCy\/gDCWo5vbF0ngIyUZuqtKvqNNQlUsZyw2epSjC39TTJ6UHvk5dUVHRhJXb4oFJxTbabbyjKLn5lRddqAc\/D7Zem2uxMZTi1G1TdZRvGcl7+V8Dlsk\/UuQInptQcm7fPArjBJ5WbRovTHZNqqw+5lKNx2p3tYF6kags8O6+BaLqa\/QlNyfOFhjis2sv+5i31XYAICgJmrXNFGer7QHFUqsmSvCf2Y4cc2TL38180Bb4M4xal8fUuSuL5Ih9+OoQ5y2qxJprAptt1a+nBS9qyBlnfnn6lypJk8z68lT9oExcrzwLUeVkemqT+vYnUzLAFr2oyWZ3X7Gr4wZwVNqq+xQanFNChiOAnfz9hrgCM7v+Bz9rEszHO+2AFAoUFURhSJZTIlwBhOLcnxkFD12kqRLi+sXZelGk7vPcqLEMRBnquos5Gb68sUc7KBgIAN0WiCkRp0+Gjeqn2ydyOfwsNsNz5Z0IgaGJDAz1NPcrX6dzBKUbSbXxR1gio5VCUpJZz1fQ1mlpRtLLfJsTqQ3x23QGL379r9S+eS9NbWrSV8omNuT5wawab4yVD8tN2mzOWjV7Ujo6CpGdVzaK9Um+DbRSSk0sNlOEW7aRSwuyJnuhgAFAyJx3L6FiYEwVRp8mcqU6X+5qzKVubp3kCpySi02lfBGly8Fy9uaI0lyA5OpVKNruFpRu6QnUnhpP5HJY5oIhJbuE+tlTVqrCMXF9KFONu6TAcVSIaTk6lktWokJPdlOgHK1HnIk3WQ1HURR9pRE8yKklt7icblaHJ9GsATp9RyimONVgYVNUgGyQAljZGonJYdATKSjyxkRjFPKz8lgJkspkSdII5tZ3P6GRUnbbJKEAAB0oqKyJGuhHdqr4yZad0FUUuyLRKKAYxDAYIAKhgAAFC2pS3dSgIGgBAAAAEDAXQAABWDADPa99tYvuaWIonU9uCYcYtBqPNN4HhRbTsCJNOfCz3HJemnntYqk2m+o5v0tdQidPl2LUdSSv9yoP09fuTPMgLeIkQbrOSp4g6JhVYoBajyldfcaXpRM8SpMqWIsozirdp57FSVoIX1KAlKvqAxMKTEMQCYhsTAkQxMCWZa0qgzVnP4iWUgjBiARQAAAdZ0+EjzLucp36cdsUjLTVDQkUgApEjAoESNAMYrCwKAQ+gAAAEMBAQMBWHUAbE\/gAAAEAAJpVVYH0EBG12reF8C1KrK+5ZElK8UUEF6e6JSSnhdehaushSu6yETqP0\/Ioe3iipRTeUKsUBHMypK1SEopO7HT7lCiqXFAPgQUgYCAOghskAEwEwExMbJbAmTwceo7mzp1JVFnIwhCGIoAAAOzSV6kfqd5w6H+rE7VyjLTRDQkMBgAAMBIaKGMQEDHZIwGMViAdjEFkQxdQvAgH1E3mgsTYDsQBYAIYgEwBi6gMQ2IIBAIoBDEFAhskoBMYgEJjFYCYmNslgJkSZTIYGO",
+        "ts": "1619932345.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348063755847\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 623 737\\\"}\"]",
+        "ts": "1619932591.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619932592.001200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348136618408\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 224 989\\\"}\"]",
+        "ts": "1619932706.001300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619932707.001400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347054210914\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 449 114\\\"}\"]",
+        "ts": "1619938211.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619938212.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347054210914\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 346 140\\\"}\"]",
+        "ts": "1619938248.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619938248.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347068320028\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 450 641\\\"}\"]",
+        "ts": "1619938353.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1619938353.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347054210914\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 731 917\\\"}\"]",
+        "ts": "1619938490.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619938490.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347054210914\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 828 815\\\"}\"]",
+        "ts": "1619938547.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619938547.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347054210914\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 722 625\\\"}\"]",
+        "ts": "1619938617.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1619938617.001200",
+        "bot_id": "B01RC3AKYG6"
+    }
+]

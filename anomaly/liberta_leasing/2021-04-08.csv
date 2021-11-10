@@ -1,0 +1,11 @@
+type|subtype|text|ts|bot_id
+message|bot_message|"[info] - [""[SMS PAYLOAD]: {\""phone\"":\""2347069189651\"",\""message\"":\""To continue your signup, use this OTP 755 469\""}""]"|1617894727.000100|B01RC3AKYG6
+message|bot_message|"[info] - [""[SMS SUCCESS]: {\""response\"":{\""status\"":\""SUCCESS\"",\""totalsent\"":1,\""cost\"":2}}""]"|1617894727.000200|B01RC3AKYG6
+message|bot_message|"[info] - [""[SMS PAYLOAD]: {\""phone\"":\""2347069189651\"",\""message\"":\""Your verification code is 886 403\""}""]"|1617894850.000300|B01RC3AKYG6
+message|bot_message|"[info] - [""[SMS SUCCESS]: {\""response\"":{\""status\"":\""SUCCESS\"",\""totalsent\"":1,\""cost\"":2}}""]"|1617894850.000400|B01RC3AKYG6
+message|bot_message|"[info] - [""[SMS PAYLOAD]: {\""phone\"":\""2348177608934\"",\""message\"":\""Your verification code is 983 971\""}""]"|1617896175.000500|B01RC3AKYG6
+message|bot_message|"[info] - [""[SMS SUCCESS]: {\""response\"":{\""status\"":\""SUCCESS\"",\""totalsent\"":1,\""cost\"":1}}""]"|1617896176.000600|B01RC3AKYG6
+message|bot_message|"[info] - [""[SMS PAYLOAD]: {\""phone\"":\""2340812332561\"",\""message\"":\""To continue your signup, use this OTP 241 171\""}""]"|1617908534.000700|B01RC3AKYG6
+message|bot_message|"[info] - [""[SMS SUCCESS]: {\""response\"":{\""status\"":\""SUCCESS\"",\""totalsent\"":1,\""cost\"":1}}""]"|1617908535.000800|B01RC3AKYG6
+message|bot_message|"[info] - [""[SMS PAYLOAD]: {\""phone\"":\""2340812332561\"",\""message\"":\""To continue your signup, use this OTP 920 854\""}""]"|1617908731.000900|B01RC3AKYG6
+message|bot_message|"[info] - [""[SMS SUCCESS]: {\""response\"":{\""status\"":\""SUCCESS\"",\""totalsent\"":1,\""cost\"":1}}""]"|1617908731.001000|B01RC3AKYG6

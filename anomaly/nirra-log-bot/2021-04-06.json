@@ -1,0 +1,177 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617717171.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617717175.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617717189.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617717195.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617717202.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617717207.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617717221.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617717649.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617717664.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[LEADWAY PAYLOAD]:\",\"{}\"]",
+        "ts": "1617718050.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[LEADWAY SUCCESS]:\",\"{\\\"errorMsg\\\":\\\"\\\",\\\"signature\\\":\\\"\\\",\\\"success\\\":true,\\\"vehicleMake\\\":[{\\\"id\\\":\\\"127\\\",\\\"makeName\\\":\\\"35CMB\\\"},{\\\"id\\\":\\\"152\\\",\\\"makeName\\\":\\\"AC ATUL\\\"},{\\\"id\\\":\\\"228\\\",\\\"makeName\\\":\\\"ACE\\\"},{\\\"id\\\":\\\"147\\\",\\\"makeName\\\":\\\"ACURA\\\"},{\\\"id\\\":\\\"8\\\",\\\"makeName\\\":\\\"ALPHA ROMEO\\\"},{\\\"id\\\":\\\"106\\\",\\\"makeName\\\":\\\"APACHE\\\"},{\\\"id\\\":\\\"210\\\",\\\"makeName\\\":\\\"ASHOK LEYLAND\\\"},{\\\"id\\\":\\\"80\\\",\\\"makeName\\\":\\\"ASTRA\\\"},{\\\"id\\\":\\\"3\\\",\\\"makeName\\\":\\\"AUDI\\\"},{\\\"id\\\":\\\"128\\\",\\\"makeName\\\":\\\"AUSTIN\\\"},{\\\"id\\\":\\\"109\\\",\\\"makeName\\\":\\\"BACK HOE\\\"},{\\\"id\\\":\\\"9\\\",\\\"makeName\\\":\\\"BADFORD\\\"},{\\\"id\\\":\\\"68\\\",\\\"makeName\\\":\\\"BAJAJ\\\"},{\\\"id\\\":\\\"218\\\",\\\"makeName\\\":\\\"BASUKI\\\"},{\\\"id\\\":\\\"248\\\",\\\"makeName\\\":\\\"BAW\\\"},{\\\"id\\\":\\\"244\\\",\\\"makeName\\\":\\\"BEDFORD\\\"},{\\\"id\\\":\\\"84\\\",\\\"makeName\\\":\\\"BEIBEN\\\"},{\\\"id\\\":\\\"195\\\",\\\"makeName\\\":\\\"BELL\\\"},{\\\"id\\\":\\\"174\\\",\\\"makeName\\\":\\\"BENTLEY\\\"},{\\\"id\\\":\\\"75\\\",\\\"makeName\\\":\\\"BHACHU\\\"},{\\\"id\\\":\\\"262\\\",\\\"makeName\\\":\\\"BIKEMASTER\\\"},{\\\"id\\\":\\\"92\\\",\\\"makeName\\\":\\\"BLUE BIRD\\\"},{\\\"id\\\":\\\"7\\\",\\\"makeName\\\":\\\"BMW\\\"},{\\\"id\\\":\\\"10\\\",\\\"makeName\\\":\\\"BOBCAT\\\"},{\\\"id\\\":\\\"290\\\",\\\"makeName\\\":\\\"BOVA\\\"},{\\\"id\\\":\\\"126\\\",\\\"makeName\\\":\\\"BPW\\\"},{\\\"id\\\":\\\"269\\\",\\\"makeName\\\":\\\"BRILLIANCE\\\"},{\\\"id\\\":\\\"182\\\",\\\"makeName\\\":\\\"BUICK\\\"},{\\\"id\\\":\\\"11\\\",\\\"makeName\\\":\\\"CADILLAC\\\"},{\\\"id\\\":\\\"12\\\",\\\"makeName\\\":\\\"CAM\\\"},{\\\"id\\\":\\\"284\\\",\\\"makeName\\\":\\\"CANTER FUSO\\\"},{\\\"id\\\":\\\"89\\\",\\\"makeName\\\":\\\"CAPTAIN\\\"},{\\\"id\\\":\\\"217\\\",\\\"makeName\\\":\\\"CARTER PEN\\\"},{\\\"id\\\":\\\"13\\\",\\\"makeName\\\":\\\"CAT\\\"},{\\\"id\\\":\\\"239\\\",\\\"makeName\\\":\\\"CATERPILLAR\\\"},{\\\"id\\\":\\\"254\\\",\\\"makeName\\\":\\\"CHANA STAR\\\"},{\\\"id\\\":\\\"142\\\",\\\"makeName\\\":\\\"CHANGAN\\\"},{\\\"id\\\":\\\"223\\\",\\\"makeName\\\":\\\"CHANGFENG\\\"},{\\\"id\\\":\\\"141\\\",\\\"makeName\\\":\\\"CHERRY\\\"},{\\\"id\\\":\\\"283\\\",\\\"makeName\\\":\\\"CHERY\\\"},{\\\"id\\\":\\\"14\\\",\\\"makeName\\\":\\\"CHEVROLET\\\"},{\\\"id\\\":\\\"15\\\",\\\"makeName\\\":\\\"CHRYSLER\\\"},{\\\"id\\\":\\\"16\\\",\\\"makeName\\\":\\\"CITROEN\\\"},{\\\"id\\\":\\\"104\\\",\\\"makeName\\\":\\\"CLAAS\\\"},{\\\"id\\\":\\\"17\\\",\\\"makeName\\\":\\\"CMC\\\"},{\\\"id\\\":\\\"181\\\",\\\"makeName\\\":\\\"COMMER\\\"},{\\\"id\\\":\\\"129\\\",\\\"makeName\\\":\\\"CPCD\\\"},{\\\"id\\\":\\\"275\\\",\\\"makeName\\\":\\\"DACIA\\\"},{\\\"id\\\":\\\"18\\\",\\\"makeName\\\":\\\"DAEWOO\\\"},{\\\"id\\\":\\\"138\\\",\\\"makeName\\\":\\\"DAF\\\"},{\\\"id\\\":\\\"19\\\",\\\"makeName\\\":\\\"DAIHATSU\\\"},{\\\"id\\\":\\\"131\\\",\\\"makeName\\\":\\\"DALIAN\\\"},{\\\"id\\\":\\\"190\\\",\\\"makeName\\\":\\\"DATSUN\\\"},{\\\"id\\\":\\\"191\\\",\\\"makeName\\\":\\\"DAVE\\\"},{\\\"id\\\":\\\"161\\\",\\\"makeName\\\":\\\"DAYLONG\\\"},{\\\"id\\\":\\\"99\\\",\\\"makeName\\\":\\\"DAYUN\\\"},{\\\"id\\\":\\\"158\\\",\\\"makeName\\\":\\\"DEGAB\\\"},{\\\"id\\\":\\\"179\\\",\\\"makeName\\\":\\\"DENNIS\\\"},{\\\"id\\\":\\\"150\\\",\\\"makeName\\\":\\\"DENSTAR\\\"},{\\\"id\\\":\\\"216\\\",\\\"makeName\\\":\\\"DFAC\\\"},{\\\"id\\\":\\\"270\\\",\\\"makeName\\\":\\\"DFM\\\"},{\\\"id\\\":\\\"243\\\",\\\"makeName\\\":\\\"DIAMOND REO\\\"},{\\\"id\\\":\\\"183\\\",\\\"makeName\\\":\\\"DODGE\\\"},{\\\"id\\\":\\\"74\\\",\\\"makeName\\\":\\\"DOLL\\\"},{\\\"id\\\":\\\"88\\\",\\\"makeName\\\":\\\"DONGFENG\\\"},{\\\"id\\\":\\\"132\\\",\\\"makeName\\\":\\\"DOOSAN\\\"},{\\\"id\\\":\\\"20\\\",\\\"makeName\\\":\\\"DUCATI\\\"},{\\\"id\\\":\\\"280\\\",\\\"makeName\\\":\\\"EAGLE\\\"},{\\\"id\\\":\\\"21\\\",\\\"makeName\\\":\\\"EICHER\\\"},{\\\"id\\\":\\\"110\\\",\\\"makeName\\\":\\\"ELITE\\\"},{\\\"id\\\":\\\"249\\\",\\\"makeName\\\":\\\"ENGLON\\\"},{\\\"id\\\":\\\"250\\\",\\\"makeName\\\":\\\"ENGLON \\\"},{\\\"id\\\":\\\"240\\\",\\\"makeName\\\":\\\"E-ONE\\\"},{\\\"id\\\":\\\"186\\\",\\\"makeName\\\":\\\"EVERLAST\\\"},{\\\"id\\\":\\\"176\\\",\\\"makeName\\\":\\\"FALCON\\\"},{\\\"id\\\":\\\"70\\\",\\\"makeName\\\":\\\"FAW\\\"},{\\\"id\\\":\\\"22\\\",\\\"makeName\\\":\\\"FIAT\\\"},{\\\"id\\\":\\\"256\\\",\\\"makeName\\\":\\\"FIORI\\\"},{\\\"id\\\":\\\"133\\\",\\\"makeName\\\":\\\"FLATBED\\\"},{\\\"id\\\":\\\"23\\\",\\\"makeName\\\":\\\"FORD\\\"},{\\\"id\\\":\\\"222\\\",\\\"makeName\\\":\\\"FORLAND\\\"},{\\\"id\\\":\\\"24\\\",\\\"makeName\\\":\\\"FOTON\\\"},{\\\"id\\\":\\\"148\\\",\\\"makeName\\\":\\\"FRAJEND\\\"},{\\\"id\\\":\\\"170\\\",\\\"makeName\\\":\\\"FREIGHTLINER\\\"},{\\\"id\\\":\\\"151\\\",\\\"makeName\\\":\\\"FUSO\\\"},{\\\"id\\\":\\\"164\\\",\\\"makeName\\\":\\\"GAC\\\"},{\\\"id\\\":\\\"226\\\",\\\"makeName\\\":\\\"GEELY\\\"},{\\\"id\\\":\\\"213\\\",\\\"makeName\\\":\\\"GENIE \\\"},{\\\"id\\\":\\\"277\\\",\\\"makeName\\\":\\\"GENLYON\\\"},{\\\"id\\\":\\\"162\\\",\\\"makeName\\\":\\\"GMC\\\"},{\\\"id\\\":\\\"268\\\",\\\"makeName\\\":\\\"GOLDEN DRAGON\\\"},{\\\"id\\\":\\\"291\\\",\\\"makeName\\\":\\\"GONOW\\\"},{\\\"id\\\":\\\"286\\\",\\\"makeName\\\":\\\"GRAND CHEROKEE\\\"},{\\\"id\\\":\\\"115\\\",\\\"makeName\\\":\\\"GRAY ADAMS\\\"},{\\\"id\\\":\\\"184\\\",\\\"makeName\\\":\\\"GREATWALL\\\"},{\\",
+        "ts": "1617718053.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "\"id\\\":\\\"124\\\",\\\"makeName\\\":\\\"GROVE\\\"},{\\\"id\\\":\\\"224\\\",\\\"makeName\\\":\\\"HAIMA\\\"},{\\\"id\\\":\\\"230\\\",\\\"makeName\\\":\\\"HANGCHA\\\"},{\\\"id\\\":\\\"67\\\",\\\"makeName\\\":\\\"HAOJIN\\\"},{\\\"id\\\":\\\"212\\\",\\\"makeName\\\":\\\"HAOJUE\\\"},{\\\"id\\\":\\\"282\\\",\\\"makeName\\\":\\\"Haojue elegant\\\"},{\\\"id\\\":\\\"116\\\",\\\"makeName\\\":\\\"HAWK\\\"},{\\\"id\\\":\\\"107\\\",\\\"makeName\\\":\\\"HERO\\\"},{\\\"id\\\":\\\"271\\\",\\\"makeName\\\":\\\"HIGER\\\"},{\\\"id\\\":\\\"25\\\",\\\"makeName\\\":\\\"HINO\\\"},{\\\"id\\\":\\\"98\\\",\\\"makeName\\\":\\\"HITACHI\\\"},{\\\"id\\\":\\\"26\\\",\\\"makeName\\\":\\\"HONDA\\\"},{\\\"id\\\":\\\"279\\\",\\\"makeName\\\":\\\"HONGYAN GENLYON\\\"},{\\\"id\\\":\\\"103\\\",\\\"makeName\\\":\\\"HOUSEHAM\\\"},{\\\"id\\\":\\\"160\\\",\\\"makeName\\\":\\\"HOWO\\\"},{\\\"id\\\":\\\"114\\\",\\\"makeName\\\":\\\"HTL\\\"},{\\\"id\\\":\\\"117\\\",\\\"makeName\\\":\\\"HUBEI\\\"},{\\\"id\\\":\\\"27\\\",\\\"makeName\\\":\\\"HUMMER\\\"},{\\\"id\\\":\\\"90\\\",\\\"makeName\\\":\\\"HYSTER\\\"},{\\\"id\\\":\\\"28\\\",\\\"makeName\\\":\\\"HYUNDAI\\\"},{\\\"id\\\":\\\"154\\\",\\\"makeName\\\":\\\"INFINITI\\\"},{\\\"id\\\":\\\"146\\\",\\\"makeName\\\":\\\"INNOSON\\\"},{\\\"id\\\":\\\"163\\\",\\\"makeName\\\":\\\"INTERNATIONAL\\\"},{\\\"id\\\":\\\"233\\\",\\\"makeName\\\":\\\"INTERNATIONAL TRANSTAR\\\"},{\\\"id\\\":\\\"29\\\",\\\"makeName\\\":\\\"ISUZU\\\"},{\\\"id\\\":\\\"71\\\",\\\"makeName\\\":\\\"IVECO\\\"},{\\\"id\\\":\\\"85\\\",\\\"makeName\\\":\\\"JAC\\\"},{\\\"id\\\":\\\"30\\\",\\\"makeName\\\":\\\"JAGUAR\\\"},{\\\"id\\\":\\\"229\\\",\\\"makeName\\\":\\\"JCB\\\"},{\\\"id\\\":\\\"31\\\",\\\"makeName\\\":\\\"JEEP\\\"},{\\\"id\\\":\\\"276\\\",\\\"makeName\\\":\\\"JET\\\"},{\\\"id\\\":\\\"235\\\",\\\"makeName\\\":\\\"JIN BEI\\\"},{\\\"id\\\":\\\"252\\\",\\\"makeName\\\":\\\"JINBEI  \\\"},{\\\"id\\\":\\\"258\\\",\\\"makeName\\\":\\\"JINCHENG\\\"},{\\\"id\\\":\\\"200\\\",\\\"makeName\\\":\\\"JMC\\\"},{\\\"id\\\":\\\"83\\\",\\\"makeName\\\":\\\"JOHN DEERE\\\"},{\\\"id\\\":\\\"178\\\",\\\"makeName\\\":\\\"JOYLONG\\\"},{\\\"id\\\":\\\"219\\\",\\\"makeName\\\":\\\"KASEE\\\"},{\\\"id\\\":\\\"189\\\",\\\"makeName\\\":\\\"KAWASAKI\\\"},{\\\"id\\\":\\\"123\\\",\\\"makeName\\\":\\\"KAYAK\\\"},{\\\"id\\\":\\\"265\\\",\\\"makeName\\\":\\\"KEEWAY\\\"},{\\\"id\\\":\\\"214\\\",\\\"makeName\\\":\\\"KEEWAY HANDY\\\"},{\\\"id\\\":\\\"287\\\",\\\"makeName\\\":\\\"KENWORTH\\\"},{\\\"id\\\":\\\"196\\\",\\\"makeName\\\":\\\"KG PLATE\\\"},{\\\"id\\\":\\\"32\\\",\\\"makeName\\\":\\\"KIA\\\"},{\\\"id\\\":\\\"79\\\",\\\"makeName\\\":\\\"KIBO\\\"},{\\\"id\\\":\\\"112\\\",\\\"makeName\\\":\\\"KING BIRD\\\"},{\\\"id\\\":\\\"208\\\",\\\"makeName\\\":\\\"KING LONG\\\"},{\\\"id\\\":\\\"177\\\",\\\"makeName\\\":\\\"KINGKAN\\\"},{\\\"id\\\":\\\"94\\\",\\\"makeName\\\":\\\"KTM\\\"},{\\\"id\\\":\\\"93\\\",\\\"makeName\\\":\\\"KUBOTA\\\"},{\\\"id\\\":\\\"167\\\",\\\"makeName\\\":\\\"KYMSTONE\\\"},{\\\"id\\\":\\\"33\\\",\\\"makeName\\\":\\\"LAND ROVER\\\"},{\\\"id\\\":\\\"241\\\",\\\"makeName\\\":\\\"LANSING\\\"},{\\\"id\\\":\\\"156\\\",\\\"makeName\\\":\\\"LDV\\\"},{\\\"id\\\":\\\"139\\\",\\\"makeName\\\":\\\"LEXUS\\\"},{\\\"id\\\":\\\"205\\\",\\\"makeName\\\":\\\"LEYLAND\\\"},{\\\"id\\\":\\\"34\\\",\\\"makeName\\\":\\\"LEYLAND DAF\\\"},{\\\"id\\\":\\\"35\\\",\\\"makeName\\\":\\\"LIEBHERR\\\"},{\\\"id\\\":\\\"91\\\",\\\"makeName\\\":\\\"LIFAN\\\"},{\\\"id\\\":\\\"206\\\",\\\"makeName\\\":\\\"LINCOLN\\\"},{\\\"id\\\":\\\"242\\\",\\\"makeName\\\":\\\"LINDE\\\"},{\\\"id\\\":\\\"166\\\",\\\"makeName\\\":\\\"LINGKEN\\\"},{\\\"id\\\":\\\"187\\\",\\\"makeName\\\":\\\"LML STAR\\\"},{\\\"id\\\":\\\"66\\\",\\\"makeName\\\":\\\"LOCAL\\\"},{\\\"id\\\":\\\"227\\\",\\\"makeName\\\":\\\"LOCATELLI\\\"},{\\\"id\\\":\\\"136\\\",\\\"makeName\\\":\\\"MACK\\\"},{\\\"id\\\":\\\"36\\\",\\\"makeName\\\":\\\"MAHINDRA\\\"},{\\\"id\\\":\\\"82\\\",\\\"makeName\\\":\\\"MAN\\\"},{\\\"id\\\":\\\"236\\\",\\\"makeName\\\":\\\"MANITOU\\\"},{\\\"id\\\":\\\"153\\\",\\\"makeName\\\":\\\"MARS\\\"},{\\\"id\\\":\\\"37\\\",\\\"makeName\\\":\\\"MARUTI\\\"},{\\\"id\\\":\\\"238\\\",\\\"makeName\\\":\\\"MASERATI\\\"},{\\\"id\\\":\\\"102\\\",\\\"makeName\\\":\\\"MASSEY FERGUSON\\\"},{\\\"id\\\":\\\"38\\\",\\\"makeName\\\":\\\"MAZDA\\\"},{\\\"id\\\":\\\"39\\\",\\\"makeName\\\":\\\"MERCEDES\\\"},{\\\"id\\\":\\\"188\\\",\\\"makeName\\\":\\\"MERCEDES BENZ\\\"},{\\\"id\\\":\\\"225\\\",\\\"makeName\\\":\\\"MERCURY\\\"},{\\\"id\\\":\\\"257\\\",\\\"makeName\\\":\\\"MERLO S.P.A\\\"},{\\\"id\\\":\\\"122\\\",\\\"makeName\\\":\\\"MEYLUN\\\"},{\\\"id\\\":\\\"169\\\",\\\"makeName\\\":\\\"MG 5\\\"},{\\\"id\\\":\\\"288\\\",\\\"makeName\\\":\\\"MIKANO\\\"},{\\\"id\\\":\\\"120\\\",\\\"makeName\\\":\\\"MINGWEI\\\"},{\\\"id\\\":\\\"140\\\",\\\"makeName\\\":\\\"MINI\\\"},{\\\"id\\\":\\\"2\\\",\\\"makeName\\\":\\\"MITSUBISHI\\\"},{\\\"id\\\":\\\"204\\\",\\\"makeName\\\":\\\"MORRIS\\\"},{\\\"id\\\":\\\"259\\\",\\\"makeName\\\":\\\"MOTOBI\\\"},{\\\"id\\\":\\\"267\\\",\\\"makeName\\\":\\\"MUONER\\\"},{\\\"id\\\":\\\"285\\\",\\\"makeName\\\":\\\"MV\\\"},{\\\"id\\\":\\\"199\\\",\\\"makeName\\\":\\\"NANFANG\\\"},{\\\"id\\\":\\\"40\\\",\\\"makeName\\\":\\\"NEW HOLLAND\\\"},{\\\"id\\\":\\\"41\\\",\\\"makeName\\\":\\\"NISSAN\\\"},{\\\"id\\\":\\\"42\\\",\\\"makeName\\\":\\\"OPEL\\\"},{\\\"id\\\":\\\"289\\\",\\\"makeName\\\":\\\"PETERBILT\\\"},{\\\"id\\\":\\\"43\\\",\\\"makeName\\\":\\\"PEUGEOT\\\"},{\\\"id\\\":\\\"105\\\",\\\"makeName\\\":\\\"PIAGGIO\\\"},{\\\"id\\\":\\\"261\\\",\\\"make",
+        "ts": "1617718053.001200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Name\\\":\\\"POLARSUN\\\"},{\\\"id\\\":\\\"159\\\",\\\"makeName\\\":\\\"PONTIAC\\\"},{\\\"id\\\":\\\"44\\\",\\\"makeName\\\":\\\"PORSCHE\\\"},{\\\"id\\\":\\\"266\\\",\\\"makeName\\\":\\\"PRESIDENT\\\"},{\\\"id\\\":\\\"211\\\",\\\"makeName\\\":\\\"PROTON\\\"},{\\\"id\\\":\\\"253\\\",\\\"makeName\\\":\\\"QINGQI\\\"},{\\\"id\\\":\\\"246\\\",\\\"makeName\\\":\\\"QIPAI\\\"},{\\\"id\\\":\\\"157\\\",\\\"makeName\\\":\\\"QLINK\\\"},{\\\"id\\\":\\\"118\\\",\\\"makeName\\\":\\\"QUON\\\"},{\\\"id\\\":\\\"45\\\",\\\"makeName\\\":\\\"RANDON\\\"},{\\\"id\\\":\\\"273\\\",\\\"makeName\\\":\\\"RANGE ROVER\\\"},{\\\"id\\\":\\\"47\\\",\\\"makeName\\\":\\\"RENAULT\\\"},{\\\"id\\\":\\\"197\\\",\\\"makeName\\\":\\\"ROLLS-ROYCE\\\"},{\\\"id\\\":\\\"48\\\",\\\"makeName\\\":\\\"ROVER\\\"},{\\\"id\\\":\\\"207\\\",\\\"makeName\\\":\\\"ROYAL\\\"},{\\\"id\\\":\\\"49\\\",\\\"makeName\\\":\\\"SAAB\\\"},{\\\"id\\\":\\\"130\\\",\\\"makeName\\\":\\\"SACHS\\\"},{\\\"id\\\":\\\"50\\\",\\\"makeName\\\":\\\"SAILORMEIYA\\\"},{\\\"id\\\":\\\"72\\\",\\\"makeName\\\":\\\"SAME\\\"},{\\\"id\\\":\\\"194\\\",\\\"makeName\\\":\\\"SANY\\\"},{\\\"id\\\":\\\"274\\\",\\\"makeName\\\":\\\"SATURN\\\"},{\\\"id\\\":\\\"51\\\",\\\"makeName\\\":\\\"SCANIA\\\"},{\\\"id\\\":\\\"232\\\",\\\"makeName\\\":\\\"SCHWING\\\"},{\\\"id\\\":\\\"172\\\",\\\"makeName\\\":\\\"SCION\\\"},{\\\"id\\\":\\\"221\\\",\\\"makeName\\\":\\\"SEAT\\\"},{\\\"id\\\":\\\"245\\\",\\\"makeName\\\":\\\"SENKE\\\"},{\\\"id\\\":\\\"52\\\",\\\"makeName\\\":\\\"SHACMAN\\\"},{\\\"id\\\":\\\"111\\\",\\\"makeName\\\":\\\"SHANTUI\\\"},{\\\"id\\\":\\\"119\\\",\\\"makeName\\\":\\\"SHENZEN\\\"},{\\\"id\\\":\\\"100\\\",\\\"makeName\\\":\\\"SHINERAY\\\"},{\\\"id\\\":\\\"215\\\",\\\"makeName\\\":\\\"SHIRORO\\\"},{\\\"id\\\":\\\"171\\\",\\\"makeName\\\":\\\"SINO\\\"},{\\\"id\\\":\\\"168\\\",\\\"makeName\\\":\\\"SINOKI SUPRA\\\"},{\\\"id\\\":\\\"53\\\",\\\"makeName\\\":\\\"SINOTRUCK\\\"},{\\\"id\\\":\\\"54\\\",\\\"makeName\\\":\\\"SKODA\\\"},{\\\"id\\\":\\\"108\\\",\\\"makeName\\\":\\\"SKYGO\\\"},{\\\"id\\\":\\\"55\\\",\\\"makeName\\\":\\\"SMART\\\"},{\\\"id\\\":\\\"263\\\",\\\"makeName\\\":\\\"SONLINK\\\"},{\\\"id\\\":\\\"192\\\",\\\"makeName\\\":\\\"SOYAT\\\"},{\\\"id\\\":\\\"56\\\",\\\"makeName\\\":\\\"SSANGYONG\\\"},{\\\"id\\\":\\\"145\\\",\\\"makeName\\\":\\\"STALLION\\\"},{\\\"id\\\":\\\"86\\\",\\\"makeName\\\":\\\"STAR\\\"},{\\\"id\\\":\\\"209\\\",\\\"makeName\\\":\\\"STERLING\\\"},{\\\"id\\\":\\\"281\\\",\\\"makeName\\\":\\\"STEYR\\\"},{\\\"id\\\":\\\"95\\\",\\\"makeName\\\":\\\"STO\\\"},{\\\"id\\\":\\\"57\\\",\\\"makeName\\\":\\\"SUBARU\\\"},{\\\"id\\\":\\\"272\\\",\\\"makeName\\\":\\\"SUPER GALLANT\\\"},{\\\"id\\\":\\\"251\\\",\\\"makeName\\\":\\\"SUPER POWER\\\"},{\\\"id\\\":\\\"58\\\",\\\"makeName\\\":\\\"SUZUKI\\\"},{\\\"id\\\":\\\"264\\\",\\\"makeName\\\":\\\"TAFE TRACTOR \\\"},{\\\"id\\\":\\\"193\\\",\\\"makeName\\\":\\\"TANADO\\\"},{\\\"id\\\":\\\"59\\\",\\\"makeName\\\":\\\"TATA\\\"},{\\\"id\\\":\\\"198\\\",\\\"makeName\\\":\\\"TEC\\\"},{\\\"id\\\":\\\"231\\\",\\\"makeName\\\":\\\"TEREX\\\"},{\\\"id\\\":\\\"185\\\",\\\"makeName\\\":\\\"TIANMA\\\"},{\\\"id\\\":\\\"60\\\",\\\"makeName\\\":\\\"TIGO\\\"},{\\\"id\\\":\\\"81\\\",\\\"makeName\\\":\\\"TLD\\\"},{\\\"id\\\":\\\"1\\\",\\\"makeName\\\":\\\"TOYOTA\\\"},{\\\"id\\\":\\\"73\\\",\\\"makeName\\\":\\\"TRACTOR\\\"},{\\\"id\\\":\\\"87\\\",\\\"makeName\\\":\\\"TRAIL KING\\\"},{\\\"id\\\":\\\"77\\\",\\\"makeName\\\":\\\"TRANSTRAILER\\\"},{\\\"id\\\":\\\"134\\\",\\\"makeName\\\":\\\"TRIUMPH\\\"},{\\\"id\\\":\\\"149\\\",\\\"makeName\\\":\\\"TRUMPCHI GAC\\\"},{\\\"id\\\":\\\"202\\\",\\\"makeName\\\":\\\"TUG\\\"},{\\\"id\\\":\\\"78\\\",\\\"makeName\\\":\\\"TVS\\\"},{\\\"id\\\":\\\"165\\\",\\\"makeName\\\":\\\"TWINCO\\\"},{\\\"id\\\":\\\"69\\\",\\\"makeName\\\":\\\"UM\\\"},{\\\"id\\\":\\\"97\\\",\\\"makeName\\\":\\\"VALTRA\\\"},{\\\"id\\\":\\\"61\\\",\\\"makeName\\\":\\\"VAUXHALL\\\"},{\\\"id\\\":\\\"62\\\",\\\"makeName\\\":\\\"VOLKSWAGEN\\\"},{\\\"id\\\":\\\"63\\\",\\\"makeName\\\":\\\"VOLVO\\\"},{\\\"id\\\":\\\"237\\\",\\\"makeName\\\":\\\"VPG\\\"},{\\\"id\\\":\\\"278\\\",\\\"makeName\\\":\\\"Wrangler\\\"},{\\\"id\\\":\\\"64\\\",\\\"makeName\\\":\\\"WUHAN SHENJUN\\\"},{\\\"id\\\":\\\"65\\\",\\\"makeName\\\":\\\"YAMAHA\\\"},{\\\"id\\\":\\\"96\\\",\\\"makeName\\\":\\\"YATIAN\\\"},{\\\"id\\\":\\\"180\\\",\\\"makeName\\\":\\\"YORK\\\"},{\\\"id\\\":\\\"155\\\",\\\"makeName\\\":\\\"YUTONG\\\"},{\\\"id\\\":\\\"173\\\",\\\"makeName\\\":\\\"ZAHAV\\\"},{\\\"id\\\":\\\"260\\\",\\\"makeName\\\":\\\"ZHEJIANG XINCHAI\\\"},{\\\"id\\\":\\\"175\\\",\\\"makeName\\\":\\\"ZHONGTONG\\\"},{\\\"id\\\":\\\"113\\\",\\\"makeName\\\":\\\"ZOOMLION\\\"},{\\\"id\\\":\\\"247\\\",\\\"makeName\\\":\\\"ZOTYE\\\"}]}\"]",
+        "ts": "1617718053.001300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617718919.001400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617718943.001500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617719654.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617719668.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617719695.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617719838.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617720010.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS REPONSE]: {\\\"response\\\":{\\\"status\\\":\\\"ACCOUNT_SUSPENDED\\\"}}\"]",
+        "ts": "1617722346.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"mtn\\\",\\\"amount\\\":400,\\\"phone\\\":\\\"08033984930\\\",\\\"request_id\\\":\\\"08033984930-1617731968933\\\"}\"]",
+        "ts": "1617731968.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"MTN Airtime VTU\\\",\\\"unique_element\\\":\\\"08033984930\\\",\\\"unit_price\\\":400,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":12,\\\"total_amount\\\":388,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":400,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16177319693136784824972999\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08033984930-1617731968933\\\",\\\"amount\\\":\\\"400.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-04-06 18:59:29.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1617731971.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"glo\\\",\\\"amount\\\":500,\\\"phone\\\":\\\"08076176963\\\",\\\"request_id\\\":\\\"08165967191-1617743489160\\\"}\"]",
+        "ts": "1617743489.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"GLO Airtime VTU\\\",\\\"unique_element\\\":\\\"08076176963\\\",\\\"unit_price\\\":500,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":20,\\\"total_amount\\\":480,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":500,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16177434895436563294246146\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08165967191-1617743489160\\\",\\\"amount\\\":\\\"500.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-04-06 22:11:29.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1617743492.000200",
+        "bot_id": "B01RC3AKYG6"
+    }
+]

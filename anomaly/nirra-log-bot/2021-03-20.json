@@ -1,0 +1,86 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{}\"]",
+        "ts": "1616231494.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"{\\\"code\\\":\\\"ER_PARSE_ERROR\\\",\\\"errno\\\":1064,\\\"sqlMessage\\\":\\\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1\\\",\\\"sqlState\\\":\\\"42000\\\",\\\"index\\\":0,\\\"sql\\\":\\\"INSERT INTO providus_settlements SET \\\"}\"]",
+        "ts": "1616231494.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{}\"]",
+        "ts": "1616231508.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"{\\\"code\\\":\\\"ER_PARSE_ERROR\\\",\\\"errno\\\":1064,\\\"sqlMessage\\\":\\\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1\\\",\\\"sqlState\\\":\\\"42000\\\",\\\"index\\\":0,\\\"sql\\\":\\\"INSERT INTO providus_settlements SET \\\"}\"]",
+        "ts": "1616231508.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"{\\\"code\\\":\\\"ER_PARSE_ERROR\\\",\\\"errno\\\":1064,\\\"sqlMessage\\\":\\\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1\\\",\\\"sqlState\\\":\\\"42000\\\",\\\"index\\\":0,\\\"sql\\\":\\\"INSERT INTO providus_settlements SET \\\"}\"]",
+        "ts": "1616231553.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{}\"]",
+        "ts": "1616231553.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{}\"]",
+        "ts": "1616231557.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"{\\\"code\\\":\\\"ER_PARSE_ERROR\\\",\\\"errno\\\":1064,\\\"sqlMessage\\\":\\\"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1\\\",\\\"sqlState\\\":\\\"42000\\\",\\\"index\\\":0,\\\"sql\\\":\\\"INSERT INTO providus_settlements SET \\\"}\"]",
+        "ts": "1616231558.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"99990000554443332221\\\",\\\"initiationTranRef\\\":\\\"xxssssaasdfff\\\",\\\"accountNumber\\\":\\\"9900000012\\\",\\\"tranRemarks\\\":\\\"TO MERCHANT001\\\",\\\"transactionAmount\\\":14000,\\\"settledAmount\\\":13900,\\\"feeAmount\\\":100,\\\"vatAmount\\\":0,\\\"currency\\\":\\\"NGN\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2012-04-23 18:25:43\\\"}\"]",
+        "ts": "1616232231.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"99990000554443332221\\\",\\\"initiationTranRef\\\":\\\"xxssssaasdfff\\\",\\\"accountNumber\\\":\\\"9900000012\\\",\\\"tranRemarks\\\":\\\"TO MERCHANT001\\\",\\\"transactionAmount\\\":14000,\\\"settledAmount\\\":13900,\\\"feeAmount\\\":100,\\\"vatAmount\\\":0,\\\"currency\\\":\\\"NGN\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2012-04-23 18:25:43\\\"}\"]",
+        "ts": "1616232234.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042103011805345648005069266636442357859509\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807600001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616277362.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"{\\\"code\\\":\\\"ER_BAD_FIELD_ERROR\\\",\\\"errno\\\":1054,\\\"sqlMessage\\\":\\\"Unknown column 'settlementId' in 'field list'\\\",\\\"sqlState\\\":\\\"42S22\\\",\\\"index\\\":0,\\\"sql\\\":\\\"INSERT INTO providus_settlements SET `sessionId` = '0000042103011805345648005069266636442357859509', `accountNumber` = '9945500556', `tranRemarks` = 'FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636', `transactionAmount` = '1', `settledAmount` = '1', `feeAmount` = '0', `vatAmount` = '0', `currency` = 'NGN', `initiationTranRef` = '', `settlementId` = '202210301006807600001432', `sourceAccountNumber` = '2093566866', `sourceAccountName` = 'CASAFINA CREDIT-EASY LOAN', `sourceBankName` = 'UNITED BANK FOR AFRICA', `channelId` = '1', `tranDateTime` = '2021-03-01 18:06:20'\\\"}\"]",
+        "ts": "1616277362.001200",
+        "bot_id": "B01RC3AKYG6"
+    }
+]

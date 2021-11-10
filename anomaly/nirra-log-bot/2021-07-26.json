@@ -1,0 +1,800 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348032423545\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 139 913\\\"}\"]",
+        "ts": "1627291510.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627291511.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348032423545\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 808 250\\\"}\"]",
+        "ts": "1627291576.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627291576.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348038674252\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 215 018\\\"}\"]",
+        "ts": "1627292684.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627292684.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS SETTLEMENT INFO]:\",\"{\\\"sessionId\\\":\\\"110006210726095134007041610001\\\",\\\"accountNumber\\\":\\\"9980342362\\\",\\\"tranRemarks\\\":\\\"FROM PAYSTACK\/ Paystack-Transfer from FairMoneyFairMoney\/110006210726095134007041610001\\\",\\\"transactionAmount\\\":\\\"450\\\",\\\"settledAmount\\\":\\\"450\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"null\\\",\\\"settlementId\\\":\\\"209210726001310800001\\\",\\\"sourceAccountNumber\\\":\\\"5050505053\\\",\\\"sourceAccountName\\\":\\\"Paystack\\\",\\\"sourceBankName\\\":\\\"PAYSTACK PAYMENTS LIMITED\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-07-26 10:50:20\\\"}\"]",
+        "ts": "1627293110.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"MONNIFY \/ Nellobyte-070\\\",\\\"beneficiaryAccountNumber\\\":\\\"7484653728\\\",\\\"beneficiaryBank\\\":\\\"000017\\\",\\\"transactionAmount\\\":\\\"490\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"07068063494-1627293192069\\\"}\"]",
+        "ts": "1627293192.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"07068063494-1627293192069\\\",\\\"sessionId\\\":\\\"000023210726105303005009797281\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1627293196.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349064767253\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 246 295\\\"}\"]",
+        "ts": "1627294558.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627294558.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349064767253\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 245 256\\\"}\"]",
+        "ts": "1627294616.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627294616.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348137912361\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 469 987\\\"}\"]",
+        "ts": "1627300675.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627300676.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"mtn\\\",\\\"amount\\\":300,\\\"phone\\\":\\\"08166090619\\\",\\\"request_id\\\":\\\"08033984930-1627301233238\\\"}\"]",
+        "ts": "1627301233.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"MTN Airtime VTU\\\",\\\"unique_element\\\":\\\"08166090619\\\",\\\"unit_price\\\":300,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":9,\\\"total_amount\\\":291,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":300,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16273012336793713640836533\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08033984930-1627301233238\\\",\\\"amount\\\":\\\"300.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-07-26 13:07:13.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1627301235.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS PAYLOAD]:\",\"{\\\"serviceID\\\":\\\"mtn\\\",\\\"amount\\\":300,\\\"phone\\\":\\\"09097777124\\\",\\\"request_id\\\":\\\"08033984930-1627301296828\\\"}\"]",
+        "ts": "1627301296.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[VTPASS SUCCESS]:\",\"{\\\"code\\\":\\\"000\\\",\\\"content\\\":{\\\"transactions\\\":{\\\"status\\\":\\\"delivered\\\",\\\"product_name\\\":\\\"MTN Airtime VTU\\\",\\\"unique_element\\\":\\\"09097777124\\\",\\\"unit_price\\\":300,\\\"quantity\\\":1,\\\"service_verification\\\":null,\\\"channel\\\":\\\"api\\\",\\\"commission\\\":9,\\\"total_amount\\\":291,\\\"discount\\\":null,\\\"type\\\":\\\"Airtime Recharge\\\",\\\"email\\\":\\\"<mailto:ayo@libertaleasing.com|ayo@libertaleasing.com>\\\",\\\"phone\\\":\\\"08033984930\\\",\\\"name\\\":null,\\\"convinience_fee\\\":0,\\\"amount\\\":300,\\\"platform\\\":\\\"api\\\",\\\"method\\\":\\\"api\\\",\\\"transactionId\\\":\\\"16273012972470739439660968\\\"}},\\\"response_description\\\":\\\"TRANSACTION SUCCESSFUL\\\",\\\"requestId\\\":\\\"08033984930-1627301296828\\\",\\\"amount\\\":\\\"300.00\\\",\\\"transaction_date\\\":{\\\"date\\\":\\\"2021-07-26 13:08:17.000000\\\",\\\"timezone_type\\\":3,\\\"timezone\\\":\\\"Africa\/Lagos\\\"},\\\"purchased_code\\\":\\\"\\\"}\"]",
+        "ts": "1627301301.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033496550\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 327 206\\\"}\"]",
+        "ts": "1627302540.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627302540.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348033496550\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 735 712\\\"}\"]",
+        "ts": "1627302619.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627302620.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348164525578\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 146 804\\\"}\"]",
+        "ts": "1627302767.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627302767.001200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET PAYLOAD]:\",\"Aliyu Rilwan\",\"22435815693\"]",
+        "ts": "1627302836.001300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET SUCCESS]:\",\"{\\\"account_number\\\":\\\"9977990727\\\",\\\"account_name\\\":\\\"LIBERTA(Aliyu Rilwan)\\\",\\\"bvn\\\":\\\"22435815693\\\",\\\"requestSuccessful\\\":true,\\\"responseMessage\\\":\\\"Reserved Account Generated Successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1627302838.001400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2340903491474\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 505 329\\\"}\"]",
+        "ts": "1627304203.001500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627304203.001600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348137647571\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 834 820\\\"}\"]",
+        "ts": "1627304237.001700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627304237.001800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349062292642\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 698 821\\\"}\"]",
+        "ts": "1627304350.001900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627304350.002000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349034914740\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 376 239\\\"}\"]",
+        "ts": "1627304455.002100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627304455.002200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[OKRA PAYLOAD]:\",\"{\\\"name\\\":\\\"Liberta Leasing\\\",\\\"logo\\\":\\\"<https:\/\/nirra.app\/imgs\/logo.png\\>\",\\\"countries\\\":[\\\"NG\\\"],\\\"billable_products\\\":[\\\"auth\\\",\\\"identity\\\",\\\"balance\\\",\\\"transactions\\\"],\\\"color\\\":\\\"#d54a38\\\",\\\"support_email\\\":\\\"<mailto:info@libertaleasing.com|info@libertaleasing.com>\\\",\\\"options\\\":{\\\"loan_id\\\":\\\"2521\\\"},\\\"debitLater\\\":true,\\\"debitAmount\\\":110000,\\\"debitType\\\":\\\"recurring\\\",\\\"debitStartDate\\\":\\\"2021-03-31\\\",\\\"debitEndDate\\\":\\\"2021-04-30\\\",\\\"debitInterval\\\":\\\"monthly\\\",\\\"env\\\":\\\"production\\\"}\"]",
+        "ts": "1627305664.002300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[OKRA SUCCESS]:\",\"{\\\"status\\\":\\\"success\\\",\\\"message\\\":\\\"Link successfully created!\\\",\\\"data\\\":{\\\"link\\\":{\\\"filter\\\":{\\\"banks\\\":[],\\\"corp_banks\\\":[],\\\"ind_banks\\\":[]},\\\"currency\\\":\\\"NGN\\\",\\\"countries\\\":[\\\"NG\\\"],\\\"count\\\":0,\\\"unique_views\\\":[],\\\"billable_products\\\":[\\\"auth\\\",\\\"identity\\\",\\\"balance\\\",\\\"transactions\\\"],\\\"corporate\\\":false,\\\"limit\\\":24,\\\"archived\\\":false,\\\"debitLater\\\":true,\\\"vanity\\\":false,\\\"link_type\\\":\\\"link\\\",\\\"ignore\\\":false,\\\"multi_account\\\":true,\\\"institutions\\\":[],\\\"projects\\\":[],\\\"_id\\\":\\\"60feb6c5ee23a70985958dfb\\\",\\\"short_url\\\":\\\"nCifDj5A5\\\",\\\"owner\\\":{\\\"_id\\\":\\\"60ba2365ee9c5c0962eb2899\\\",\\\"name\\\":\\\"CONTATORE TECH AND AUTOMATION LTD\\\"},\\\"lead\\\":null,\\\"success_title\\\":null,\\\"success_message\\\":null,\\\"widget_success\\\":null,\\\"widget_failed\\\":null,\\\"name\\\":\\\"Liberta Leasing\\\",\\\"env\\\":\\\"production\\\",\\\"logo\\\":\\\"<https:\/\/nirra.app\/imgs\/logo.png\\>\",\\\"color\\\":\\\"#d54a38\\\",\\\"connectMessage\\\":null,\\\"fullMessage\\\":null,\\\"mode\\\":\\\"primary\\\",\\\"continue_cta\\\":\\\"Continue\\\",\\\"app\\\":{\\\"_id\\\":\\\"60feb6c5ee23a70985958dfa\\\",\\\"tracking_id\\\":\\\"AA-bb6kg3668e-971\\\"},\\\"reauth\\\":false,\\\"options\\\":{\\\"loan_id\\\":\\\"2521\\\"},\\\"current_project\\\":\\\"60ba2365927d04af13577bb1\\\",\\\"past_refs\\\":[],\\\"created_at\\\":\\\"2021-07-26T13:21:09.317Z\\\",\\\"last_updated\\\":\\\"2021-07-26T13:21:09.317Z\\\",\\\"__v\\\":0}}}\"]",
+        "ts": "1627305669.002400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[OKRA PAYLOAD]:\",\"{\\\"name\\\":\\\"Liberta Leasing\\\",\\\"logo\\\":\\\"<https:\/\/nirra.app\/imgs\/logo.png\\>\",\\\"countries\\\":[\\\"NG\\\"],\\\"billable_products\\\":[\\\"auth\\\",\\\"identity\\\",\\\"balance\\\",\\\"transactions\\\"],\\\"color\\\":\\\"#d54a38\\\",\\\"support_email\\\":\\\"<mailto:info@libertaleasing.com|info@libertaleasing.com>\\\",\\\"options\\\":{\\\"loan_id\\\":\\\"2521\\\"},\\\"debitLater\\\":true,\\\"debitAmount\\\":110000,\\\"debitType\\\":\\\"recurring\\\",\\\"debitStartDate\\\":\\\"2021-03-31\\\",\\\"debitEndDate\\\":\\\"2021-04-30\\\",\\\"debitInterval\\\":\\\"monthly\\\",\\\"env\\\":\\\"production\\\"}\"]",
+        "ts": "1627305914.002500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[OKRA SUCCESS]:\",\"{\\\"status\\\":\\\"success\\\",\\\"message\\\":\\\"Link successfully created!\\\",\\\"data\\\":{\\\"link\\\":{\\\"filter\\\":{\\\"banks\\\":[],\\\"corp_banks\\\":[],\\\"ind_banks\\\":[]},\\\"currency\\\":\\\"NGN\\\",\\\"countries\\\":[\\\"NG\\\"],\\\"count\\\":0,\\\"unique_views\\\":[],\\\"billable_products\\\":[\\\"auth\\\",\\\"identity\\\",\\\"balance\\\",\\\"transactions\\\"],\\\"corporate\\\":false,\\\"limit\\\":24,\\\"archived\\\":false,\\\"debitLater\\\":true,\\\"vanity\\\":false,\\\"link_type\\\":\\\"link\\\",\\\"ignore\\\":false,\\\"multi_account\\\":true,\\\"institutions\\\":[],\\\"projects\\\":[],\\\"_id\\\":\\\"60feb7ba3558a30976799eac\\\",\\\"short_url\\\":\\\"R1UK6BgYA\\\",\\\"owner\\\":{\\\"_id\\\":\\\"60ba2365ee9c5c0962eb2899\\\",\\\"name\\\":\\\"CONTATORE TECH AND AUTOMATION LTD\\\"},\\\"lead\\\":null,\\\"success_title\\\":null,\\\"success_message\\\":null,\\\"widget_success\\\":null,\\\"widget_failed\\\":null,\\\"name\\\":\\\"Liberta Leasing\\\",\\\"env\\\":\\\"production\\\",\\\"logo\\\":\\\"<https:\/\/nirra.app\/imgs\/logo.png\\>\",\\\"color\\\":\\\"#d54a38\\\",\\\"connectMessage\\\":null,\\\"fullMessage\\\":null,\\\"mode\\\":\\\"primary\\\",\\\"continue_cta\\\":\\\"Continue\\\",\\\"app\\\":{\\\"_id\\\":\\\"60feb7ba3558a30976799eab\\\",\\\"tracking_id\\\":\\\"AA-b54316e3k6-227\\\"},\\\"reauth\\\":false,\\\"options\\\":{\\\"loan_id\\\":\\\"2521\\\"},\\\"current_project\\\":\\\"60ba2365927d04af13577bb1\\\",\\\"past_refs\\\":[],\\\"created_at\\\":\\\"2021-07-26T13:25:14.851Z\\\",\\\"last_updated\\\":\\\"2021-07-26T13:25:14.851Z\\\",\\\"__v\\\":0}}}\"]",
+        "ts": "1627305914.002600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[OKRA PAYLOAD]:\",\"{\\\"name\\\":\\\"Liberta Leasing\\\",\\\"logo\\\":\\\"<https:\/\/nirra.app\/imgs\/logo.png\\>\",\\\"countries\\\":[\\\"NG\\\"],\\\"billable_products\\\":[\\\"auth\\\",\\\"identity\\\",\\\"balance\\\",\\\"transactions\\\"],\\\"color\\\":\\\"#d54a38\\\",\\\"support_email\\\":\\\"<mailto:info@libertaleasing.com|info@libertaleasing.com>\\\",\\\"options\\\":{\\\"loan_id\\\":\\\"2521\\\"},\\\"debitLater\\\":true,\\\"debitAmount\\\":110000,\\\"debitType\\\":\\\"recurring\\\",\\\"debitStartDate\\\":\\\"2021-03-31\\\",\\\"debitEndDate\\\":\\\"2021-04-30\\\",\\\"debitInterval\\\":\\\"monthly\\\",\\\"env\\\":\\\"production\\\"}\"]",
+        "ts": "1627306326.002700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[OKRA SUCCESS]:\",\"{\\\"status\\\":\\\"success\\\",\\\"message\\\":\\\"Link successfully created!\\\",\\\"data\\\":{\\\"link\\\":{\\\"filter\\\":{\\\"banks\\\":[],\\\"corp_banks\\\":[],\\\"ind_banks\\\":[]},\\\"currency\\\":\\\"NGN\\\",\\\"countries\\\":[\\\"NG\\\"],\\\"count\\\":0,\\\"unique_views\\\":[],\\\"billable_products\\\":[\\\"auth\\\",\\\"identity\\\",\\\"balance\\\",\\\"transactions\\\"],\\\"corporate\\\":false,\\\"limit\\\":24,\\\"archived\\\":false,\\\"debitLater\\\":true,\\\"vanity\\\":false,\\\"link_type\\\":\\\"link\\\",\\\"ignore\\\":false,\\\"multi_account\\\":true,\\\"institutions\\\":[],\\\"projects\\\":[],\\\"_id\\\":\\\"60feb9565b070f0978085f5e\\\",\\\"short_url\\\":\\\"D3BzNMteG\\\",\\\"owner\\\":{\\\"_id\\\":\\\"60ba2365ee9c5c0962eb2899\\\",\\\"name\\\":\\\"CONTATORE TECH AND AUTOMATION LTD\\\"},\\\"lead\\\":null,\\\"success_title\\\":null,\\\"success_message\\\":null,\\\"widget_success\\\":null,\\\"widget_failed\\\":null,\\\"name\\\":\\\"Liberta Leasing\\\",\\\"env\\\":\\\"production\\\",\\\"logo\\\":\\\"<https:\/\/nirra.app\/imgs\/logo.png\\>\",\\\"color\\\":\\\"#d54a38\\\",\\\"connectMessage\\\":null,\\\"fullMessage\\\":null,\\\"mode\\\":\\\"primary\\\",\\\"continue_cta\\\":\\\"Continue\\\",\\\"app\\\":{\\\"_id\\\":\\\"60feb9565b070f0978085f5d\\\",\\\"tracking_id\\\":\\\"AA-4962l01gl1-189\\\"},\\\"reauth\\\":false,\\\"options\\\":{\\\"loan_id\\\":\\\"2521\\\"},\\\"current_project\\\":\\\"60ba2365927d04af13577bb1\\\",\\\"past_refs\\\":[],\\\"created_at\\\":\\\"2021-07-26T13:32:06.930Z\\\",\\\"last_updated\\\":\\\"2021-07-26T13:32:06.930Z\\\",\\\"__v\\\":0}}}\"]",
+        "ts": "1627306327.002800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347045721572\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 432 252\\\"}\"]",
+        "ts": "1627306935.002900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627306935.003000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348156653211\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 454 965\\\"}\"]",
+        "ts": "1627308178.003100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627308178.003200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348156653211\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 208 570\\\"}\"]",
+        "ts": "1627308287.003300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627308287.003400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347057136722\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 154 374\\\"}\"]",
+        "ts": "1627310055.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627310055.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET PAYLOAD]:\",\"Saheed Odunowo\",\"22177226766\"]",
+        "ts": "1627311064.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET SUCCESS]:\",\"{\\\"account_number\\\":\\\"9979072920\\\",\\\"account_name\\\":\\\"LIBERTA(Saheed Odunowo)\\\",\\\"bvn\\\":\\\"22177226766\\\",\\\"requestSuccessful\\\":true,\\\"responseMessage\\\":\\\"Reserved Account Generated Successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1627311066.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348063555255\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 208 161\\\"}\"]",
+        "ts": "1627314467.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627314467.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348101173467\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 101 299\\\"}\"]",
+        "ts": "1627315747.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627315747.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349135037081\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 466 681\\\"}\"]",
+        "ts": "1627318494.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627318495.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS SETTLEMENT INFO]:\",\"{\\\"sessionId\\\":\\\"000015210726175548001890624699\\\",\\\"accountNumber\\\":\\\"9980342362\\\",\\\"tranRemarks\\\":\\\"FROM ZENITH\/ KELECHI CALEB ITESHI-Me\/000015210726175548001890624699\\\",\\\"transactionAmount\\\":\\\"4900\\\",\\\"settledAmount\\\":\\\"4900\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"null\\\",\\\"settlementId\\\":\\\"209210726001720800001\\\",\\\"sourceAccountNumber\\\":\\\"2282810311\\\",\\\"sourceAccountName\\\":\\\"KELECHI CALEB ITESHI\\\",\\\"sourceBankName\\\":\\\"ZENITH BANK\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-07-26 17:54:29\\\"}\"]",
+        "ts": "1627318562.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS SETTLEMENT INFO]:\",\"{\\\"sessionId\\\":\\\"000015210726175721001890628669\\\",\\\"accountNumber\\\":\\\"9980342362\\\",\\\"tranRemarks\\\":\\\"FROM ZENITH\/ KELECHI CALEB ITESHI-Me\/000015210726175721001890628669\\\",\\\"transactionAmount\\\":\\\"79\\\",\\\"settledAmount\\\":\\\"79\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"null\\\",\\\"settlementId\\\":\\\"209210726001722600001\\\",\\\"sourceAccountNumber\\\":\\\"2282810311\\\",\\\"sourceAccountName\\\":\\\"KELECHI CALEB ITESHI\\\",\\\"sourceBankName\\\":\\\"ZENITH BANK\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-07-26 17:56:00\\\"}\"]",
+        "ts": "1627318650.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"ODI LOISE NWEKE\\\",\\\"beneficiaryAccountNumber\\\":\\\"1471297065\\\",\\\"beneficiaryBank\\\":\\\"000005\\\",\\\"transactionAmount\\\":\\\"2100\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"07068063494-1627318790761\\\"}\"]",
+        "ts": "1627318790.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"07068063494-1627318790761\\\",\\\"sessionId\\\":\\\"000023210726175940005009820330\\\",\\\"responseMessage\\\":\\\"Transfer_Not_Successful\\\",\\\"responseCode\\\":\\\"32\\\"}\"]",
+        "ts": "1627318792.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349135037081\\\",\\\"message\\\":\\\"To login to the mobile app, use this pin 6960\\\"}\"]",
+        "ts": "1627318957.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627318958.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"ODI LOISE NWEKE\\\",\\\"beneficiaryAccountNumber\\\":\\\"1471297065\\\",\\\"beneficiaryBank\\\":\\\"000014\\\",\\\"transactionAmount\\\":\\\"2100\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"07068063494-1627319021859\\\"}\"]",
+        "ts": "1627319021.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"07068063494-1627319021859\\\",\\\"sessionId\\\":\\\"000023210726180331005009820532\\\",\\\"responseMessage\\\":\\\"Transfer_Not_Successful\\\",\\\"responseCode\\\":\\\"32\\\"}\"]",
+        "ts": "1627319023.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"ODI LOISE NWEKE\\\",\\\"beneficiaryAccountNumber\\\":\\\"1471297065\\\",\\\"beneficiaryBank\\\":\\\"000014\\\",\\\"transactionAmount\\\":\\\"2100\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"07068063494-1627319285502\\\"}\"]",
+        "ts": "1627319285.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"07068063494-1627319285502\\\",\\\"sessionId\\\":\\\"000023210726180754005009820746\\\",\\\"responseMessage\\\":\\\"Transfer_Not_Successful\\\",\\\"responseCode\\\":\\\"32\\\"}\"]",
+        "ts": "1627319287.001200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"ODI LOISE NWEKE\\\",\\\"beneficiaryAccountNumber\\\":\\\"1471297065\\\",\\\"beneficiaryBank\\\":\\\"000014\\\",\\\"transactionAmount\\\":\\\"2100\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"07068063494-1627319437980\\\"}\"]",
+        "ts": "1627319438.001300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"07068063494-1627319437980\\\",\\\"sessionId\\\":\\\"000023210726181027005009820892\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1627319440.001400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[LOAN ERROR]:\",\"{\\\"product\\\":11,\\\"loan_amount\\\":5000,\\\"tenor\\\":1,\\\"loan_purpose\\\":\\\"18\\\",\\\"tenor_type\\\":\\\"monthly\\\",\\\"selfie\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv\/bAEMAEAsMDgwKEA4NDhIREBMYKBoYFhYYMSMlHSg6Mz08OTM4N0BIXE5ARFdFNzhQbVFXX2JnaGc+TXF5cGR4XGVnY\/\/bAEMBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY\/\/AABEIAfQBdwMBIgACEQEDEQH\/xAAaAAADAQEBAQAAAAAAAAAAAAAAAQIDBAUG\/8QAKhABAQACAgICAgIBBAMBAAAAAAECEQMSBCETMUFRBSIyFEJhcSMzgVL\/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP\/EABwRAQEBAQEBAQEBAAAAAAAAAAABEQIDITETEv\/aAAwDAQACEQMRAD8A+XUIEAYAAGQAAxQAEAZGAAAGBDAtAwAAAAAbAqjfs88tRnMvYNgUpgQoAEVOlQIAlQaKntN+wBGQAA1BADACAwAMIAtKICAApnEyqEBkYAAANAyRTgoAEYAGAAMAAAAABkABjQM8sdxlJ\/Z0WMpj\/fYKihoAQMqgVKmmqAgSg2VK0uwHaIn7OCGchGoZlFIEZ6AoAMCB0hCBgVEUnsOwixEzI+wK2E7PYqgnsNoKBbHYDBbGwUC2NgoFsbAzLY2BghtAwDUKwtKJBNBkKQMgFiKuoqoVTVVIJyTo8kyqGpKsQVIrRQ4ByGAAMAAASAAJQAAGOzR2PsCj2jsfaIHs9p7DsCpT2nsJQVsbLY2B7G6Wz3BT2fZOxsFdj2iU9gvY7J2W0F9qNp2NgvtR2qdgFdqVypAD7Uu1IArsOyQB9itA0oWyp6GgRZsTHS7CBPVUmgAM9pALlh7ZgGmx2Z7GwabG2exsF7G2exsRYRsKOf2JtRoEV2rQ0BBWgCd09notAexsDQo2LlRoaAbo3T0NAN0dqehoC7UdqehpAuw7U9DQo70d6NDQH3o70tDQH3HcriWgX3KZp0NAv5JB8kZ2Dqo17wu8Z6GgadoO0ZaANe0LtGeqBGvaDtGXsA12Nxl7G6DXY2y3Rug12GW6N0GoZdqLlQaBn2ChGDRAAAAAAAAAYMUSCz2AABgUjBoEDMCKmNANDRgE6PRgCJQBIMAkGAIlDQJ0FEoQ0DAtEotCENGBS0NGQhaGjIBoaBgWgKFBARohgAAeiOANAwKKAYAA4igAAD0NAUDRiANA9DSBaBnpROhprjxZZfUbTw+Wz\/GiOTRVvnw5YfcZWI1idDSiVC0SgIkGATQYBOjMAWhowIWiMCpBhUIjGgLQMAQAUIyhsoAcGlAY0BQZHAAMhTAOIAQGABqxxtvqI1JqdKmF\/TfDi19rkk+omu3Pjb+ueceV\/Cpw5V0bk+x8uH7HX+MjPj8a5ZR1YeFhh7z+h43JhOWbvp3cmOHJ\/vixy9OM\/HNMsMPXHjP+66vGuVwtz+v+kY8fFh7t7U8ua61JqDlz59dX5HP5eMyv1HmcuHWvVyxuX24OfistqPV155y5NEvKaLSvLUgwrKQYESDAERgCBkBAwBAyVCJQBIAAAAEKhGiKGi2NqpgADAPQCAjFBg0AZLwm6LJquPC2urDjmMZ45dPw1x5cb9s17PPjPp9T6+jmU\/FP7ZemOfmls1E4cFvuu7i8XLky9R6\/ifxX1c\/SxjqyPC4\/Gzy1qendxeFy2bmNr6Ph8Tg45P6y6dE6yaxxjUjz9dx85j4HN\/8AhX+h5fzH0PW37Hw41cSetfN3wuX9M+TwOTLH3jX0uXB+meXFZ+D\/AC1\/XXx3P4PJhf8AGuPPiyxvuPuc+LHOayxef5X8ZhybuM9mMWSvkrBp6flfx2fFv16efnhcb7iOV5xmStErBEohCLRgCIwAIGBA0iAUACIUKAFQBQyMQGRigwBDgAFMA0UGRgcbcGO6xn26+HHUR185taZcfaMZwW5OnGrxxuV1GXujPj49ep7r0PE8LLls3NRv4Xgy6yyj1+Ljxxx1JqLOWe\/TJ8Z+N4uHFJ69uzDGljIefNhxTeVjpI8t6t\/WmOM\/Iyyxwnux5XlfzOGG5h7v\/Dyub+S5+S3WWktZfQ8nm8eH3lHLn\/McWP8Auj53LPPK7yytTpNH0M\/m+P8Abp4f5Ph5f98fJ9fapvH6ujUfaY58fJPVlLLh3PT5bg87m4bNZbj1fG\/mcctTP1TVldfN4+Ocsyjx\/P8A4n1csJt7uPPx8s9WFlJ\/8VufXwvPwZcWWrKxfXef\/H482NuM9vmvK8XLhzssRjrlylo9AcyKmKIQAAgAASotCEAQAjpAAQUBkYgEBig4QAzKGBgj2ihUKL48d1FkacWG\/bonqFjNReM3UevjnF4Y23Uej4nBJZubY+Nw\/T1ODj1GpGuu3TxzWLWXTLfWe3F53nzixuON9tONrr8r+Qw4MdS+3h+T53Jz5X+1kcvJy5cmVuVTGbWF\/ZyDGLkQTo9LmKpigz6lcW3UriIwsH01uKLBWvD5XJw31bp63ifyOPLOuV9vBsEyuN3LpdWV9V2mU3Hn\/wAj4mPLhbJ7YeD531jnXp7mePr2rW6+N8nhvFnZYwr6P+T8OZS5SPn88LjlZRz6jMGQwQMhCAAAj0QgLRkBAyAqAFCMQIhnIRxQDQApmQQMaAFVjHRwYfmsI6+P1ijp5z6tv4\/Hu7rHGbykeh43HvSyPT1cdfi8f\/DumsYz4pMI5vO8ycWNkvtt57S87zJx42S+3icnJc8t2jl5byZW2pjFrOnF4xMXiyrTGNZEYtMRVSKmIxaSAz6lY36pygMLEWNcoioMsoyyb5McwRMrjdx6vgebvWOVeTRjncMpYo+ozxx5MP2+b\/k\/G+PO2R6\/geXOTGY2n\/IcE5eO3Sj5Wk158LhnYyVilSMDJEYAUjSIKRgCKmQoA0FRMMQ0QGAAMAUAADAOCnHTx5enNG3F96HTi47uCb09TxsdSPO8efT0McumDUavWr8nypxYX28Tm5suXO21p5nPc87I5p7LXNUXIWMXIwCReImLTHFGjxaSFji2wwFGEbYQ8MP+Gsw0COqcsW\/VOWAOPOM66s+NhnhpFYZMs46MsWWWIOeprXLFllFRp",
+        "ts": "1627321074.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "43LeLll36e\/x5zm4vvb5mvR\/j\/JuP8AW1Uc38pw9c7ZHm17\/wDI4d+Ps8LOaulSoBkMgjAhEYAiMARHSAgewqJMjAwAgYBgADFGgDARvwTeTF1eLj7Irv4MVeVy9OPR8OPpx+dnvLTY5u3a2rxiMYuViq1iplGc9nq36ZVvjlGuGWLjuGcE7QV6eGm\/Hp5OPNlG+HkX9ivVxsaTVebx8+\/y6+PmB06HSVE5Yd5pATlgw5MGmfPi5eTyBU5xhnDz5\/2wz5dz0iHkzyxRc8v2O9VEZQ+PK48ksp32zv2qPav\/AJPH9\/p4XkY9eSx7Pi5duHTy\/Ox1yqlcgOkIQMCERgEgyAqR6AiaDCiTEAGcI4BgBAQ9AxQYCAjs8X8OOO\/w59NQd8\/rht5XkZduWvR58+vFXl5XeVq1TxXImKlZo0xjbDFjhfbo4\/wy01wwlnuHnwyz1F4+oqZQHDlxdamTTt5JMnPnjr8CljdV0cfJduXXt0cM9o07McrYnPPS8MP6suWatBjyZ39ufLK1ed9o0CNbOYba4cdyrpw4sZPasuL4PX0m8Wo9HLCa9RzcmP8AwDjsRY2zntAjs8G\/005PPn9638PPV0w8+\/3aSuKkYRCKmehEkogIlVKhaBlRCA0FEnCAGYhoAyioBaMyFMA0BHoeHNY7cGM9x6XjzWLUWF5mf9dOGT238nPtlr8MpCqJdDsWUrPLcZG+Ocl9t+Pmk\/Lgm6Mu2NB608jDX2V5pfqvKx7W\/bt4+C3DtsHXjnv8ruP9duPC5YZyOnLk3hoWM7Pbfh9WMMWuN0xW3o48kmDl5st1M5LpGWWxWV+1Y4prTCzoRDmUxOc7l5eWSsbz5T3ppmvV+S1hzZ+\/twzz7j60WXmTP8Lia1zy2y2j5ZTlQb+PlrNn5l3mOG\/+SF5U\/tGolcwMqiEDICpGQhAxVCIyAgACQDVBDhKgA4RopgjAwDBWHvKPQ48pMNvOw\/yjqzz64aIsZ8mXbOlExpCqcx2V4ezXCNcZGVcfxXGjpLfbtuMqfim\/oMZ8XFw4z63XR2mtSekzCRVgYn0R1Foq4qVnGkjLStlaCqKaaNje1RM48N7s2OTCXCyRUXJ+mma8rk4spb6p8PBb7y9PR5O+tajnuOd\/C6mOblxmN1Bht0fDbfcK8XX6QwcV1yRXlz6RPV2fNl2kWJXPQdIQJqiAiMgIHSVAR0gIGBGcMlRQGABiCGikcIwMAArH\/KNuS+mWH+UXyipjTFli1xqVWmNbY1hi1xrLUbQ9JlXjBRotbbY8dtbXjxww3VHBnNFhh2vsZ5duSsufmvHj6Qdcwxjo4eLHKvFw8zeXuvQ8fn39Uw16P+llnpz83B0a4eTqe2XN5PYVy5Y2J97GXkYy+1Y8mPJPSAi4eGOzuOlAOs\/Qh0GdxjPPH01yY50HPnNMq2zZZLGKikolZIqZUCIUKEABARkBAwDNUI4rIMjFVAIEAABSMj2DTj\/yiuVGF1djPLdFOLlZY1cRW2Na4sMa2xrLUdGDowjmwrowyFdGEjPystcdOZ6Zcl772Dz5lrI+Xi+XH02y8eW+mvFxdfug8bk8fPjv028XPLG6r1+THHKa1HJyeN73iqYqcvr7c\/keR1npc4s560c8Xvf7Irzrnlnfy6\/FmWM9u7DweLHHf5Y8kmF1Io24c\/76deWMsefwbue3o43eKKwuOk302z1WWQMs6yya5sMqgzyZZNMqytajNIjTVYBAAVI6SgpGBEg6QAAAWiMKyRwhsVRlDQABCmRwAN6TcvZ1OvYNMVys8araK1xb4OfCtsajUdGNbYZOXGtcaiui5ekXJnci2K17DuylUC5bWkm4xla45KK6pvpXaaRllAPtSuOOX2nZbBeOOOP00mTDsqZora1llS7IyyBOdYZ1plWOdEZ5Ip5VO1ZppplVZBAlADIAR0CJoAAtAwCSAVkEZCqlGygQUCAp7BADpAaA4ZRQqsa2xvpzxpjUVvjWsrDGrlRWmzmTK5FM5sNbyrjDHNrjlBWsivpEyh9oKrZUtlaBfQ2VqbRFWl2RaVoa17IyyR2LKhoyyY8mSssmOeW6GlaRGrJgAQgZACAAAEqAjIAAAZgoaoDI4AAOACMAAAgeOPbKSN+bDHDGSfbCWylllb90U1T6ZyrgoVKQBrjWm2ONaY+4io5M2c5PbouMs9wpx4S\/QIx5K1xzyaYTGT6a44438CsZnn+lzkrqw4Zfwv8A08v3BXH8hXlv5rrvjYs8vGxFc\/ybTc2ufj4\/hll4\/r1RC+Qd5WWfFnL+yxwz37gjbZXJMuiyvoTSzrM77KgRkaoAAgAQAABUBGQCkYAgVAMzI1ZBkYpgjAAACBhAEYBKpU0SitNltOz2K0la4VhK0xoNMqUy9lvZVBtMmuGVjj7WNMOaT7Felxcum85ZXnYcuP7aTln7Gnf8mKcrhpyTPf5GWe\/yKeeU36ZZZi2fmsc+SfgSquXtNy2z7Wjasipyp2s7d0QytBUAYkPQhAaAAjAEAABGQAjIAAAZmej00ynQVoaQTpQ0egIHotAQPQ0BGNAE2JaaRljRS2e0nBVyrxrOLiDWU0RURR1K4VrIqYiuWzKfWxvkn7duPGr4pRXDM+T\/AJVOTP8ANdV4Zv6TeL9Aw3lZ7pzFr00VgiPotnUWqgyqdikoYhRciIIojArC0oaBOgrRWAVhaUQER0AkaPQBIVoKjPsOxQKyqU7kkCqlPaYaB7LZAD2NloaA9jZaGlFFlrRFfcQY2+zlLKeylFayrjKVpjRWkXj9s5VSorfFrhqsMa0xy0iunGRUkYY8ipyINbrTO6Lum5ClkzyXlWWVVE1FVai1UTSnui0sP8lRtjh69r6iX0exC6n1Gz36AahaAQPqVxPZbULqXUW0SgOpdD2NgXUdRaNgXUHsCOSZQ7WXsbqjWZHtj7HsG8yPbDdG6DehhvI5b+wbjbDtlPyfaorXZ7jDtR3qo3K\/TLvR3tAVNihYipnpcqLBLoG2NXKwmS5kiujHJUyc8yVM0V0TJUyYTM+4rbuOzHsOwNLkm1FyK5CHlWdouRa2oWtrwnsSHvr7VGs+gz+XH9j5sd\/YjUSsvmxE5sf2DY2XzYD5sP2DSpyykiMubHX2z+TG\/dBpctqlZzPGUXkx\/YNNhl8k\/Z\/JNfYNAz+WfmicmP7BpoI+XH9hUcuhoGBaPQADR6I0C0DIBoaMClotKAFoaUNAUMaOAmxFjaxFxFZfRzI7E6BcyOZMxsGszV3YbPsit+47sOxy2g17l2tRI1wxA8YuQ5D0oScpuKAjLoPjbzDdO8dxvuIOf4x8be4Wfgrj\/wAGmMfjE42uiBn8ZfG2GgY\/H6Lo2GlGHxjo29FRGXQujUqDPpsNAoyOAxCAOAAAKADAgYk2gSpirHE+oFMfSa11\/VFgJVC0cFMriqHoGGURY6csWWWPsGXUdWsxPqDDrTmLfp6EwBlMVTFr1HUEY4tsYWOO2kx0KNFYrQqCND8qIRvw3Hr7ntUnyZ6\/DHB0+LhlllbJtKrf48OTHrJq\/tnh41u\/c9NfkmM6dZaML1u8sWNVx83FO2pr\/wCIvBdN+Tc5dzH\/AOOni95y5Yyf9rpjzbw5z6m0Z4ZY\/ce75GfBhjLJN\/l5fleTxZZamKymOMDPll9TFHZtFaKjsnsoaaey2IAW4ASYh6RlJn1OQUguSDrAZmq4\/o8Md1QY47XMF44rmLKs+pWNbE0EWek6aWeikBlZ7OHkIBRcScvtRVibi1hWCsepzFejiInQ6tIAR1HX2sQU8cdKEAJpHlSgDRKT+QVhN3Tv4+PPDGdbq1x8OO843yzyxvWXdZqwbvDzTt7sdc5ccs5yWSz9OPHg5efL17qseLPDk6W+2FdfPj8+rjJNI4s8MN480v8A2zzt4MbcstV5\/keVlyepVkVp5nPj2uOFunHaRNyIVG9Q9FY2icsk9j0VioW6NgaAbAAN5Dktb3CT\/teOPX7jnrOMsfHzyx3rUF4M5N69Oq5W4ySpyytnW",
+        "ts": "1627321074.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "\/SauOKzQ26bxTJF4ffpdVjtrxTdRlhcb7acPra6jXRmm0CqKdpCjWxYqQqIzyicV5fScfsFXH0j6rbXpjnNUGmC\/wAMsK0lFKwlVIGZARUORMXBQVp1GVArVYxE91rjAFiZPbS\/TP6oNOLG3L06eDrOW9vtn4kuWc6nnxa58pldM1Y3\/wBR8ed+P\/Ks8uT498nJf7VGOePBcsvv\/txc3Nly5236SRoeRz5cuV3fTA6TcgD0cgqomwlFpUTU1pyceWOPaz1WVEKkZKAHJsA9KTpd5e8v0ucWeePe+oXX37a553LU+p+nDRGtIzv4kbZamO\/ouLh749gZYy1eOF7RpMet+tKueOON\/ZqsOSS5fSZjo7d20rVlQVFp1FrQFSJxaT6AvoUsvVH4ERmjD7Xn9M8P8lHTJ6ZcuO5trPor7grnxvttixymq046C8p6Z1rfpHUEnKOo0CoqIlXiB1lfteSZPYKwmllPo9gd+mWV9tLfTPW8kHTw8nxYzX2rjxvJcuTPL0MJjeO7nuOXl5bJccbqMtQubk75an1GOjgajSaId9jTQQMhKTXg4\/ky+mclt9PR8THHC6s+0tRz+T\/XjuGnBZp7fmcMz47cZ7jxc5ZlZWeaWIoMadIyAYUethN5SVWcky9APOMeS22R0eL\/AOsAD576c4AqP9ysoA1EZ1nfsBoVg1ABGYn0AIz5PpGH3AFHT+EgCs+Qcf2ADa\/SAAUjIAC\/LTD6AAZpAAxsAFT6GM\/vAEG3Nbhh\/X1tw220BlqAANxooKAKQAVmuvwuPHK22OrCSZgM9JHZhJ1vp4PmSf6jL\/sBjn9armv2L9AO0YIAKj\/\/2Q==\\\",\\\"id_front\\\":\\\"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv\/bAEMAEAsMDgwKEA4NDhIREBMYKBoYFhYYMSMlHSg6Mz08OTM4N0BIXE5ARFdFNzhQbVFXX2JnaGc+TXF5cGR4XGVnY\/\/bAEMBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY\/\/AABEIAfQBdwMBIgACEQEDEQH\/xAAaAAEBAQEBAQEAAAAAAAAAAAAAAQIDBAUG\/8QAKRABAQACAgICAgICAgMBAAAAAAECEQMSITEEQQUTIlEyYTNxFCOBUv\/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME\/8QAHBEBAQEBAQADAQAAAAAAAAAAAAERAgMTITFB\/9oADAMBAAIRAxEAPwD8oLIaABUBFAAEUNKAgoAigBQBNGl0AaFNAAAqKAKigVmtIDIqAgoCIooiKggCwCotARKooyKIICqqCgNRUVEAABRFRQAAAFACQWAml0KCaTTRoE0LoARrSACgIKAWJpagMipQQXSAmkaTSgi1BBUUEKFBEVNqKgIAKCAKrYCIiwUEUWIqLAABQAAFAAFQRQABRUFBEBQBQBmtMqIKgIjSUGRUUSooCLRKAioBUVFFAQRQEA0CtKkVABVABBQECQUURQAUEEUUEUgKAoCKAmlAAAQQARK0mlVEUBlGqzRBFARPtplQqFAAAAUAAAUBRI1EAFBFFAAQAUVFAAFBFAAVAWAAAACgAJaDOV8kYzym2sbuA0gAIqAiKiogAJamyooCLABQAFEIKCoLoBFRpAVAFEUFARRUWAAoCoAKigAQBUAUEBUABKpoHm5JZW+KWReafxn\/AG1jP4wFRQEBAKzVqKDNqs2iFqWlqbUGozGgUWAJpZFUEFVBAAZ2u3GZVqZKjptduXZeyK6G3PtTsDrKu3LsdhXVduXendB1Nufc7g6K5zM7g6DHc7g2rn3XuDYx2XsDQz2OwNKx2XsDQkyhcoKlmzRstgJUXcAQNpaCVKtSgzWa0zVRhRKDcajOLQLFIoEBQAAShQHm2Sue12qOi7ct07UHXa7cux2oOsq7ce1XtUV02rl2p2oOu1249l7IOu02x2OwOu0c+69wdFcu5+wV1iuX7D9gOo5d17g6K5zM7wGxn9kO8BrdRO0O0BrZtmU2C7NpuGwF2loCGgUTRYptAi7QVF2SoAvZezIDXY7M7QGuwyA4SKKqCaVQZ0uhUE0aUFTRpQE0ulATSaaWRBiYrpqgrPU6tAM6XSqDOjTQKzo01oBjS6rRoGdU8tKDPlny3o0DPk3WtJYIzunataNAz2p2rWk0B2p2po0B2p2qaNAvY7Jo0ovY7ppNCNdzszoBvsMAIQFRVSAKIqKAAoKggoCKKKiigmjSgJoVdCoaXQCaNNaNIM6GtLIKxo031OqozpG7GdAiWNICaFBERrSAgujQILpAEU0CJVFRKi1FAUBhZUJBGhFQFAUUEFAADSgEFFAUAFBFFFTSyLJt1w4t+ajfPF6\/HOY2+mv116McP6TL+M2j0zwk\/XKcGVenh+DllhcstyOHHnnvd9PqcPycL8b9eW5RnvyyfTy4\/F4sZ5u3Xi+Nw8nJMet8\/bvMOHW92tceeOG+s8\/VVwnn1f48Xyvh48edxn0+fyYda+xyy8m79vm82NlssR3vlnLy003YzpXnsZFNKyiLQERSiIKAhoFGdDSCIjSAQQUc2oigoioigoq6NAgKgCqiiiooAKAqKKjU8pI68eH2jXPO104uL7rtrTjlyWeJGsMM8ma93HM5jruaY\/XeS7078Pxss7rVr6\/xPxu\/Oc0Olsj4\/H8TPPWo9\/B+L5cp5x1H3uH4\/Hx\/44x31\/prHDr0fEx\/F5yefBfx1n2+3MZPa2Yf6GPkr4N\/HZf\/AKceb8TlnPFm36DLjwvpi8Vnpca+Tf1+P+R+O5eK3eLxZ8eWPuP3HJxS7mWO4+d8v8ZhyS3Cao53mV+VsSvd8v4OfDbueHjs1UcrzjGhqxlWBFKDIoImhUURGk0IiVSggQUc1FQFRYIKAqiCCrEUBUUVQAUAVVk2kduHDaNc87V4+P7rtMfqNSN4YW1Ht44nMZw4\/Pp7\/jfCy5LLZ4dfh\/E7WXL0+vxYY4eoYvXWOfxfiY8U9eXuwwmmJZPbzfK\/I8fBLJZa08\/XVr3244Tdunk+R+R4uOe918P5P5Hl5rdXUeLLLLK+bTWX1+f8xd\/wjyZ\/lea+vDx6TqiPZj+V55fb18H5q7k5Jp8jqaB+r4fmcPPPGUbzwl8yvyWHJlhd42yvf8b8rycepyeYasr6vPwYcuNxzj4H5D8XlxW5YTeL73F8vj58fFjWUllmU3Krf",
+        "ts": "1627321074.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "1X4nPG43VYfd\/KfjpN8nF6fEyx63VHLrlgVBzTQqAQEEEVFBKAIAqMRSCILBYAqKKiggKEFUFgAAKCwVrDHtXrxnWOPDPt2qPT5T+umHm6e743B5nh5\/i8durX1\/jcWptZHTrp34MJhi65ZzCbtYuUwx8+nx\/n\/ADrnlcML4VyvTv8AN\/JXdw47qPmZZ5Z3eV2573fKxnWNbjcxTGOsxQYmK9XSYr1By6s3F26pcQeexmx2yxYygHHy5ceW8bp9X4fz5yTpn7fGqY5XG7l1Q3H6TKTLGy+ZXw\/yfwulueM8V7fhfNmc6Z3y9fNxzkwss3KrW6\/I2MvZ87494eW+PDyVXKxEqoMgIIJVKCJVRUQUBiLEWCCgKLAAUEBUBVVAFVFgGlgorvx+I7cUueevp5+P093xsPv7o783I9\/xePdn9Ppzrx4f6jx8EmGG3m+f8zU6Y1pLU\/IfO7W4YXw+bvbNtt3VjNY1Y3izI3Iyrpi7RxxdcUVuNyJjHXHFRzuLGUei4uOeOgca55OmUc8kHLJzrpk52AY53DKWXzH2fg\/LnLh1yvl8St8HLeLkmUVNfV\/J\/HnLxXKTzH57OatlfqMeTHm4dzzuPg\/kOH9fNdeqqV4krSKwiKCILWVAARAAYUUQBRQAFgCCgCgKAsRYCqiiunFvtI+r8eev9Pm\/Gx3m+pwTUWNSu\/Nzfr4rdvj553PO2vR8\/l3ZhK8mK1ddMW5GcW96YRvHFuYuePJJ7dMeXGIrpMdOvHhuuWPJjZ7d+HkxntFd5x6a6szmldMcpVE6MZ4bd5Yl0K8PJx6ee4vfy6\/t5c5Ig82WLllHfOxyuUqo41muuUlc8oI9f4\/5PS9LfF9N\/kuOZcXae4+fhl1zlfV5Ncnxr\/0qPhWJWs5rKxlWUKAgiooIqCIKAwqKIKACgKAsQFiKKAoGlABqMtQHr+JH0sJ149vn\/Em3t58\/18F\/6aivmc2Xflyv+zFznmtxKre2oxHbjk2yqziuUYy4csXrwnhvW\/aK+d2yxrphy5T7duXhmtx57hqg9WHLa9HHy2x4MPD1cMtRp6v23TGfPZ9plLI4cl0Byc9cMua\/2zntnruiJeTKsedvRh8e326\/okio8e6O3JhquN8UHPJ9L417fH1\/p8+x7fhX\/wBdixHzeea5cv8Atyej5M1zZf8AbgrKCoIgqAiLoUQBEZEVUUAVRFQUJAUUNAoALAEUaiLAe\/4U\/jtr53J\/CYz7PjTrxxw+Vn2z1\/TSuEa2mmctxKOky1Xfjyjw3Or+zKeUV9fDOa9pln\/t8mfIzn278WXJyTcDXu77Yyx8befHlsy1fb152frk+0WOMnl7Pj\/W3ljthlplp7OWzq8PLl5dcuS2OGfkGNbbwkl8nHJ2Z5Mpjb5WJXpmeMb7Sx8390l810w+ZjPbTLtzaeTP21yfIxyviuNzl+wWu\/w89ZXF5tunxrrlIMfK\/wCauDv8v\/lrgrKJWkoiIoCVFRRBQRiAoEBQIqKgKAqwItBFiRUDSiio3hN5RlrD\/KA+hhZMHjzu87Xfkz68bzSq03IvTZi64RKPLlwXe4nTU1X0JjKXil+k1ceLi+PhlfNezjwxwx1jGpxSLdT0umOdwx3vRburkztFaalYktbmN\/plVt8M2tXGsWCnrzHPkx75b23sWI5\/plxs15ePl4s8b6un0sYmeOWvUrTNj5nHhcr\/AKW7xunq\/XlvxGLwXe6Jjnja68F1yxOnUl65S\/0DfzJrkeWvZ8zWUxyeSqyiVQRkWoCU0oDOhRUc1TQDQRQAVAiooqiAKsSKAqCCtY+4zG8P8oK689\/jI5Yt\/J8WOcVXXF1wrjK6Y1mrHpwu3Rwwy06zyjS1NbbmLtx8cmO6o8XLOvhMNTzV585eavN8q2YzSD198Pp6\/j3jynmR8DDmyxvl9H4\/Nub2Ya+pnx4XG+I8PJjJVvPde3k5vkau9iutwvuJHDj+Vblp6cbLlL\/YLj7dJfBlhrz9MxUasjnlHTbnlRXHPGOGcd8645DNZzzuWEx\/pyarLTIlaZoygAIKgIAowaa0DKKaBRQAUioqCmgIqKABsFb4\/wDOOe2sbqit\/Iy3nIxKnJd3ZjQdJXTGuLeNZaj04V6OP\/byYV6MKjT1YTz5dM7rjrlhl4Zzz2K8HLvHktbxwnLjqu+WMvuLjrH1BHg5fg3G7hxzLj8V9C578M3jxy9xR5LlbPDz3h5M8vT6P6sZ9NYaxy9A8HH8e4XeTvMtWR6ead5uPPjw3tuoPdP5cccssdN4XU0ZCuVrlnXTJxzoMZOWVbyycsqrNZqFFZKyqKghQQQAQKKGjTUUZYGrEFQBBY0zGhUFTQAUAPsTYNFTa\/QMW1rFmriK6NY1iNRFejGuuGTz411xqNR6ZmlzcuybRXS5bNsSrFG5W8axIoN3WnO3ybZsBrssyc9mwdpktycJl5a7Amdccq1lk55UGMq52rlWbVZtQSLtWRKAJQBEABAFBdpKoyAgqoALFjMVBoQtFBNgAICgsm7JAZq4unNw\/rxlt81ygrobSeSoOmOTrjk8+NdMchXfZ2c+7llyeUXXqmTcyjxY55W+HWZVR6+80do807fTW8oK7bLk43OsXOz2Dts7OP7C5g6Wr2cpnDsJrWVcsr4XLLw5ZXaGlrNEtaZWKQAEASi1BBABBRRiNSoDK7NoCqIAqpAFEVFAQFQoA1hl1yl\/pkB05uW8ntyhUgOkqsbXYq7blc2pQdcdb8reLG3bnK12B248ccXbGY36jzY579umOXkV7MOOWNXhx048fNp1\/ajSfpmvTlycU+47TnkcuXk7CuGXDjrx7cOTjyx8zy9Ny8MXKDNebCZb9Om2ss45WqhlWS1BCs\/a1YCxAARQBAEEUBAFGSgMgAoACxQBFKgACKAACAFRUoG12xKuwa21K5twG9m0hoU2s5LDR1FdJ8hufJmnm\/VafqyiK9U+RiXnxeT9eUWY0NejLl36c7lWJNFVGtpaiURdjKgVYixUUQRQAApCiAIAAowLo0rIAgAaFUIoAACKAIAIKgAqAxl4SVc\/TEuqK6xYxK3KDcbkYlalRW5G5gzjW8aitTBeqzKLsHK4J0dLUBxyxYsds3OqOdZreTFVATZBFjSaAURUBBQIEAEAAAEkXSbNtMro0djsBo0uzaBpF2oqI0gIKAgoDNNNaNAyjVhoHPJzsdcozoGJW5WMpolFdpW5XGVuZA7StSuMyamSK7TJrs49jsiu3ZOzl2OyjWVZtZuSWiFrFq3Jm+VEbxjMjeIjUNEUGVBBBUAAUSigIADIz2XasqJ2Ng0Js2CqbUBCrEEi7WQBNm1TQJtdpo0KuzaVATLzU0pAZsc7i7aZygrlvTUySxkHTs12ctnYHbuvZx2vYV17FycuxsHTslzYaxgL7akWRrQiaWQaxBNLpqKgxo00oMaSx00ijGit6TQMFb0dQcxvQDxyVfLUXTTLHld1rRpBndJWtGkU70700aBf2Ve7PU6g3+yL3cutXrVG+8Xu59V6g6doSsTGtzFAqa8NaMhWSLpIDUiWLFBxyjFjvlHOwHOxnTrpOoOatdV6gxpqYtdWpAZmLrjiYxuQEkVQVkl0qCNStM4f5PR+qSy31Uo4K64cVzz1Ez4rhdVNVyG7hdOVy8mhtWJutbVFNpsioUBR51ZlXsoonby6cWPfLSUZ0aenLhnX+M\/7Zxwk9zdZ1cceqyO84d+fonFNppjj1TT2cXxscrd3wzl8bzbj6hq480kXrFyxsqLolxSY1dt4TdVDHFrq6a0zkDnfaWNfa2IMWaZbsYUVqMtSiljFjrEyiDl1Xo3Iqo59Dq6gOXVccW6SATFrSxKKyKIM0kVcYIjtMrcZLXLXl6ePj9X6+0quvFjqT+79t8sxskvuM82eMsmH0v67MJnb7ZVOaY4YTU9vNOHtO2nr+Rw5\/qmV9OXFjbJJ5NMcf\/Gyy8yOeXDlPp9H9v6cbjY8\/L8nCcXW+1lMeC7l0lum+TkmXmRxyy23GWu8H",
+        "ts": "1627321074.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"MONNIFY \/ Nellobyte-070\\\",\\\"beneficiaryAccountNumber\\\":\\\"7484653728\\\",\\\"beneficiaryBank\\\":\\\"000017\\\",\\\"transactionAmount\\\":\\\"250\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"07068063494-1627321077112\\\"}\"]",
+        "ts": "1627321077.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"07068063494-1627321077112\\\",\\\"sessionId\\\":\\\"000023210726183746005009822260\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1627321079.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348053433650\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 742 172\\\"}\"]",
+        "ts": "1627321749.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627321750.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"MONNIFY \/ Nellobyte-070\\\",\\\"beneficiaryAccountNumber\\\":\\\"7484653728\\\",\\\"beneficiaryBank\\\":\\\"000017\\\",\\\"transactionAmount\\\":\\\"9\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"07068063494-1627322256206\\\"}\"]",
+        "ts": "1627322256.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"07068063494-1627322256206\\\",\\\"sessionId\\\":\\\"000023210726185725005009823197\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1627322259.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348114222678\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 135 341\\\"}\"]",
+        "ts": "1627325672.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627325673.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS SETTLEMENT INFO]:\",\"{\\\"sessionId\\\":\\\"110006210726192138007048805501\\\",\\\"accountNumber\\\":\\\"9980342362\\\",\\\"tranRemarks\\\":\\\"FROM PAYSTACK\/ Paystack-Transfer from FairMoneyFairMoney\/110006210726192138007048805501\\\",\\\"transactionAmount\\\":\\\"4972\\\",\\\"settledAmount\\\":\\\"4972\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"null\\\",\\\"settlementId\\\":\\\"209210726001842000001\\\",\\\"sourceAccountNumber\\\":\\\"5050505053\\\",\\\"sourceAccountName\\\":\\\"Paystack\\\",\\\"sourceBankName\\\":\\\"PAYSTACK PAYMENTS LIMITED\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-07-26 20:20:18\\\"}\"]",
+        "ts": "1627327310.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347080089505\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 235 104\\\"}\"]",
+        "ts": "1627334137.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627334137.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348118540772\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 763 293\\\"}\"]",
+        "ts": "1627334350.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627334351.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348118540772\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 468 591\\\"}\"]",
+        "ts": "1627334387.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627334387.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349902996929\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 450 351\\\"}\"]",
+        "ts": "1627334398.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627334399.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348118540772\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 454 452\\\"}\"]",
+        "ts": "1627334401.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627334401.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349902996929\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 505 297\\\"}\"]",
+        "ts": "1627334455.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627334455.001200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2349902996929\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 780 679\\\"}\"]",
+        "ts": "1627334491.001300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":1}}\"]",
+        "ts": "1627334491.001400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347039334224\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 717 968\\\"}\"]",
+        "ts": "1627337646.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627337647.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348084217790\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 686 971\\\"}\"]",
+        "ts": "1627341699.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627341699.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348064990765\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 726 872\\\"}\"]",
+        "ts": "1627345709.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627345709.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2348129423143\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 444 344\\\"}\"]",
+        "ts": "1627349658.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627349659.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347033593547\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 815 226\\\"}\"]",
+        "ts": "1627364666.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627364667.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347068764859\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 708 501\\\"}\"]",
+        "ts": "1627366251.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627366251.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER PAYLOAD]:\",\"{\\\"beneficiaryAccountName\\\":\\\"KELECHI CALEB ITESHI\\\",\\\"beneficiaryAccountNumber\\\":\\\"2282810311\\\",\\\"beneficiaryBank\\\":\\\"000015\\\",\\\"transactionAmount\\\":\\\"30\\\",\\\"currencyCode\\\":\\\"NGN\\\",\\\"narration\\\":\\\"Wallet Withdrawal\\\",\\\"sourceAccountName\\\":\\\"LIBERTA LEASING LIMITED\\\",\\\"transactionReference\\\":\\\"07068063494-1627366938515\\\"}\"]",
+        "ts": "1627366938.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[PROVIDUS TRANSFER SUCCESS]:\",\"{\\\"transactionReference\\\":\\\"07068063494-1627366938515\\\",\\\"sessionId\\\":\\\"000023210727072218005009837446\\\",\\\"responseMessage\\\":\\\" Approved or completed successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1627366940.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS PAYLOAD]: {\\\"phone\\\":\\\"2347060523911\\\",\\\"message\\\":\\\"To continue your signup, use this OTP 483 743\\\"}\"]",
+        "ts": "1627368319.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[SMS SUCCESS]: {\\\"response\\\":{\\\"status\\\":\\\"SUCCESS\\\",\\\"totalsent\\\":1,\\\"cost\\\":2}}\"]",
+        "ts": "1627368319.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET PAYLOAD]:\",\"Ikemefuna  Eseka \",\"22191131576\"]",
+        "ts": "1627368542.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[WALLET SUCCESS]:\",\"{\\\"account_number\\\":\\\"9977725679\\\",\\\"account_name\\\":\\\"LIBERTA(Ikemefuna  Eseka )\\\",\\\"bvn\\\":\\\"22191131576\\\",\\\"requestSuccessful\\\":true,\\\"responseMessage\\\":\\\"Reserved Account Generated Successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1627368544.000600",
+        "bot_id": "B01RC3AKYG6"
+    }
+]

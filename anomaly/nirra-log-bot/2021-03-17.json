@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615987892.000200",
+        "user": "U01R3NY5CK1",
+        "text": "<@U01R3NY5CK1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "added an integration to this channel: <https:\/\/contatore.slack.com\/services\/B01RC3AKYG6|nirra-log-bot>",
+        "user": "U01R3NY5CK1",
+        "bot_id": "B01RC3AKYG6",
+        "bot_link": "<https:\/\/contatore.slack.com\/services\/B01RC3AKYG6|nirra-log-bot>",
+        "ts": "1615987978.000700"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615988443.000800",
+        "user": "U01RK2H3PC3",
+        "text": "<@U01RK2H3PC3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "fuck you",
+        "ts": "1615989308.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "did you see it",
+        "ts": "1615989320.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "{\"hello:world\"}",
+        "ts": "1615989415.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615991584.001200",
+        "user": "U01S8KHH996",
+        "text": "<@U01S8KHH996> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[URL]: 154.113.16.142:8088\/appdevapi\/api\/PiPCreateReservedAccountNumber\"]",
+        "ts": "1615999437.001300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[BODY]: undefined\"]",
+        "ts": "1615999437.001400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[ERROR]: {}\"]",
+        "ts": "1615999437.001500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[HEADER]: {\\\"Content-Type\\\":\\\"application\/json\\\",\\\"X-Auth-Signature\\\":\\\"be09bee831cf262226b426e39bd1092af84dc63076d4174fac78a2261f9a3d6e59744983b8326b69cdf2963fe314dfc89635cfa37a40596508dd6eaab09402c7\\\",\\\"Client-Id\\\":\\\"dGVzdF9Qcm92aWR1cw==\\\"}\"]",
+        "ts": "1615999437.001600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"{}\"]",
+        "ts": "1615999437.001700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"PAYLOAD\",{\"account_name\":\"ITA UKEMEABASI\",\"bvn\":\"22222524746\"}]",
+        "ts": "1615999437.001800",
+        "bot_id": "B01RC3AKYG6"
+    }
+]

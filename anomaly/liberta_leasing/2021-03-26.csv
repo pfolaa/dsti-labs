@@ -1,0 +1,4 @@
+type|subtype|text|ts|bot_id
+message|bot_message|"[info] - [""[SMS REPONSE]: {\""response\"":{\""status\"":\""SUCCESS\"",\""totalsent\"":1,\""cost\"":2}}""]"|1616757130.000100|B01RC3AKYG6
+message|bot_message|"[info] - [""[SMS REPONSE]: {\""response\"":{\""status\"":\""SUCCESS\"",\""totalsent\"":1,\""cost\"":2}}""]"|1616798543.000100|B01RC3AKYG6
+message|bot_message|"[info] - [""[VTPASS]:"",""\""Invalid credentials.\""""]"|1616799865.000100|B01RC3AKYG6

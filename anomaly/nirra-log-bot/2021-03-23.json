@@ -1,0 +1,135 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"Settlement 202210301006807600001432 already exists!\"]",
+        "ts": "1616497156.000100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042103011805345648005069266636442357859509\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807600001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616497156.000200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042103011805345648005069266636442357859508\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807600001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616497165.000300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"Settlement 202210301006807600001432 already exists!\"]",
+        "ts": "1616497165.000400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"Settlement 202210301006807600001432 already exists!\"]",
+        "ts": "1616497172.000500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042103011805345648005069266636442357859507\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807600001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616497172.000600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"Settlement 202210301006807600001432 already exists!\"]",
+        "ts": "1616497177.000700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042103011805345648005069266636442357959507\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807600001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616497177.000800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042105011805345648005069266636442357959507\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807600001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616497184.000900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"Settlement 202210301006807600001432 already exists!\"]",
+        "ts": "1616497184.001000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042105011805347648005069266636442357959507\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807600001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616497190.001100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"Settlement 202210301006807600001432 already exists!\"]",
+        "ts": "1616497190.001200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042105011805347648005069267736442357959507\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807600001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616497198.001300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"Settlement 202210301006807600001432 already exists!\"]",
+        "ts": "1616497198.001400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042105011805347648005069267736442357959507\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807600001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616497199.001500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"Settlement 202210301006807600001432 already exists!\"]",
+        "ts": "1616497199.001600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042105011805347648005069267736442357959507\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807601001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616497212.001700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"{\\\"sessionId\\\":\\\"0000042105011805347648005069267736442357959507\\\",\\\"accountNumber\\\":\\\"9945500556\\\",\\\"tranRemarks\\\":\\\"FROM UBA\/ CASAFINA CREDIT-EASY LOAN-NIP\/SEYI OLUFEMI\/CASAFINA CAP\/0000042103015656180548005069266636\\\",\\\"transactionAmount\\\":\\\"1\\\",\\\"settledAmount\\\":\\\"1\\\",\\\"feeAmount\\\":\\\"0\\\",\\\"vatAmount\\\":\\\"0\\\",\\\"currency\\\":\\\"NGN\\\",\\\"initiationTranRef\\\":\\\"\\\",\\\"settlementId\\\":\\\"202210301006807601001432\\\",\\\"sourceAccountNumber\\\":\\\"2093566866\\\",\\\"sourceAccountName\\\":\\\"CASAFINA CREDIT-EASY LOAN\\\",\\\"sourceBankName\\\":\\\"UNITED BANK FOR AFRICA\\\",\\\"channelId\\\":\\\"1\\\",\\\"tranDateTime\\\":\\\"2021-03-01 18:06:20\\\"}\"]",
+        "ts": "1616497222.001800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"Settlement 202210301006807601001432 already exists!\"]",
+        "ts": "1616497222.001900",
+        "bot_id": "B01RC3AKYG6"
+    }
+]

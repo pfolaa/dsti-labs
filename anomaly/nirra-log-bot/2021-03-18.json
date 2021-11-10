@@ -1,0 +1,86 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[ERROR]: {}\"]",
+        "ts": "1616127409.001900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[HEADER]: {\\\"Content-Type\\\":\\\"application\/json\\\",\\\"X-Auth-Signature\\\":\\\"be09bee831cf262226b426e39bd1092af84dc63076d4174fac78a2261f9a3d6e59744983b8326b69cdf2963fe314dfc89635cfa37a40596508dd6eaab09402c7\\\",\\\"Client-Id\\\":\\\"dGVzdF9Qcm92aWR1cw==\\\"}\"]",
+        "ts": "1616127409.002000",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[URL]: 154.113.16.142:8088\/appdevapi\/api\/PiPCreateReservedAccountNumber\"]",
+        "ts": "1616127409.002100",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"PAYLOAD\",{\"account_name\":\"ITA UKEMEABASI\",\"bvn\":\"22222524746\"}]",
+        "ts": "1616127409.002200",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[BODY]: undefined\"]",
+        "ts": "1616127409.002300",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"{}\"]",
+        "ts": "1616127409.002400",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[URL]: <http:\/\/154.113.16.142:8088\/appdevapi\/api\/PiPCreateReservedAccountNumber%22|http:\/\/154.113.16.142:8088\/appdevapi\/api\/PiPCreateReservedAccountNumber\">]",
+        "ts": "1616127486.002500",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[HEADER]: {\\\"Content-Type\\\":\\\"application\/json\\\",\\\"X-Auth-Signature\\\":\\\"be09bee831cf262226b426e39bd1092af84dc63076d4174fac78a2261f9a3d6e59744983b8326b69cdf2963fe314dfc89635cfa37a40596508dd6eaab09402c7\\\",\\\"Client-Id\\\":\\\"dGVzdF9Qcm92aWR1cw==\\\"}\"]",
+        "ts": "1616127486.002600",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"PAYLOAD\",{\"account_name\":\"ITA UKEMEABASI\",\"bvn\":\"22222524746\"}]",
+        "ts": "1616127486.002700",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"[ERROR]: null\"]",
+        "ts": "1616127547.002800",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[error] - [\"{\\\"account_number\\\":\\\"9977581206\\\",\\\"account_name\\\":\\\"MERCHANT(ITA UKEMEABASI)\\\",\\\"bvn\\\":\\\"22222524746\\\",\\\"requestSuccessful\\\":true,\\\"responseMessage\\\":\\\"Reserved Account Generated Successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1616127547.002900",
+        "bot_id": "B01RC3AKYG6"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "[info] - [\"[BODY]: {\\\"account_number\\\":\\\"9977581206\\\",\\\"account_name\\\":\\\"MERCHANT(ITA UKEMEABASI)\\\",\\\"bvn\\\":\\\"22222524746\\\",\\\"requestSuccessful\\\":true,\\\"responseMessage\\\":\\\"Reserved Account Generated Successfully\\\",\\\"responseCode\\\":\\\"00\\\"}\"]",
+        "ts": "1616127547.003000",
+        "bot_id": "B01RC3AKYG6"
+    }
+]

@@ -1,0 +1,14 @@
+type|subtype|ts|user|text|bot_id|bot_link
+message|channel_join|1615987892.000200|U01R3NY5CK1|<@U01R3NY5CK1> has joined the channel||
+message|bot_add|1615987978.000700|U01R3NY5CK1|"added an integration to this channel: <https://contatore.slack.com/services/B01RC3AKYG6|nirra-log-bot>"|B01RC3AKYG6|"<https://contatore.slack.com/services/B01RC3AKYG6|nirra-log-bot>"
+message|channel_join|1615988443.000800|U01RK2H3PC3|<@U01RK2H3PC3> has joined the channel||
+message|bot_message|1615989308.000900||fuck you|B01RC3AKYG6|
+message|bot_message|1615989320.001000||did you see it|B01RC3AKYG6|
+message|bot_message|1615989415.001100||"{""hello:world""}"|B01RC3AKYG6|
+message|channel_join|1615991584.001200|U01S8KHH996|<@U01S8KHH996> has joined the channel||
+message|bot_message|1615999437.001300||"[info] - [""[URL]: 154.113.16.142:8088/appdevapi/api/PiPCreateReservedAccountNumber""]"|B01RC3AKYG6|
+message|bot_message|1615999437.001400||"[info] - [""[BODY]: undefined""]"|B01RC3AKYG6|
+message|bot_message|1615999437.001500||"[error] - [""[ERROR]: {}""]"|B01RC3AKYG6|
+message|bot_message|1615999437.001600||"[info] - [""[HEADER]: {\""Content-Type\"":\""application/json\"",\""X-Auth-Signature\"":\""be09bee831cf262226b426e39bd1092af84dc63076d4174fac78a2261f9a3d6e59744983b8326b69cdf2963fe314dfc89635cfa37a40596508dd6eaab09402c7\"",\""Client-Id\"":\""dGVzdF9Qcm92aWR1cw==\""}""]"|B01RC3AKYG6|
+message|bot_message|1615999437.001700||"[error] - [""{}""]"|B01RC3AKYG6|
+message|bot_message|1615999437.001800||"[info] - [""PAYLOAD"",{""account_name"":""ITA UKEMEABASI"",""bvn"":""22222524746""}]"|B01RC3AKYG6|
